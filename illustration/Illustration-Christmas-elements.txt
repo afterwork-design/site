@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/b6b9b3fb96bb7a99.css",{"as":"style"}]
-0:["mzx3il3tGCvbAaYH3iW_A",[[["",{"children":["illustration",{"children":[["url","Illustration-Christmas-elements","d"],{"children":["__PAGE__?{\"url\":\"Illustration-Christmas-elements\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b6b9b3fb96bb7a99.css","precedence":"next"}]],"$L4"]]]]
+0:["9e19Aki_AUjQ_hfBBUZdh",[[["",{"children":["illustration",{"children":[["url","Illustration-Christmas-elements","d"],{"children":["__PAGE__?{\"url\":\"Illustration-Christmas-elements\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b6b9b3fb96bb7a99.css","precedence":"next"}]],"$L4"]]]]
 5:HL["/_next/static/css/452d1a48f7a5a102.css",{"as":"style"}]
 6:HL["/_next/static/css/3b383d93fe718c46.css",{"as":"style"}]
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-9d610600fbeef90c.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
