@@ -1,0 +1,72 @@
+1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/c196f2ae9d049422.css",{"as":"style"}]
+0:["9cJUlinMO2hZns_BNb8hH",[[["",{"children":["blog",{"children":[["url","sublime-setting","d"],{"children":["__PAGE__?{\"url\":\"sublime-setting\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c196f2ae9d049422.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/65440e9968963b4b.css",{"as":"style"}]
+6:HL["/_next/static/css/722458274767acf2.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-20be056577c63638.js","928:static/chunks/app/blog/[url]/page-52c1f2840e46b21a.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-20be056577c63638.js","928:static/chunks/app/blog/[url]/page-52c1f2840e46b21a.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_20951f","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["url","sublime-setting","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"sublime-setting\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65440e9968963b4b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/722458274767acf2.css","precedence":"next"}]]}],"segment":["url","sublime-setting","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://after-work.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["© 2019-",2023," Tang Weijuan"]}]]}]]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Sublime 个人常用配置 | 唐维娟"}],["$","meta","2",{"name":"description","content":"主要用于编写 Markdown 文件"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+d:T992,<h1>Sublime 个人常用配置</h1>
+<blockquote>
+<p>主要用于编写 Markdown。</p>
+</blockquote>
+<h2>自定义设置</h2>
+<pre><code>{
+    &quot;ignored_packages&quot;:
+    [
+        &quot;Markdown&quot;,
+        &quot;Vintage&quot;,
+    ],
+    &quot;font_size&quot;: 14,
+    &quot;font_face&quot;: &quot;Source Han Serif CN&quot;,
+    &quot;theme&quot;: &quot;Default.sublime-theme&quot;,
+    &quot;color_scheme&quot;: &quot;Meetio Lighter.sublime-color-scheme&quot;,
+}
+</code></pre><h2>常用插件</h2>
+<table>
+<thead>
+<tr>
+<th>插件</th>
+<th>功能</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Markdown Editing</td>
+<td>高亮 Markdown 语法</td>
+</tr>
+<tr>
+<td>Markdown Preview</td>
+<td>在浏览器中预览 Markdown</td>
+</tr>
+<tr>
+<td>LiveReload</td>
+<td>实时刷新预览</td>
+</tr>
+<tr>
+<td>Meetio Theme</td>
+<td>主题</td>
+</tr>
+</tbody></table>
+<h2>Sublime 实时预览 Markdown 的方法</h2>
+<p>此方法是在浏览器中预览 Markdown，需要插件 <code>Markdown Preview</code> 和 <code>LiveReload</code> 。</p>
+<ol>
+<li>安装 <code>Markdown Preview</code> 插件。</li>
+<li>设置预览快捷键。在 <code>Preferences</code> - <code>Key Bindings</code>中添加以下内容，即可通过快捷键 <code>Alt  m</code> 在浏览器中预览 Markdown：</li>
+</ol>
+<pre><code>[
+    { &quot;keys&quot;: [&quot;alt+m&quot;], &quot;command&quot;: &quot;markdown_preview&quot;, &quot;args&quot;: {&quot;target&quot;: &quot;browser&quot;, &quot;parser&quot;:&quot;markdown&quot;}  }
+]
+</code></pre><ol start="3">
+<li>安装 <code>LiveReload</code> 插件。不安装这个插件的话，文件修改后，需要手动刷新浏览器才能预览修改后的文件。</li>
+<li>启用实时刷新预览。按快捷键 <code>Ctrl Shift P</code> ，输入 <code>LiveReload:Enable/disable plug-ins</code> ，选择 <code>Enable - Simple Reload</code> 。</li>
+</ol>
+<p><img src="https://tangweijuan.github.io/blog/image/livereload-enable.png" alt="livereload-enable"></p>
+<p><img src="https://tangweijuan.github.io/blog/image/enable-simple-reload.png" alt="enable-simple-reload"></p>
+<h2>更换设备时如何快速迁移配置</h2>
+<p>将原设备中 <code>C:\Users\用户名\AppData\Roaming\Sublime Text</code> 的 <code>Installed Packages</code> 和 <code>Packages</code> 文件夹复制到新设备的相同目录下即可。</p>
+<p><img src="https://tangweijuan.github.io/blog/image/sublime-packages.png" alt="sublime-packages"></p>
+a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Home",{"href":"/","className":"Header_navItem__6nLSG","children":"Home"}],["$","$Lb","Blog",{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}],["$","$Lb","Project",{"href":"https://after-work.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]]}]]}],["$","div",null,{"className":"markdown-body","dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+9:null

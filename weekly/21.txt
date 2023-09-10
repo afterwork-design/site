@@ -1,0 +1,80 @@
+1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/c196f2ae9d049422.css",{"as":"style"}]
+0:["9cJUlinMO2hZns_BNb8hH",[[["",{"children":["weekly",{"children":[["url","21","d"],{"children":["__PAGE__?{\"url\":\"21\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c196f2ae9d049422.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/65440e9968963b4b.css",{"as":"style"}]
+6:HL["/_next/static/css/9b4dba63f30c1d29.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_20951f","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","21","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"21\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65440e9968963b4b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9b4dba63f30c1d29.css","precedence":"next"}]]}],"segment":["url","21","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://after-work.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["© 2019-",2023," Tang Weijuan"]}]]}]]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.21：简单高效的远程工作、云看展、页脚设计 | 唐维娟"}],["$","meta","2",{"name":"description","content":"书籍分享:《重来2》；在线看展平台；网站页脚设计；工具分享"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+d:T14d1,<h1>Vol.21：简单高效的远程工作、云看展、页脚设计</h1>
+<p>Hello，大家好，这是我的周刊第21期，在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
+<hr>
+<p>&nbsp;</p>
+<h2>📚书籍</h2>
+<p><strong>《重来2》(Remote: Office Not Required)</strong></p>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-%E9%87%8D%E6%9D%A52.jpg" alt="重来2"></p>
+<blockquote>
+<ul>
+<li>副标题: 更为简单高效的远程工作方式</li>
+<li>作者: [美] 贾森·弗里德 / [丹] 戴维·海涅迈尔·汉森</li>
+</ul>
+</blockquote>
+<p>这本书是2014年出版的，作者自己的公司是一开始就实践了远程办公的方式，在这本书里，他指出了为什么需要远程办公、远程办公的局限性以及如何更好的远程工作。如今疫情爆发，远程办公成为了不得不做的模式，也许本书能提供一些启发。</p>
+<p>作者贾森·弗里德 (Jason Fried) 是美国软件公司 Basecamp 的联合创始人，Basecamp 原名 37signals，是以高效而闻名的软件公司。贾森倡导软件极简主义，相信简约之美，尊重简单和坦诚做事，并把这些思想运用到创业过程和产品开发之中，拥有一大批IT粉丝。戴维·海涅迈尔·汉森 (David Heinemeier Hansson)，出生于丹麦，编制并创建了网络开发框架 RubyonRails，此框架让无数程序员受益，被称为是程序员的“基本开发环境 (basic development environment)”。戴维和贾森一起创立了37signals。</p>
+<p>&nbsp;</p>
+<h2>🏛️云看展</h2>
+<p>疫情爆发，不能出门，那就在家云看展吧，这些博物馆官网提供了线上欣赏艺术作品的途径。</p>
+<p><strong><a href="https://www.vam.ac.uk/collections?type=featured">维多利亚与艾尔伯特博物馆</a></strong></p>
+<blockquote>
+<p>维多利亚与艾尔伯特博物馆 (Victoria and Albert Museum，通常缩写为V&amp;A)，位于伦敦，是世界上最大的装饰艺术和设计博物馆，建筑内的永久收藏品超过450万。为纪念艾尔伯特亲王和维多利亚女王而命名，它成立于1852年，已发展到覆盖0.05平方公里和145个画廊。它收藏有5000年历史的艺术品，从远古时代到现在，从欧洲、北美、亚洲到北非文化，遍布各洲。</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-vam.png" alt="维多利亚与艾尔伯特博物馆"></p>
+<p>&nbsp;</p>
+<p><strong><a href="https://www.artic.edu/collection">芝加哥艺术学院</a></strong></p>
+<blockquote>
+<p>芝加哥艺术学院 (the Art Institute of Chicago) 成立于 1879 年，是世界上主要的博物馆之一，收藏了来自不同地方、不同文化和不同时代的非凡收藏品。我们也是所有人积极学习的地方——致力于调查、创新、教育和对话——不断渴望更好的公共服务和公民参与。</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-anc.png" alt="芝加哥艺术学院"></p>
+<p>&nbsp;</p>
+<h2>📝文章</h2>
+<p><strong><a href="https://torquemag.io/2022/04/website-footer-content/?ref=webdesignernews.com">12 Content Elements to Add to Your Website Footer (+Examples)</a></strong></p>
+<blockquote>
+<p>作者：Nick Schäferhoff</p>
+</blockquote>
+<p>在网站设计中，页脚是一个很容易被忽视的地方，但实际上页脚是网站很重要的部分，它能为访问者提供相关信息，还能重新吸引浏览到页面底部准备离开的访问者。作者分享了12种可以添加到网站页脚的内容：</p>
+<ol>
+<li>快速导航</li>
+<li>搜索栏</li>
+<li>联系方式</li>
+<li>关于页面</li>
+<li>版权声明等法律信息</li>
+<li>账户链接</li>
+<li>社交媒体图标</li>
+<li>最近的帖子</li>
+<li>日历/即将发生的事件</li>
+<li>行动呼吁</li>
+<li>奖项、证书和合作伙伴</li>
+<li>Logo 和品牌形象</li>
+</ol>
+<p>&nbsp;</p>
+<h2>🔮工具</h2>
+<p><strong><a href="https://datav.aliyun.com/portal/school/atlas/area_selector">地图矢量图</a></strong></p>
+<p>支持多种数据格式，包括 json、svg 等。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-datav.png" alt="地图矢量图"></p>
+<p>&nbsp;</p>
+<p><strong><a href="https://hype4.academy/tools/glassmorphism-generator">磨砂玻璃效果生成器</a></strong></p>
+<p>在线调节生成磨砂玻璃效果，可直接复制CSS。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-%E7%A3%A8%E7%A0%82%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C1.png" alt="磨砂玻璃效果"></p>
+<p>&nbsp;</p>
+<p><strong><a href="https://neumorphism.io/#e0e0e0">新拟态效果生成器</a></strong></p>
+<p>曾经流行一时的新拟态效果，可以在这个网站在线预览效果，并自动生成CSS。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/21-%E6%96%B0%E6%8B%9F%E6%80%81%E6%95%88%E6%9E%9C.png" alt="新拟态效果"></p>
+<p>&nbsp;</p>
+<hr>
+<p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，同步更新于微信公众号&quot;Afterwork Time&quot;，欢迎扫描下方二维码订阅。</p>
+<p><img src="https://tangweijuan.github.io/about/image/afterworktime.png" alt="公众号 Afterwork Time"></p>
+a:["$","main",null,{"className":"page_page__FwYhn","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Home",{"href":"/","className":"Header_navItem__6nLSG","children":"Home"}],["$","$Lb","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lb","Project",{"href":"https://after-work.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]]}]]}],["$","div",null,{"className":"markdown-body","dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+9:null

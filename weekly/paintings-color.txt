@@ -1,0 +1,144 @@
+1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/c196f2ae9d049422.css",{"as":"style"}]
+0:["9cJUlinMO2hZns_BNb8hH",[[["",{"children":["weekly",{"children":[["url","paintings-color","d"],{"children":["__PAGE__?{\"url\":\"paintings-color\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c196f2ae9d049422.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/65440e9968963b4b.css",{"as":"style"}]
+6:HL["/_next/static/css/9b4dba63f30c1d29.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_20951f","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","paintings-color","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"paintings-color\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65440e9968963b4b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9b4dba63f30c1d29.css","precedence":"next"}]]}],"segment":["url","paintings-color","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://after-work.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["© 2019-",2023," Tang Weijuan"]}]]}]]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.29：那些配色独特的名画 | 唐维娟"}],["$","meta","2",{"name":"description","content":"一些颜色搭配比较特别的大师画作。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+d:T1892,<h1>Vol.29：那些配色独特的名画</h1>
+<p>你好，欢迎阅读我的周刊第29期。在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
+<hr>
+<p>本周分享一些颜色搭配比较特别的大师画作。</p>
+<h3>莫兰迪静物系列（Natura morta）</h3>
+<blockquote>
+<p>布面油画</p>
+</blockquote>
+<p>我们常常听到的莫兰迪色其实是来自于意大利著名画家乔治·莫兰迪，他的画作最大的特点是安静。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-natura-morta.jpg" alt="静物"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏻‍♂️乔治·莫兰迪（Giorgio Morandi）</li>
+<li>📍意大利</li>
+<li>📅1890-1964</li>
+<li>💡版画家、油画家</li>
+</ul>
+<p>莫兰迪最初沉迷于印象主义，对塞尚的静物和风景画颇感兴趣，也模仿过立体主义。在经过兴奋、茫然、探寻后，莫兰迪终于找到了属于自己的艺术道路，他开始了属于自己的艺术语言探索，以静物画著称，成为20世纪最受赞誉的画家之一。</p>
+<p>他的绘画几乎从来不用鲜亮的颜色，只是用些看似灰暗的中间色调来表现物象，一切不张不扬，静静地释放着最朴实的震撼力和直达内心的快乐与优雅。</p>
+<h3>奥维尔的绿色麦田（Green Wheat Fields. Auvers）</h3>
+<blockquote>
+<p>1890 - 布面油画</p>
+</blockquote>
+<p>个人最喜欢的一幅麦田系列。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-green.jpg" alt="奥维尔的绿色麦田"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏻‍♂️文森特·威廉·梵高（Vincent Willem van Gogh）</li>
+<li>📍荷兰</li>
+<li>📅1853-1890</li>
+<li>💡后印象派画家</li>
+</ul>
+<p>梵高对农民、对田野生活、对乡村田野风光有着很高的热情，他喜爱农民的一切，尤其是向日葵、麦田、莺尾花、豌豆花等。他经常选取这些散发着泥土清香的物象作为自己的绘画题材，在他短暂的艺术生涯中，梵高凭借着自己敏锐的艺术感知力深情地、细致地描绘着这些质朴、自然的风景、静物及人物。</p>
+<p>他的画作中的色彩都是较为奔放夸张的。</p>
+<h3>四季-夏（The seasons - Summer）</h3>
+<blockquote>
+<p>1898 - 彩色石版印刷</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-summer.jpg" alt="四季-夏"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️阿尔丰斯·穆夏（Alphonse Maria Mucha）</li>
+<li>📅1860 - 1939</li>
+<li>📍摩洛维亚（Moravia）</li>
+</ul>
+<h3>瓶花（Vase of Flowers）</h3>
+<blockquote>
+<p>1890</p>
+</blockquote>
+<p>非常惊艳的黄蓝撞色。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-vase-flowers.jpg" alt="瓶花"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️ 奥迪隆·雷东（Odilon Redon）</li>
+<li>📅 1840-1916</li>
+<li>📍 法国</li>
+<li>💡 象征主义画派</li>
+</ul>
+<h3>有红房子的花园（Garden With Red House）</h3>
+<blockquote>
+<p>1882 - 板面油画</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-garden-with-red-house.jpg" alt="有红房子的花园"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️ 爱德华·蒙克（Edvard Munch）</li>
+<li>📅 1863-1944</li>
+<li>📍 挪威</li>
+<li>💡 表现主义先驱</li>
+</ul>
+<h3>构成第八号（Composition VIII）</h3>
+<blockquote>
+<p>1923 - 布面油画</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-composition8.jpg" alt="构成第八号"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️ 瓦西里·康定斯基（Василий Кандинский Wassily Kandinsky ）</li>
+<li>📅 1866 - 1944</li>
+<li>📍 俄罗斯·莫斯科</li>
+<li>💡 抽象艺术的先驱之一</li>
+</ul>
+<h3>千里江山图(局部)</h3>
+<blockquote>
+<p>北宋 - 水墨画  青绿山水的代表作</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-qianlijiangshantu.jpg" alt="千里江山图"></p>
+<p>作者信息：</p>
+<ul>
+<li>王希孟</li>
+<li>📅 1096 - 1119（据传）</li>
+<li>📍 中国</li>
+<li>💡 北宋晚期著名画家，以仅有的一张画名垂千古</li>
+</ul>
+<h3>雪和阳光下的干草堆（Effect of Snow and Sun）</h3>
+<blockquote>
+<p>1891 - 布面油画</p>
+</blockquote>
+<p>能看出是五彩斑斓的白了。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-effect-of-snow-and-sun.jpg" alt="雪和阳光下的干草堆"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️ 奥斯卡-克劳德·莫奈（Oscar-Claude Monet）</li>
+<li>📅 1840 - 1926</li>
+<li>📍 法国</li>
+<li>💡 印象派代表人物</li>
+</ul>
+<h3>两只燕子（Deux Hirondelles）</h3>
+<blockquote>
+<p>1932 - 布面油画</p>
+</blockquote>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-deux-hirondelles.jpg" alt="两只燕子"></p>
+<p>作者信息：</p>
+<ul>
+<li>👱🏼‍♂️ 巴勃罗·毕加索（Pablo Picasso）</li>
+<li>📅 1881 - 1973</li>
+<li>📍 西班牙</li>
+<li>💡 立体主义、超现实主义</li>
+</ul>
+<h2>🔮资源推荐</h2>
+<h3>世界名画集</h3>
+<p>世界名画集是一款收集世界名画的 app，上面的画都是我从这个 app 中收集来的。app 里内容分类很细致，各个画派几乎都有，还可以根据场景查找。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-shijieminghuaji.jpg" alt="世界名画集"></p>
+<h3><a href="http://wxsecai.com">色采</a></h3>
+<p>也是最近用到的一个配色工具，我主要是用来采集图片中的配色。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-cover.jpg" alt="名画配色"></p>
+<p>它支持安卓、iOS、web 三个平台，更多用法可以到官网查看。</p>
+<p><img src="https://tangweijuan.github.io/weekly/image/29-secai.png" alt="色采"></p>
+<h2>&nbsp;</h2>
+<p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，同步更新于微信公众号&quot;Afterwork Time&quot;，欢迎扫描下方二维码订阅。</p>
+<p><img src="https://tangweijuan.github.io/about/image/afterworktime.png" alt="公众号 Afterwork Time"></p>
+a:["$","main",null,{"className":"page_page__FwYhn","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Home",{"href":"/","className":"Header_navItem__6nLSG","children":"Home"}],["$","$Lb","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lb","Project",{"href":"https://after-work.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]]}]]}],["$","div",null,{"className":"markdown-body","dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+9:null

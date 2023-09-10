@@ -1,0 +1,65 @@
+1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/c196f2ae9d049422.css",{"as":"style"}]
+0:["9cJUlinMO2hZns_BNb8hH",[[["",{"children":["weekly",{"children":[["url","19","d"],{"children":["__PAGE__?{\"url\":\"19\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c196f2ae9d049422.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/65440e9968963b4b.css",{"as":"style"}]
+6:HL["/_next/static/css/9b4dba63f30c1d29.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-c712e07cd9ba4db8.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-20be056577c63638.js","5:static/chunks/app/weekly/[url]/page-2cb214c3376ff5bb.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_20951f","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","19","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"19\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65440e9968963b4b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9b4dba63f30c1d29.css","precedence":"next"}]]}],"segment":["url","19","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://after-work.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["© 2019-",2023," Tang Weijuan"]}]]}]]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.19：巨人的方法；B站多元化 | 唐维娟"}],["$","meta","2",{"name":"description","content":"由邮件问答组成的一本书；高校教授开始入驻B站分享知识类视频。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","5",{"name":"next-size-adjust"}]]
+d:Tf74,<h1>Vol.19：巨人的方法 | B站多元化</h1>
+<p>Hello，大家好，这是我的周刊第19期，在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感、想法。</p>
+<hr>
+<h2>📖巨人的方法</h2>
+<p><img src="https://tangweijuan.github.io/weekly/image/19-%E5%B7%A8%E4%BA%BA%E7%9A%84%E6%96%B9%E6%B3%95.jpg" alt="巨人的方法"></p>
+<blockquote>
+<p>书名：《巨人的方法》</p>
+<p>作者：[美] 蒂姆·费里斯</p>
+</blockquote>
+<p>分享本周看的一本书，写作的形式挺新颖，名叫“巨人的方法”，但不是那种长篇的人物传记，而是通过邮件问答的方式，真诚地记录了作者和受访者之间的对话。</p>
+<p>作者通过邮件邀请了100多位各行各业的人物，问了他们11个相同的问题：</p>
+<ol>
+<li>你最常当作礼物送给他人的3本书是什么？</li>
+<li>最近有哪个100美元以内的产品带给你惊喜感吗？</li>
+<li>有没有某次你发自内心喜欢甚至感恩的“失败”？</li>
+<li>你长久以来坚持的人生准则是什么？</li>
+<li>你做过的最有价值的投资是什么？</li>
+<li>你有没有什么离经叛道的习惯？</li>
+<li>有没有某个信念、行为或习惯真正改善了你的生活？</li>
+<li>你会给刚刚毕业的大学生什么建议？你希望他们忽略什么建议？</li>
+<li>在你的专业领域里，你都听过哪些糟糕的建议？</li>
+<li>你如何拒绝不想浪费精力和时间的人和事？</li>
+<li>你用什么方法重拾专注力？</li>
+</ol>
+<p>虽然有些鸡汤式的内容，但对我来说，不感兴趣的内容可以忽略，了解到了一些有趣的人就够了，而且作者在介绍每一个人时，都列出了他们的社交媒体账号或个人网站，在他们的网站里，可以拓展阅读到更多有用的内容。</p>
+<p>一些启发：</p>
+<blockquote>
+<ul>
+<li>弄清楚问题所在以及原因，是我们在工作和生活中最好的投资。</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>太过注意反馈会改变你对自己产品的愿景，突然，你会觉得这不再是你的产品。</li>
+</ul>
+</blockquote>
+<hr>
+<h2>B站多元化</h2>
+<p>虽然bilibili早就不是原来那个二次元网站了，但我最近还发现一个现象，网站更加多元化了，一些高校教授都开始入驻，出现了越来越多的知识分享类视频。</p>
+<p><strong>1、<a href="https://space.bilibili.com/5679766?spm_id_from=333.337.0.0">王受之</a></strong></p>
+<p><img src="https://tangweijuan.github.io/weekly/image/19-%E7%8E%8B%E5%8F%97%E4%B9%8B.webp" alt="王受之"></p>
+<p>是的，就是那个写了横亘在大多数艺术设计类考生面前的一座大山——《世界现代设计史》的王受之先生。
+以前B站就有很多他讲课的视频，但都不知道是谁录的，现在老先生自己入驻B站，就是为了把更新的知识通过系统的视频分享出来。</p>
+<p><strong>2、<a href="https://space.bilibili.com/2011223359?spm_id_from=333.337.0.0">Prof. John Corbett</a></strong></p>
+<p><img src="https://tangweijuan.github.io/weekly/image/19-John-Corbett.webp" alt="John Corbett"></p>
+<p>John Corbett 是来自苏格兰的语言学老教授，分享一些苏格兰文学的采访和科普视频。</p>
+<p><strong>3、<a href="https://space.bilibili.com/2123780485?spm_id_from=333.337.0.0">柳冠中</a></strong></p>
+<p><img src="https://tangweijuan.github.io/weekly/image/19-%E6%9F%B3%E5%86%A0%E4%B8%AD.webp" alt="柳冠中"></p>
+<p>清华大学文科资深教授，被称为“中国工业设计之父”。</p>
+<hr>
+<p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，同步更新于微信公众号&quot;Afterwork Time&quot;，欢迎扫描下方二维码订阅。</p>
+<p><img src="https://tangweijuan.github.io/blog/image/old/20211001115216.jpg" alt="After Work Time"></p>
+a:["$","main",null,{"className":"page_page__FwYhn","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Home",{"href":"/","className":"Header_navItem__6nLSG","children":"Home"}],["$","$Lb","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lb","Project",{"href":"https://after-work.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]]}]]}],["$","div",null,{"className":"markdown-body","dangerouslySetInnerHTML":{"__html":"$d"}}]]}]
+9:null
