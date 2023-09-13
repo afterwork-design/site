@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/3627f1f8c99a2d81.css",{"as":"style"}]
-0:["NjWM2eTfk-3qVjWAp-Ib7",[[["",{"children":["illustration",{"children":[["url","Lesser-Heat","d"],{"children":["__PAGE__?{\"url\":\"Lesser-Heat\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3627f1f8c99a2d81.css","precedence":"next"}]],"$L4"]]]]
+0:["nPAXr3lsbl2G86Ysauk1r",[[["",{"children":["illustration",{"children":[["url","Lesser-Heat","d"],{"children":["__PAGE__?{\"url\":\"Lesser-Heat\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3627f1f8c99a2d81.css","precedence":"next"}]],"$L4"]]]]
 5:HL["/_next/static/css/6c8f58f6d0793c2c.css",{"as":"style"}]
 6:HL["/_next/static/css/a0321913e1860b06.css",{"as":"style"}]
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-fae806ee36f80c9a.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
