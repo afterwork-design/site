@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 Sep 2023 14:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 13:49:09 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Sep 2023 14:01:01 GMT</pubDate>
+        <pubDate>Fri, 22 Sep 2023 13:48:53 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素15】白露]]></title>
@@ -365,6 +365,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vol.44：最近状态，新发现的好用的事物]]></title>
+            <description><![CDATA[本期分享 7 条内容，包括生活状态、书籍、播客，还有美丽的天空。]]></description>
+            <link>/weekly/weekly-44</link>
+            <guid isPermaLink="false">/weekly/weekly-44</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.43：关于作品集的一些资料]]></title>

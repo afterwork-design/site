@@ -1,0 +1,62 @@
+1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/css/e1cbb3bb6be3c665.css",{"as":"style"}]
+0:["M_k2QrnKQFv_ib4dAg-9O",[[["",{"children":["weekly",{"children":[["url","weekly-44","d"],{"children":["__PAGE__?{\"url\":\"weekly-44\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e1cbb3bb6be3c665.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/57fda09ad61adce0.css",{"as":"style"}]
+6:HL["/_next/static/css/c34528d2df50272c.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-8c3028f51869de01.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-8c3028f51869de01.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-7cd85bc52e50ef0a.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-7cd85bc52e50ef0a.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","weekly-44","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"weekly-44\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/57fda09ad61adce0.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c34528d2df50272c.css","precedence":"next"}]]}],"segment":["url","weekly-44","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["© 2019-",2023," Tang Weijuan"]}]]}]]}]}],null]
+4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.44：最近状态，新发现的好用的事物 | 唐维娟"}],["$","meta","2",{"name":"description","content":"本期分享 7 条内容，包括生活状态、书籍、播客，还有美丽的天空。"}],["$","meta","3",{"name":"keywords","content":"个人网站,马斯克,纵横四海,巴别阅读,谁杀了她,天空"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","6",{"name":"next-size-adjust"}]]
+d:Tedd,<h1>Vol.44：最近状态，新发现的好用的事物</h1>
+<p>Hello，好久不见，欢迎阅读我的周刊第 44 期。</p>
+<p>最近好久没有更新了，一是因为工作比较忙，二是不知道该写什么，但既然保留了个人网站这个自留地，还是希望把它用起来，就想到什么就分享什么吧。</p>
+<hr>
+<ol>
+<li>个人网站改版。刚好腾讯云要过期了，也不想续费了，所以决定把网站迁移到免费的 github 上。趁此机会把网站重新设计了一下，因为最近沉迷于各种真皮活页本，就以此为灵感设计了网站的首页，终于让这个网站看起来独特一些了，还加了 RSS 功能，欢迎订阅。</li>
+</ol>
+<blockquote>
+<p><a href="https://tangweijuan.com/">https://tangweijuan.com/</a></p>
+</blockquote>
+<p><img src="../assests/weekly/image/44-site.jpg" alt="site"></p>
+<ol start="2">
+<li>最近刚出版的马斯克的自传，《埃隆·马斯克传》好像很火，这个这本书的作者也是《乔布斯传》的作者，感觉可以找来看一下。</li>
+</ol>
+<blockquote>
+<p><a href="https://book.douban.com/subject/36518892/">https://book.douban.com/subject/36518892/</a></p>
+</blockquote>
+<p><img src="../assests/weekly/image/44-elon-musk.jpg" alt="埃隆·马斯克传"></p>
+<ol start="3">
+<li>这周还发现了一个优质的中文播客，叫做纵横四海，是主播携隐Melody 创作的。令我惊讶的是，她的每一期播客竟然都长达三四个小时，而且不是那种多人闲聊节目，而是个人独白，我觉得能做到坚持更新，并且以这样的质量来更新是很难得的。</li>
+</ol>
+<blockquote>
+<p><a href="https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e">https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e</a></p>
+</blockquote>
+<p><img src="../assests/weekly/image/44-%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7.jpg" alt="纵横四海"></p>
+<ol start="4">
+<li><p>少看电视剧！开头说到今年没怎么更新，是因为没有时间，但我又仔细想了想，我好像有很多时间花在了看电视剧上，而且是一部电视剧几天就看完了。大多数电视剧并不好看，我还能看到大结局，也不知道是什么心理。</p>
+</li>
+<li><p>好看的天空。整理手机相册，发现今年有很多时候，天空都格外的好看，粉、紫、橘、红、蓝、白，简直就是一个天然的调色盘，让人忍不住要拍下来。</p>
+</li>
+</ol>
+<p><img src="../assests/weekly/image/44-sky.png" alt="sky"></p>
+<ol start="6">
+<li>巴别阅读。一个独立开发者开发的英文外刊阅读 APP。我总是对这种独立开发者做出来的东西偏爱一些，因为我觉得他们做东西的初衷没有那么功利化，大多数人都是根据自身的需求出发去做的，所以不容易有乱七八糟的功能。</li>
+</ol>
+<blockquote>
+<p><a href="https://babie.cc">https://babie.cc</a></p>
+</blockquote>
+<p><img src="../assests/weekly/image/44-babie.jpg" alt="巴别阅读"></p>
+<ol start="7">
+<li>《谁杀了她》：东野圭吾的悬疑小说，在上下班的地铁上，花两天看完了，看得很顺畅，但是结尾有点突然，到最后我也在问谁杀了她。</li>
+</ol>
+<blockquote>
+<p><a href="https://book.douban.com/subject/30210250/">https://book.douban.com/subject/30210250/</a></p>
+</blockquote>
+<p><img src="../assests/weekly/image/44-%E8%B0%81%E6%9D%80%E4%BA%86%E5%A5%B9.jpg" alt="谁杀了她"></p>
+<hr>
+<p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，同步更新于微信公众号&quot;Afterwork Time&quot;，欢迎扫描下方二维码订阅。</p>
+<p><img src="https://tangweijuan.github.io/about/image/afterworktime.png" alt="公众号 Afterwork Time"></p>
+a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":16,"height":16}]}]]}]]}],["$","div",null,{"className":"markdown-body","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/weekly/about-portfolio","children":["$","div",null,{"children":["上一篇：","Vol.43：关于作品集的一些资料"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
+9:null
