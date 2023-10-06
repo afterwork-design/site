@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Oct 2023 14:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:41:05 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Oct 2023 14:39:03 GMT</pubDate>
+        <pubDate>Fri, 06 Oct 2023 01:40:42 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素16】秋分]]></title>
@@ -379,6 +379,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vol.46：原创悖论、国庆见闻]]></title>
+            <description><![CDATA[本期主要是分享最近画画时遇到的困境和在国庆回重庆期间的一些感想。]]></description>
+            <link>/weekly/weekly-46</link>
+            <guid isPermaLink="false">/weekly/weekly-46</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.45：制造仪式感]]></title>
