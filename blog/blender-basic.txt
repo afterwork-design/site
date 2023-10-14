@@ -1,24 +1,30 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["fd2eBw62yh6AG2Ui2fbcI",[[["",{"children":["blog",{"children":[["url","blender-basic","d"],{"children":["__PAGE__?{\"url\":\"blender-basic\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
-5:HL["/_next/static/css/826cf4b693f815f1.css",{"as":"style"}]
-6:HL["/_next/static/css/c34528d2df50272c.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-b:I{"id":6685,"chunks":["451:static/chunks/451-6a45926f365d3691.js","928:static/chunks/app/blog/[url]/page-371046c8d705a630.js"],"name":"","async":false}
-c:I{"id":3222,"chunks":["451:static/chunks/451-6a45926f365d3691.js","928:static/chunks/app/blog/[url]/page-371046c8d705a630.js"],"name":"Image","async":false}
-3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["url","blender-basic","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"blender-basic\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/826cf4b693f815f1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c34528d2df50272c.css","precedence":"next"}]]}],"segment":["url","blender-basic","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
+0:["Yy375ku6wgppKx-RTAQLB",[[["",{"children":["blog",{"children":[["url","blender-basic","d"],{"children":["__PAGE__?{\"url\":\"blender-basic\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/9b74a1fe34a6154b.css",{"as":"style"}]
+6:HL["/_next/static/css/fd6c59e20b2ca8da.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","928:static/chunks/app/blog/[url]/page-1c9c088f136f81f9.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","928:static/chunks/app/blog/[url]/page-1c9c088f136f81f9.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["url","blender-basic","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"blender-basic\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9b74a1fe34a6154b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fd6c59e20b2ca8da.css","precedence":"next"}]]}],"segment":["url","blender-basic","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Blender基础操作 | 唐维娟"}],["$","meta","2",{"name":"description","content":"Blender 系列文章的第一篇，本篇主要介绍对视图和物体的基础操作。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-d:T1484,<h1>Blender 基础操作</h1>
-<p>Blender 系列文章是我在学习 Blender 过程中总结的一些笔记，我使用的版本为 Blender 3.2，主要学习源为：</p>
+d:T1719,
+                    <h1 id="Blender 基础操作">
+                        <a href="#Blender 基础操作">Blender 基础操作</a>
+                    </h1>
+                <p>Blender 系列文章是我在学习 Blender 过程中总结的一些笔记，我使用的版本为 Blender 3.2，主要学习源为：</p>
 <ol>
 <li><a href="https://docs.blender.org/manual/zh-hans/4.0/index.html">官方文档 Blender 4.0 Manual</a></li>
 <li><a href="https://www.bilibili.com/video/BV14u41147YH?p=1&vd_source=6546622e168eb1d92cd784a5dac6cfa6">中文教程</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp">英文教程</a></li>
 </ol>
 <p>文章中快捷键均指的在 Windows 系统中，一般来说，在 macOS 系统中可使用 Cmd 替代 Ctrl 。</p>
-<h2>控制视图</h2>
-<ul>
+
+                    <h2 id="控制视图">
+                        <a href="#控制视图">控制视图</a>
+                    </h2>
+                <ul>
 <li>旋转视角：中键拖拽</li>
 <li>移动视角：Shift 中键拖拽</li>
 <li>缩放视角：滚轮或 +、-</li>
@@ -39,8 +45,11 @@ d:T1484,<h1>Blender 基础操作</h1>
 <p><strong>调整摄像机位置角度</strong></p>
 <p>先按 <code>N</code> 调出侧栏，在 <code>View</code> 面板中勾选 <code>Lock Camera to View</code>，再调整视图。调整好后记得取消勾选 <code>Lock Camera to View</code> 。</p>
 <p><img src="../assests/blog/image/lock-camera.png" alt="锁定相机视图"></p>
-<h2>控制物体</h2>
-<ul>
+
+                    <h2 id="控制物体">
+                        <a href="#控制物体">控制物体</a>
+                    </h2>
+                <ul>
 <li>移动物体：G</li>
 <li>旋转物体：R</li>
 <li>缩放物体：S</li>
@@ -65,8 +74,11 @@ d:T1484,<h1>Blender 基础操作</h1>
 <li>全选：A</li>
 </ul>
 <p>按住 Shift 加选、减选</p>
-<h2>调整区域</h2>
-<p><strong>改变大小：</strong> 移动鼠标光标移到两个区域之间的边界，直到它变成一个双向箭头，然后按下左键并拖动。</p>
+
+                    <h2 id="调整区域">
+                        <a href="#调整区域">调整区域</a>
+                    </h2>
+                <p><strong>改变大小：</strong> 移动鼠标光标移到两个区域之间的边界，直到它变成一个双向箭头，然后按下左键并拖动。</p>
 <p><img src="../assests/blog/image/areas_resize.png" alt="改变大小"></p>
 <p><strong>拆分：</strong> 分割一个区域将创建一个新的区域。将鼠标光标放在一个区域的角上，光标会变成一个十字（+），然后按下左键就会激活分割或连接。从一个区域的角向内拖动将该区域拆分。你可以通过水平或垂直拖动来定义分割方向。</p>
 <p><img src="../assests/blog/image/areas_split.png" alt="拆分"></p>
@@ -75,8 +87,11 @@ d:T1484,<h1>Blender 基础操作</h1>
 <p><strong>区域选项：</strong> 在区域边界按右键打开区域选项。可选择垂直分割、水平分割、合并区域、对调区域。</p>
 <p><img src="../assests/blog/image/areas_options.png" alt="区域选项"></p>
 <p><strong>切换区域最大化：</strong> Ctrl 空格</p>
-<h2>模型编辑</h2>
-<ul>
+
+                    <h2 id="模型编辑">
+                        <a href="#模型编辑">模型编辑</a>
+                    </h2>
+                <ul>
 <li>切换编辑/物体模式：Tab</li>
 <li>编辑模式下切换点/线/面选择模式：1/2/3 （开启模拟数字键盘后，无法使用数字键切换选择模式，可直接点击对应的图标按钮进行切换）</li>
 <li>切换透视/正常模式：Alt Z</li>
@@ -95,5 +110,5 @@ d:T1484,<h1>Blender 基础操作</h1>
 <hr>
 <p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，支持 <a href="https://tangweijuan.com/rss.xml">RSS 订阅</a>，同步更新于微信公众号「Afterwork Time」，欢迎扫描下方二维码订阅。</p>
 <p><img src="https://tangweijuan.github.io/about/image/afterworktime.png" alt="公众号 Afterwork Time"></p>
-a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2023-10-7"}]]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/4-table-editing-modes","children":["$","div",null,{"children":["上一篇：","表格设计——四种表格编辑方式"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
+a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"page_content__PBw2Z","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2023-10-7"}]]}]]}],["$","div",null,{"className":"page_nav__pknmj","children":["$","div",null,{"className":"TOC_toc__wmjkY","children":[null,["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#控制视图","children":"控制视图"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#控制物体","children":"控制物体"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#调整区域","children":"调整区域"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#模型编辑","children":"模型编辑"}]}]]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/4-table-editing-modes","children":["$","div",null,{"children":["上一篇：","表格设计——四种表格编辑方式"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
 9:null

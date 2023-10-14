@@ -1,36 +1,60 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["fd2eBw62yh6AG2Ui2fbcI",[[["",{"children":["weekly",{"children":[["url","design-knowledge","d"],{"children":["__PAGE__?{\"url\":\"design-knowledge\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
-5:HL["/_next/static/css/826cf4b693f815f1.css",{"as":"style"}]
-6:HL["/_next/static/css/c34528d2df50272c.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-b:I{"id":6685,"chunks":["451:static/chunks/451-6a45926f365d3691.js","5:static/chunks/app/weekly/[url]/page-bbf5cfdddb34711b.js"],"name":"","async":false}
-c:I{"id":3222,"chunks":["451:static/chunks/451-6a45926f365d3691.js","5:static/chunks/app/weekly/[url]/page-bbf5cfdddb34711b.js"],"name":"Image","async":false}
-3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","design-knowledge","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"design-knowledge\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/826cf4b693f815f1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c34528d2df50272c.css","precedence":"next"}]]}],"segment":["url","design-knowledge","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
+0:["Yy375ku6wgppKx-RTAQLB",[[["",{"children":["weekly",{"children":[["url","design-knowledge","d"],{"children":["__PAGE__?{\"url\":\"design-knowledge\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/9b74a1fe34a6154b.css",{"as":"style"}]
+6:HL["/_next/static/css/33aeb0e3034a8570.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-5780d3453f6779d3.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-5780d3453f6779d3.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","design-knowledge","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"design-knowledge\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9b74a1fe34a6154b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/33aeb0e3034a8570.css","precedence":"next"}]]}],"segment":["url","design-knowledge","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.2：一些设计冷知识 | 唐维娟"}],["$","meta","2",{"name":"description","content":"这些设计冷知识你知道几个呢？"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-d:T8b6,<h1>Vol.2：一些设计冷知识</h1>
-<p>本周分享7个设计冷知识。</p>
-<h2>1. 盲文字母表</h2>
-<p>盲文字母表由盲人法国人 Louis Braille 于 1821 年开发，使用 6 点单元格来创建字符。
+d:Td60,
+                    <h1 id="Vol.2：一些设计冷知识">
+                        <a href="#Vol.2：一些设计冷知识">Vol.2：一些设计冷知识</a>
+                    </h1>
+                <p>本周分享7个设计冷知识。</p>
+
+                    <h2 id="1. 盲文字母表">
+                        <a href="#1. 盲文字母表">1. 盲文字母表</a>
+                    </h2>
+                <p>盲文字母表由盲人法国人 Louis Braille 于 1821 年开发，使用 6 点单元格来创建字符。
 <img src="https://tangweijuan.github.io/weekly/image/Braille-alphabet.jpg" alt="Braille-alphabet"></p>
-<h2>2. 建筑字母表</h2>
-<p>设计师 Takenobu Igarashi 的等距字体演变成他称之为“建筑字母表”的雕塑。
+
+                    <h2 id="2. 建筑字母表">
+                        <a href="#2. 建筑字母表">2. 建筑字母表</a>
+                    </h2>
+                <p>设计师 Takenobu Igarashi 的等距字体演变成他称之为“建筑字母表”的雕塑。
 <img src="https://tangweijuan.github.io/weekly/image/Architectural-Alphabets.jpg" alt="Architectural-Alphabets"></p>
-<h2>3. 首张专辑封面设计</h2>
-<p>1939 年，Alex Steinweiss 为 Rodgers &amp; Hart 的“Smash Song Hits”完成了第一张专辑封面设计。
+
+                    <h2 id="3. 首张专辑封面设计">
+                        <a href="#3. 首张专辑封面设计">3. 首张专辑封面设计</a>
+                    </h2>
+                <p>1939 年，Alex Steinweiss 为 Rodgers &amp; Hart 的“Smash Song Hits”完成了第一张专辑封面设计。
 <img src="https://tangweijuan.github.io/weekly/image/Smash-Song-Hits.jpg" alt="Smash-Song-Hits"></p>
-<h2>4. 慕尼黑奥运会象形图</h2>
-<p>Otl Aicher 为 1972 年慕尼黑奥运会设计的象形图是使用严格的正交和对角方形网格创建的。
+
+                    <h2 id="4. 慕尼黑奥运会象形图">
+                        <a href="#4. 慕尼黑奥运会象形图">4. 慕尼黑奥运会象形图</a>
+                    </h2>
+                <p>Otl Aicher 为 1972 年慕尼黑奥运会设计的象形图是使用严格的正交和对角方形网格创建的。
 <img src="https://tangweijuan.github.io/weekly/image/Munich-Olympics.jpg" alt="Munich-Olympics"></p>
-<h2>5. Lazar Lissitzky</h2>
-<p>1921 年，俄罗斯设计师 Lazar Lissitzky 移居柏林，将建构主义和至上主义带到欧洲。
+
+                    <h2 id="5. Lazar Lissitzky">
+                        <a href="#5. Lazar Lissitzky">5. Lazar Lissitzky</a>
+                    </h2>
+                <p>1921 年，俄罗斯设计师 Lazar Lissitzky 移居柏林，将建构主义和至上主义带到欧洲。
 <img src="https://tangweijuan.github.io/weekly/image/Wendingen-cover.jpg" alt="Wendingen-cover"></p>
-<h2>6. 欧几里得的元素</h2>
-<p>创新书籍设计，“欧几里得的元素”使用颜色而不是标签来教授几何。
+
+                    <h2 id="6. 欧几里得的元素">
+                        <a href="#6. 欧几里得的元素">6. 欧几里得的元素</a>
+                    </h2>
+                <p>创新书籍设计，“欧几里得的元素”使用颜色而不是标签来教授几何。
 <img src="https://tangweijuan.github.io/weekly/image/The-Elements-of-Euclid.jpg" alt="The-Elements-of-Euclid"></p>
-<h2>7. Ethel Reed</h2>
-<p>Ethel Reed 生于 1876 年，是第一位获得广泛认可的平面设计师和插画家的美国女性。
+
+                    <h2 id="7. Ethel Reed">
+                        <a href="#7. Ethel Reed">7. Ethel Reed</a>
+                    </h2>
+                <p>Ethel Reed 生于 1876 年，是第一位获得广泛认可的平面设计师和插画家的美国女性。
 <img src="https://tangweijuan.github.io/weekly/image/Folly-or-Saintliness.jpg" alt="Folly-or-Saintliness"></p>
 <p>想了解更多可访问<a href="https://www.designfacts.org/">这个网站</a>。</p>
 <hr>

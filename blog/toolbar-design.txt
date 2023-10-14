@@ -1,26 +1,35 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["fd2eBw62yh6AG2Ui2fbcI",[[["",{"children":["blog",{"children":[["url","toolbar-design","d"],{"children":["__PAGE__?{\"url\":\"toolbar-design\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
-5:HL["/_next/static/css/826cf4b693f815f1.css",{"as":"style"}]
-6:HL["/_next/static/css/c34528d2df50272c.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-b:I{"id":6685,"chunks":["451:static/chunks/451-6a45926f365d3691.js","928:static/chunks/app/blog/[url]/page-371046c8d705a630.js"],"name":"","async":false}
-c:I{"id":3222,"chunks":["451:static/chunks/451-6a45926f365d3691.js","928:static/chunks/app/blog/[url]/page-371046c8d705a630.js"],"name":"Image","async":false}
-3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["url","toolbar-design","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"toolbar-design\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/826cf4b693f815f1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c34528d2df50272c.css","precedence":"next"}]]}],"segment":["url","toolbar-design","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
+0:["Yy375ku6wgppKx-RTAQLB",[[["",{"children":["blog",{"children":[["url","toolbar-design","d"],{"children":["__PAGE__?{\"url\":\"toolbar-design\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/9b74a1fe34a6154b.css",{"as":"style"}]
+6:HL["/_next/static/css/fd6c59e20b2ca8da.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","928:static/chunks/app/blog/[url]/page-1c9c088f136f81f9.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","928:static/chunks/app/blog/[url]/page-1c9c088f136f81f9.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["url","toolbar-design","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"toolbar-design\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9b74a1fe34a6154b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fd6c59e20b2ca8da.css","precedence":"next"}]]}],"segment":["url","toolbar-design","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"如何设计工具栏 | 唐维娟"}],["$","meta","2",{"name":"description","content":"前段时间工作中涉及到几个工具类应用的设计，设计过程中查找了一些资料，再加上自己在使用工具类应用的体验，在此聊聊工具栏的设计。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-d:T1a21,<h1>如何设计工具栏</h1>
-<p><img src="https://tangweijuan.github.io/blog/image/toolbar.png" alt="tools"></p>
+d:T1df2,
+                    <h1 id="如何设计工具栏">
+                        <a href="#如何设计工具栏">如何设计工具栏</a>
+                    </h1>
+                <p><img src="https://tangweijuan.github.io/blog/image/toolbar.png" alt="tools"></p>
 <p>前段时间工作中涉及到几个工具类应用的设计，设计过程中查找了一些资料，再加上自己在使用工具类应用的体验，在此聊聊工具栏的设计。</p>
-<h2>工具栏的作用与特点</h2>
-<p>工具栏的作用是使用户能快速访问常用功能，因此通常具有这些特点：</p>
+
+                    <h2 id="工具栏的作用与特点">
+                        <a href="#工具栏的作用与特点">工具栏的作用与特点</a>
+                    </h2>
+                <p>工具栏的作用是使用户能快速访问常用功能，因此通常具有这些特点：</p>
 <ul>
 <li>使用频率高：工具栏展示的都是最常用的功能，显然使用频率会很高。</li>
 <li>即时性：工具栏的命令通常都是点击后立即生效的。如最常见的保存、复制、粘贴等。</li>
 <li>数量有限：工具栏的命令都是直接摆在画面中的，因此占用空间大，数量必定也会有所限制，并且常用功能本身数量也有限，所以也没必要把所有的功能都放在工具栏。</li>
 </ul>
-<h2>工具栏内容</h2>
-<p>工具栏可以看做是一系列按钮、下拉菜单等组成的，按使用模式可以分为以下几类：</p>
+
+                    <h2 id="工具栏内容">
+                        <a href="#工具栏内容">工具栏内容</a>
+                    </h2>
+                <p>工具栏可以看做是一系列按钮、下拉菜单等组成的，按使用模式可以分为以下几类：</p>
 <p><strong>命令按钮</strong>：单击按钮立即操作。如：保存、复制。</p>
 <p><strong>模式按钮</strong>：单击按钮进入所选模式。如：调试。</p>
 <p><strong>属性按钮</strong>：属性按钮的状态反映了当前选定对象的状态。单击按钮将对所选对象应用更改。</p>
@@ -29,8 +38,11 @@ d:T1a21,<h1>如何设计工具栏</h1>
 与菜单按钮类似，按钮右边部分是一个小三角，点击即可展开更多命令。
 与菜单按钮不同的是点击拆分按钮的左边部分，将立即执行命令。在下一个命令可能与上一个命令相同的情况下，拆分按钮的效率就很高。如：颜色选择器、边框选择器</p>
 <p><strong>下拉列表</strong>：用于查看或更改选中对象的属性。如：字体</p>
-<h2>按钮图标</h2>
-<p>一个典型的工具栏通常都离不开图标，因为图标更易于快速阅读，也更节省空间。在设计工具栏的图标时，有几个要点需要注意：</p>
+
+                    <h2 id="按钮图标">
+                        <a href="#按钮图标">按钮图标</a>
+                    </h2>
+                <p>一个典型的工具栏通常都离不开图标，因为图标更易于快速阅读，也更节省空间。在设计工具栏的图标时，有几个要点需要注意：</p>
 <p>工具栏图标应尽量简洁，不要企图只使用图标就能把功能百分百表达出来，我们需要做到的是把图标做到容易辨识，再结合其他方式，如图标+文字、悬停提示，告知用户该按钮的功能。</p>
 <p>按钮又分为纯图标按钮和图标+文字的按钮。纯图标的好处是节省空间，但不易于表达按钮的准确用途；图标+文字的按钮和纯图标正相反，文字能准确表达按钮的用途，但同时会占用更大的空间。</p>
 <p><img src="https://tangweijuan.github.io/blog/image/Adobe-Acrobat-Pro-DC.png" alt="Adobe-Acrobat-Pro-DC">
@@ -40,13 +52,19 @@ d:T1a21,<h1>如何设计工具栏</h1>
 <p>具体取用哪种方式，还需根据软件的实际应用情况进行取舍，比如像打开、保存这类已经是在很多行业里通用的工具，就可以用纯图标的按钮，而如果是一些大众不熟知的功能，则最好使用图标+文字的按钮。</p>
 <p>工具栏图标常见的尺寸包含16px、24px、32px等，需结合整体功能和视觉效果去选择尺寸。</p>
 <p>最后还需要保证图标在不同按钮状态下的对比度足够高。</p>
-<h2>工具栏位置</h2>
-<p><strong>顶部放置</strong>：顶部放置是最常见的一种方式。</p>
+
+                    <h2 id="工具栏位置">
+                        <a href="#工具栏位置">工具栏位置</a>
+                    </h2>
+                <p><strong>顶部放置</strong>：顶部放置是最常见的一种方式。</p>
 <p><strong>侧边放置</strong>：在图形设计软件中比较常见，如Adobe Illustration、Adobe Photoshop。</p>
 <p><strong>不固定位置</strong>：根据当前选中的内容，就近显示不同的工具。很多文档软件会使用这种方式，这是语雀中的一个例子，当我选中一篇文档中的图片时，在图片位置上方会显示针对该图片操作的工具栏。</p>
 <p><img src="https://tangweijuan.github.io/blog/image/yuque-tool.png" alt="语雀图片工具栏"></p>
-<h2>其他设计要点</h2>
-<p><strong>功能分组</strong></p>
+
+                    <h2 id="其他设计要点">
+                        <a href="#其他设计要点">其他设计要点</a>
+                    </h2>
+                <p><strong>功能分组</strong></p>
 <p>同类型命令放置在同一组，不同组之间可用分割线隔开。破坏性命令不要与常用命令放在一起，防止误操作，比如保存和删除。</p>
 <p><img src="https://tangweijuan.github.io/blog/image/huatu.jpg" alt="功能分组"></p>
 <p><strong>明确按钮状态</strong></p>
@@ -55,8 +73,11 @@ d:T1a21,<h1>如何设计工具栏</h1>
 <p><strong>如何选择禁用或不显示</strong></p>
 <p>当前暂时不可用功能，按钮显示为灰色禁用状态，而不是直接隐藏。因为当用户习惯了工具的固定位置，某一工具消失时，会让人困惑，所以如果暂时不可用，使用置灰的方式更好，能让用户感知到哪些操作会禁用或启用该功能。</p>
 <p>如果是与权限有关的功能，比如有的功能只能 VIP 使用，那在普通用户界面，最好不显示 VIP 功能，可以在帮助或关于页面说明哪些功能与权限有关。</p>
-<h2>Ribbon 控件</h2>
-<p><img src="https://tangweijuan.github.io/blog/image/ribbons.png" alt="ribbons"></p>
+
+                    <h2 id="Ribbon 控件">
+                        <a href="#Ribbon 控件">Ribbon 控件</a>
+                    </h2>
+                <p><img src="https://tangweijuan.github.io/blog/image/ribbons.png" alt="ribbons"></p>
 <p>Ribbon 控件是微软在 Office 2007中开始应用的一种控件，是把菜单和工具栏相结合，将不同功能放在不同的选项卡。这种方式在 Office 软件中沿用至今。AutoCAD 从2010版本也开始使用 Ribbon 控件替代传统工具栏了。</p>
 <p>关于 Ribbon 控件的设计在微软官方的文档里有很详细的说明，见 <a href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons?redirectedfrom=MSDN">Windows 7 Ribbons</a>。</p>
 <p><strong>参考资料</strong></p>
@@ -67,5 +88,5 @@ d:T1a21,<h1>如何设计工具栏</h1>
 <hr>
 <p><strong>订阅：</strong> 本站所有内容首发于 <a href="https://tangweijuan.com">tangweijuan.com</a>，同步更新于微信公众号&quot;Afterwork Time&quot;，欢迎扫描下方二维码订阅。</p>
 <p><img src="https://tangweijuan.github.io/about/image/afterworktime.png" alt="公众号 Afterwork Time"></p>
-a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2022-6-12"}]]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/about-my-website","children":["$","div",null,{"children":["上一篇：","个人网站运营快一年了，都有哪些变化"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/sublime-setting","children":["$","div",null,{"children":["下一篇：","Sublime 个人常用配置"]}]}]}]]}]]}]
+a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"page_content__PBw2Z","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2022-6-12"}]]}]]}],["$","div",null,{"className":"page_nav__pknmj","children":["$","div",null,{"className":"TOC_toc__wmjkY","children":[null,["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#工具栏的作用与特点","children":"工具栏的作用与特点"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#工具栏内容","children":"工具栏内容"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#按钮图标","children":"按钮图标"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#工具栏位置","children":"工具栏位置"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#其他设计要点","children":"其他设计要点"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#Ribbon 控件","children":"Ribbon 控件"}]}]]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/about-my-website","children":["$","div",null,{"children":["上一篇：","个人网站运营快一年了，都有哪些变化"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/blog/sublime-setting","children":["$","div",null,{"children":["下一篇：","Sublime 个人常用配置"]}]}]}]]}]]}]
 9:null

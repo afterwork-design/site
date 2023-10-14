@@ -1,19 +1,28 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["fd2eBw62yh6AG2Ui2fbcI",[[["",{"children":["weekly",{"children":[["url","about-portfolio","d"],{"children":["__PAGE__?{\"url\":\"about-portfolio\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
-5:HL["/_next/static/css/826cf4b693f815f1.css",{"as":"style"}]
-6:HL["/_next/static/css/c34528d2df50272c.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-3d5cf83da2ab08e0.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
-b:I{"id":6685,"chunks":["451:static/chunks/451-6a45926f365d3691.js","5:static/chunks/app/weekly/[url]/page-bbf5cfdddb34711b.js"],"name":"","async":false}
-c:I{"id":3222,"chunks":["451:static/chunks/451-6a45926f365d3691.js","5:static/chunks/app/weekly/[url]/page-bbf5cfdddb34711b.js"],"name":"Image","async":false}
-3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","about-portfolio","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"about-portfolio\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/826cf4b693f815f1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/c34528d2df50272c.css","precedence":"next"}]]}],"segment":["url","about-portfolio","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
+0:["Yy375ku6wgppKx-RTAQLB",[[["",{"children":["weekly",{"children":[["url","about-portfolio","d"],{"children":["__PAGE__?{\"url\":\"about-portfolio\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+5:HL["/_next/static/css/9b74a1fe34a6154b.css",{"as":"style"}]
+6:HL["/_next/static/css/33aeb0e3034a8570.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-9a8ecfca5cc7c2d4.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
+b:I{"id":6685,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-5780d3453f6779d3.js"],"name":"","async":false}
+c:I{"id":3222,"chunks":["451:static/chunks/451-ba1a4ef5a62ff3bb.js","5:static/chunks/app/weekly/[url]/page-5780d3453f6779d3.js"],"name":"Image","async":false}
+3:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_e66fe9","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","weekly","children",["url","about-portfolio","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9","$La",null],"segment":"__PAGE__?{\"url\":\"about-portfolio\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9b74a1fe34a6154b.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/33aeb0e3034a8570.css","precedence":"next"}]]}],"segment":["url","about-portfolio","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lb",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Lc",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lb",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Lc",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lb",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Lc",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lb",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lb",null,{"href":"/blog","children":"Blog"}],["$","$Lb",null,{"href":"/weekly","children":"Weekly"}],["$","$Lb",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":[["$","span",null,{"children":["©2019-",2023," Tang Weijuan"]}],["$","a",null,{"href":"https://beian.miit.gov.cn/#/Integrated/index","target":"_blank","children":"皖ICP备2021002453号-3"}]]}]]}]]}]}],null]
 4:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.43：关于作品集的一些资料 | 唐维娟"}],["$","meta","2",{"name":"description","content":"最近发现浏览器书签又满了，是时候清理一波了，首先就清理【folio】这个文件夹。这是在年初找工作做作品集时用到的一些参考，现在他们已经完成使命，可以删掉了，但也许有其他人需要用到，就整理一下发出来吧。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-d:T1ea3,<h1>Vol.43：关于作品集的一些资料</h1>
-<p>最近发现浏览器书签又满了，是时候清理一波了，首先就清理【folio】这个文件夹。这是在年初找工作做作品集时用到的一些参考，现在他们已经完成使命，可以删掉了，但也许有其他人需要用到，就整理一下发出来吧。</p>
-<h2>一、文章</h2>
-<h3><strong>1. 设计师如何更加体系化准备作品集？我总结了这5个方面！</strong></h3>
-<p><a href="https://www.uisdc.com/systematic-portfolio">https://www.uisdc.com/systematic-portfolio</a></p>
+d:T3409,
+                    <h1 id="Vol.43：关于作品集的一些资料">
+                        <a href="#Vol.43：关于作品集的一些资料">Vol.43：关于作品集的一些资料</a>
+                    </h1>
+                <p>最近发现浏览器书签又满了，是时候清理一波了，首先就清理【folio】这个文件夹。这是在年初找工作做作品集时用到的一些参考，现在他们已经完成使命，可以删掉了，但也许有其他人需要用到，就整理一下发出来吧。</p>
+
+                    <h2 id="一、文章">
+                        <a href="#一、文章">一、文章</a>
+                    </h2>
+                
+                    <h3 id="%3Cstrong%3E1.%20%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%A6%82%E4%BD%95%E6%9B%B4%E5%8A%A0%E4%BD%93%E7%B3%BB%E5%8C%96%E5%87%86%E5%A4%87%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%9F%E6%88%91%E6%80%BB%E7%BB%93%E4%BA%86%E8%BF%995%E4%B8%AA%E6%96%B9%E9%9D%A2%EF%BC%81%3C/strong%3E">
+                        <a href="#%3Cstrong%3E1.%20%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%A6%82%E4%BD%95%E6%9B%B4%E5%8A%A0%E4%BD%93%E7%B3%BB%E5%8C%96%E5%87%86%E5%A4%87%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%9F%E6%88%91%E6%80%BB%E7%BB%93%E4%BA%86%E8%BF%995%E4%B8%AA%E6%96%B9%E9%9D%A2%EF%BC%81%3C/strong%3E"><strong>1. 设计师如何更加体系化准备作品集？我总结了这5个方面！</strong></a>
+                    </h3>
+                <p><a href="https://www.uisdc.com/systematic-portfolio">https://www.uisdc.com/systematic-portfolio</a></p>
 <ol>
 <li>了解岗位要求很重要：到招聘软件、公司官网了解岗位职能描述，提炼关键词，统计哪些是反复被提及的，哪些是自己擅长的。比如用户研究、协调能力、独立承担、设计系统等。</li>
 <li>作品集核心定位要突出：筛选完整度高、质量高的项目，不同项目侧重体现不同能力；一句话讲述你的核心优势，给自己打标签。</li>
@@ -21,8 +30,11 @@ d:T1ea3,<h1>Vol.43：关于作品集的一些资料</h1>
 <li>面试准备要充分：面试介绍除了基本信息，还要介绍工作的关键点，做了什么事，有什么成果，举例突出自己的差异点。面试后及时记录面试情况，比如公司情况、项目情况、团队构成、薪资待遇。</li>
 <li>提交流水与背调。</li>
 </ol>
-<h3><strong>2. B端作品集高薪指南</strong></h3>
-<p><a href="https://www.zcool.com.cn/article/ZMTQzMTkzNg==.html">https://www.zcool.com.cn/article/ZMTQzMTkzNg==.html</a></p>
+
+                    <h3 id="%3Cstrong%3E2.%20B%E7%AB%AF%E4%BD%9C%E5%93%81%E9%9B%86%E9%AB%98%E8%96%AA%E6%8C%87%E5%8D%97%3C/strong%3E">
+                        <a href="#%3Cstrong%3E2.%20B%E7%AB%AF%E4%BD%9C%E5%93%81%E9%9B%86%E9%AB%98%E8%96%AA%E6%8C%87%E5%8D%97%3C/strong%3E"><strong>2. B端作品集高薪指南</strong></a>
+                    </h3>
+                <p><a href="https://www.zcool.com.cn/article/ZMTQzMTkzNg==.html">https://www.zcool.com.cn/article/ZMTQzMTkzNg==.html</a></p>
 <p>**作品集搭建思路：**作品集项目介绍思路，STAR 法则，即 情景 (situation)、任务 (task)、行动 (action)、结果 (result)。</p>
 <ol>
 <li><strong>情景（项目背景）：</strong></li>
@@ -48,51 +60,99 @@ d:T1ea3,<h1>Vol.43：关于作品集的一些资料</h1>
 <p>项目结束带来了什么结果，用户反馈、数据验证、沉淀了什么样的设计规范。</p>
 <p><strong>通用能力</strong>：沉淀设计规范、团队管理能力、沟通协作能力、个人影响力。</p>
 <p>**作品集的视觉表现：**B 端设计师以专业、科技为主，与项目调性相符</p>
-<h3><strong>3. 大厂作品集攻略完整版 | 依靠这个作品集我成功进入大厂！</strong></h3>
-<p><a href="https://www.zcool.com.cn/article/ZMTQ1MzQwMA==.html">https://www.zcool.com.cn/article/ZMTQ1MzQwMA==.html</a></p>
+
+                    <h3 id="%3Cstrong%3E3.%20%E5%A4%A7%E5%8E%82%E4%BD%9C%E5%93%81%E9%9B%86%E6%94%BB%E7%95%A5%E5%AE%8C%E6%95%B4%E7%89%88%20%7C%20%E4%BE%9D%E9%9D%A0%E8%BF%99%E4%B8%AA%E4%BD%9C%E5%93%81%E9%9B%86%E6%88%91%E6%88%90%E5%8A%9F%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%8E%82%EF%BC%81%3C/strong%3E">
+                        <a href="#%3Cstrong%3E3.%20%E5%A4%A7%E5%8E%82%E4%BD%9C%E5%93%81%E9%9B%86%E6%94%BB%E7%95%A5%E5%AE%8C%E6%95%B4%E7%89%88%20%7C%20%E4%BE%9D%E9%9D%A0%E8%BF%99%E4%B8%AA%E4%BD%9C%E5%93%81%E9%9B%86%E6%88%91%E6%88%90%E5%8A%9F%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%8E%82%EF%BC%81%3C/strong%3E"><strong>3. 大厂作品集攻略完整版 | 依靠这个作品集我成功进入大厂！</strong></a>
+                    </h3>
+                <p><a href="https://www.zcool.com.cn/article/ZMTQ1MzQwMA==.html">https://www.zcool.com.cn/article/ZMTQ1MzQwMA==.html</a></p>
 <p>总结了作品集的要点。</p>
-<h3><strong>4. L60-设计师求职指南（作品篇）</strong></h3>
-<p><a href="https://mp.weixin.qq.com/s/YkJiBuLBjc_BX2Zns-6hsw">https://mp.weixin.qq.com/s/YkJiBuLBjc_BX2Zns-6hsw</a></p>
+
+                    <h3 id="%3Cstrong%3E4.%20L60-%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%B1%82%E8%81%8C%E6%8C%87%E5%8D%97%EF%BC%88%E4%BD%9C%E5%93%81%E7%AF%87%EF%BC%89%3C/strong%3E">
+                        <a href="#%3Cstrong%3E4.%20L60-%E8%AE%BE%E8%AE%A1%E5%B8%88%E6%B1%82%E8%81%8C%E6%8C%87%E5%8D%97%EF%BC%88%E4%BD%9C%E5%93%81%E7%AF%87%EF%BC%89%3C/strong%3E"><strong>4. L60-设计师求职指南（作品篇）</strong></a>
+                    </h3>
+                <p><a href="https://mp.weixin.qq.com/s/YkJiBuLBjc_BX2Zns-6hsw">https://mp.weixin.qq.com/s/YkJiBuLBjc_BX2Zns-6hsw</a></p>
 <p>大厂设计师落羽敬斋分享的求职作品攻略。</p>
-<h3><strong>5. 关于交互作品集的一些想法</strong></h3>
-<p><a href="https://mp.weixin.qq.com/s/XYg3P5quAn58rStgFyzLTA">https://mp.weixin.qq.com/s/XYg3P5quAn58rStgFyzLTA</a></p>
+
+                    <h3 id="%3Cstrong%3E5.%20%E5%85%B3%E4%BA%8E%E4%BA%A4%E4%BA%92%E4%BD%9C%E5%93%81%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95%3C/strong%3E">
+                        <a href="#%3Cstrong%3E5.%20%E5%85%B3%E4%BA%8E%E4%BA%A4%E4%BA%92%E4%BD%9C%E5%93%81%E9%9B%86%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95%3C/strong%3E"><strong>5. 关于交互作品集的一些想法</strong></a>
+                    </h3>
+                <p><a href="https://mp.weixin.qq.com/s/XYg3P5quAn58rStgFyzLTA">https://mp.weixin.qq.com/s/XYg3P5quAn58rStgFyzLTA</a></p>
 <p>功夫在平时：定期复盘，项目的资料一定要整理好，项目前后尽量多截几张产品图，然后写一个只给自己看的项目复盘。这样做的好处，就是当你需要更新作品集时，就可以很快地在现有资料的辅助下去完善它，而不用每次都从零开始。</p>
 <p>不要套路化：虽然设计方法有很多，但是每个项目都是根据实际情况去采取最合适的方法的，并不能生搬硬套拼凑方法论。</p>
 <p>学会讲故事：先用文字大纲描述每个项目，相当于写提纲，当整个提纲看下来通顺了，再将其视觉化。<strong>作品集的作用，就是帮助我们把自己以前做过的项目介绍给别人，告诉他们这个项目的背景，遇到了什么问题，我又是怎么解决问题的。</strong></p>
-<h2>二、展示</h2>
-<h3><strong>B端设计｜个人作品集</strong></h3>
-<p><a href="https://www.zcool.com.cn/work/ZNjM3NTkwNTI=.html?share_id=1787469097#kuak">https://www.zcool.com.cn/work/ZNjM3NTkwNTI=.html?share_id=1787469097#kuak</a></p>
+
+                    <h2 id="二、展示">
+                        <a href="#二、展示">二、展示</a>
+                    </h2>
+                
+                    <h3 id="%3Cstrong%3EB%E7%AB%AF%E8%AE%BE%E8%AE%A1%EF%BD%9C%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86%3C/strong%3E">
+                        <a href="#%3Cstrong%3EB%E7%AB%AF%E8%AE%BE%E8%AE%A1%EF%BD%9C%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86%3C/strong%3E"><strong>B端设计｜个人作品集</strong></a>
+                    </h3>
+                <p><a href="https://www.zcool.com.cn/work/ZNjM3NTkwNTI=.html?share_id=1787469097#kuak">https://www.zcool.com.cn/work/ZNjM3NTkwNTI=.html?share_id=1787469097#kuak</a></p>
 <p>完整的 B 端真实项目作品集。</p>
-<h3><strong>B端-业务为驱动的项目设计复盘</strong></h3>
-<p><a href="https://www.ui.cn/detail/627569.html">https://www.ui.cn/detail/627569.html</a></p>
+
+                    <h3 id="%3Cstrong%3EB%E7%AB%AF-%E4%B8%9A%E5%8A%A1%E4%B8%BA%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E5%A4%8D%E7%9B%98%3C/strong%3E">
+                        <a href="#%3Cstrong%3EB%E7%AB%AF-%E4%B8%9A%E5%8A%A1%E4%B8%BA%E9%A9%B1%E5%8A%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%E5%A4%8D%E7%9B%98%3C/strong%3E"><strong>B端-业务为驱动的项目设计复盘</strong></a>
+                    </h3>
+                <p><a href="https://www.ui.cn/detail/627569.html">https://www.ui.cn/detail/627569.html</a></p>
 <p>比较完整的 B 端作品，可参考包含的模块和描述方式。</p>
-<h3><strong>且曼B端设计优秀作品集（二）</strong></h3>
-<p><a href="https://www.ui.cn/detail/615855.html">https://www.ui.cn/detail/615855.html</a></p>
+
+                    <h3 id="%3Cstrong%3E%E4%B8%94%E6%9B%BCB%E7%AB%AF%E8%AE%BE%E8%AE%A1%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%88%E4%BA%8C%EF%BC%89%3C/strong%3E">
+                        <a href="#%3Cstrong%3E%E4%B8%94%E6%9B%BCB%E7%AB%AF%E8%AE%BE%E8%AE%A1%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%88%E4%BA%8C%EF%BC%89%3C/strong%3E"><strong>且曼B端设计优秀作品集（二）</strong></a>
+                    </h3>
+                <p><a href="https://www.ui.cn/detail/615855.html">https://www.ui.cn/detail/615855.html</a></p>
 <p>培训班培训出来的完整的 B 端作品集，做一点点参考吧。</p>
-<h3><strong>产品经理作品集</strong></h3>
-<p><a href="https://www.zcool.com.cn/work/ZNjQzMTcxMDA=.html">https://www.zcool.com.cn/work/ZNjQzMTcxMDA=.html</a></p>
+
+                    <h3 id="%3Cstrong%3E%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86%3C/strong%3E">
+                        <a href="#%3Cstrong%3E%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86%3C/strong%3E"><strong>产品经理作品集</strong></a>
+                    </h3>
+                <p><a href="https://www.zcool.com.cn/work/ZNjQzMTcxMDA=.html">https://www.zcool.com.cn/work/ZNjQzMTcxMDA=.html</a></p>
 <p>4 年 B 端产品经理的作品集，了解下产品经理怎么描述项目。</p>
-<h2>三、网站</h2>
-<h3><strong>Gapsy Studio</strong></h3>
-<p><a href="https://gapsystudio.com/cases/">https://gapsystudio.com/cases/</a></p>
+
+                    <h2 id="三、网站">
+                        <a href="#三、网站">三、网站</a>
+                    </h2>
+                
+                    <h3 id="%3Cstrong%3EGapsy%20Studio%3C/strong%3E">
+                        <a href="#%3Cstrong%3EGapsy%20Studio%3C/strong%3E"><strong>Gapsy Studio</strong></a>
+                    </h3>
+                <p><a href="https://gapsystudio.com/cases/">https://gapsystudio.com/cases/</a></p>
 <p>Gapsy Studio 是一家 web 和 apps 设计工作室，官网展示了很多实际案例，可以参考他们的案例是如何表达的。</p>
-<h3><strong>Designjoy</strong></h3>
-<p><a href="https://www.designjoy.co/#latest">https://www.designjoy.co/#latest</a></p>
+
+                    <h3 id="%3Cstrong%3EDesignjoy%3C/strong%3E">
+                        <a href="#%3Cstrong%3EDesignjoy%3C/strong%3E"><strong>Designjoy</strong></a>
+                    </h3>
+                <p><a href="https://www.designjoy.co/#latest">https://www.designjoy.co/#latest</a></p>
 <p>独立设计师的网站，包括 web 、apps、logo 等设计，设计作品链接到 Figma，可以直接预览。这种方式也是不错的制作在线作品集的思路。</p>
-<h3><strong>Pabueco</strong></h3>
-<p><a href="https://pabue.co/projects?t=personal">https://pabue.co/projects?t=personal</a></p>
+
+                    <h3 id="%3Cstrong%3EPabueco%3C/strong%3E">
+                        <a href="#%3Cstrong%3EPabueco%3C/strong%3E"><strong>Pabueco</strong></a>
+                    </h3>
+                <p><a href="https://pabue.co/projects?t=personal">https://pabue.co/projects?t=personal</a></p>
 <p>Web 开发者 Pascal 的个人网站，包含个人项目、实验性项目和客户项目。</p>
-<h3><strong>Muir</strong></h3>
-<p><a href="https://products.ls.graphics/muir/">https://products.ls.graphics/muir/</a></p>
+
+                    <h3 id="%3Cstrong%3EMuir%3C/strong%3E">
+                        <a href="#%3Cstrong%3EMuir%3C/strong%3E"><strong>Muir</strong></a>
+                    </h3>
+                <p><a href="https://products.ls.graphics/muir/">https://products.ls.graphics/muir/</a></p>
 <p>一个好看的网站。</p>
-<h3><strong>notefolio</strong></h3>
-<p><a href="https://notefolio.net/">https://notefolio.net/</a></p>
+
+                    <h3 id="%3Cstrong%3Enotefolio%3C/strong%3E">
+                        <a href="#%3Cstrong%3Enotefolio%3C/strong%3E"><strong>notefolio</strong></a>
+                    </h3>
+                <p><a href="https://notefolio.net/">https://notefolio.net/</a></p>
 <p>韩国的作品集展示网站，类似中国的站酷。</p>
-<h3><strong>Cofolios</strong></h3>
-<p><a href="https://www.cofolios.com/">https://www.cofolios.com/</a></p>
+
+                    <h3 id="%3Cstrong%3ECofolios%3C/strong%3E">
+                        <a href="#%3Cstrong%3ECofolios%3C/strong%3E"><strong>Cofolios</strong></a>
+                    </h3>
+                <p><a href="https://www.cofolios.com/">https://www.cofolios.com/</a></p>
 <p>国外知名公司的设计师平台，比如谷歌、苹果、微软、Airbnb、Adobe 等，能直接链接到设计师的个人网站。</p>
-<h3><strong>UI8</strong></h3>
-<p><a href="https://ui8.net/">https://ui8.net/</a></p>
+
+                    <h3 id="%3Cstrong%3EUI8%3C/strong%3E">
+                        <a href="#%3Cstrong%3EUI8%3C/strong%3E"><strong>UI8</strong></a>
+                    </h3>
+                <p><a href="https://ui8.net/">https://ui8.net/</a></p>
 <p>国外的作品集展示网站。</p>
 a:["$","main",null,{"className":"page_page__CVTNo","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/","children":["$","h2",null,{"children":["$","$Lc",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lb","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lb","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lb","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lb","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lb","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Lc",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2023-5-24"}]]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/weekly/42","children":["$","div",null,{"children":["上一篇：","Vol.42：如何区分春天那些花"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lb",null,{"href":"/weekly/weekly-44","children":["$","div",null,{"children":["下一篇：","Vol.44：最近状态，新发现的好用的事物"]}]}]}]]}]]}]
 9:null
