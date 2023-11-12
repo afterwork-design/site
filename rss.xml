@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Nov 2023 11:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 10:48:46 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Nov 2023 11:06:59 GMT</pubDate>
+        <pubDate>Sun, 12 Nov 2023 10:48:29 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2023, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素19】立冬]]></title>
@@ -740,6 +740,13 @@
             <link>/weekly/Illustration-art-design-sharing</link>
             <guid isPermaLink="false">/weekly/Illustration-art-design-sharing</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东京造 Keychron K2 键盘操作说明书]]></title>
+            <description><![CDATA[自用键盘使用说明]]></description>
+            <link>/blog/keychron-k2-manual</link>
+            <guid isPermaLink="false">/blog/keychron-k2-manual</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blender基础操作]]></title>

@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["a5j-RjVMRnNJtSbCPbc6s",[[["",{"children":["illustration",{"children":[["url","the-Beginning-of-Spring","d"],{"children":["__PAGE__?{\"url\":\"the-Beginning-of-Spring\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+0:["YdSRQ2v_1Ib6wQQNimtR5",[[["",{"children":["illustration",{"children":[["url","the-Beginning-of-Spring","d"],{"children":["__PAGE__?{\"url\":\"the-Beginning-of-Spring\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
 6:HL["/_next/static/css/a0321913e1860b06.css",{"as":"style"}]
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-4cd403c1e0e35c33.js","971:static/chunks/fd9d1056-a99b58d3cc150217.js","596:static/chunks/596-9d43875837bd0b65.js"],"name":"default","async":false}
