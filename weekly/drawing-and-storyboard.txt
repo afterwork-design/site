@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["/_next/static/css/c8c0bc0e800d8d09.css",{"as":"style"}]
-0:["megiuas_CE6QFFMjLGITI",[[["",{"children":["weekly",{"children":[["url","drawing-and-storyboard","d"],{"children":["__PAGE__?{\"url\":\"drawing-and-storyboard\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
+0:["N34EYRsybZyEzBUb1aLjC",[[["",{"children":["weekly",{"children":[["url","drawing-and-storyboard","d"],{"children":["__PAGE__?{\"url\":\"drawing-and-storyboard\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8c0bc0e800d8d09.css","precedence":"next"}]],"$L4"]]]]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
 6:HL["/_next/static/css/845d5afcc3c3f725.css",{"as":"style"}]
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-0417f4072019f111.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-19566c30eae76839.js"],"name":"default","async":false}
