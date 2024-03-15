@@ -1,4 +1,4 @@
-0:["nYFb6nyOXBGJ5zc1wcZwB",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","antirrhinum-majus","d"],{"children":["__PAGE__?{\"url\":\"antirrhinum-majus\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["2aRgxeSQ-2Apkl1FVsk_G",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","antirrhinum-majus","d"],{"children":["__PAGE__?{\"url\":\"antirrhinum-majus\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/2e4e93a26617ea5e.css",{"as":"style"}]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
