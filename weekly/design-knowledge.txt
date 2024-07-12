@@ -1,4 +1,4 @@
-0:["NWjVcE5rZgyr2NN_HtGFS",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","design-knowledge","d"],{"children":["__PAGE__?{\"url\":\"design-knowledge\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["4gr0ji3NCOjHx8czT06v4",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","design-knowledge","d"],{"children":["__PAGE__?{\"url\":\"design-knowledge\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/2e4e93a26617ea5e.css",{"as":"style"}]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
