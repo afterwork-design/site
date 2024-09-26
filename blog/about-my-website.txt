@@ -1,4 +1,4 @@
-0:["8abfgip0fZi9i4cUKqU-S",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","about-my-website","d"],{"children":["__PAGE__?{\"url\":\"about-my-website\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["V80s-AFbLBg3ubPApwp5F",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","about-my-website","d"],{"children":["__PAGE__?{\"url\":\"about-my-website\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/8d5e8e236416185b.css",{"as":"style"}]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
