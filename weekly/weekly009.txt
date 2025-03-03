@@ -1,10 +1,10 @@
-0:["NYJ8MAjDocH9N7g60FXgX",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","weekly009","d"],{"children":["__PAGE__?{\"url\":\"weekly009\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["DTrxhAGvD0sJuONzO4rif",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","weekly009","d"],{"children":["__PAGE__?{\"url\":\"weekly009\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/c9f7c177883c23eb.css",{"as":"style"}]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
 6:HL["/_next/static/css/1b5f89c6434e6b6b.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-b774e512c1e2434b.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-b774e512c1e2434b.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b45d510056fffc4.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b45d510056fffc4.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-5f838e284429e38a.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-b58ef061ab7626f5.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-b58ef061ab7626f5.js"],"name":"Image","async":false}
