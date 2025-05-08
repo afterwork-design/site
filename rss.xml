@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2025 08:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 06:58:05 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Mar 2025 08:31:57 GMT</pubDate>
+        <pubDate>Thu, 08 May 2025 06:57:49 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -831,6 +831,13 @@
             <link>/blog/little-big-books-illustrator</link>
             <guid isPermaLink="false">/blog/little-big-books-illustrator</guid>
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[独立博客自省问卷]]></title>
+            <description><![CDATA[通过 15 个问题回答自己对博客的理解。]]></description>
+            <link>/blog/blog-questionnaire-2024</link>
+            <guid isPermaLink="false">/blog/blog-questionnaire-2024</guid>
+            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[体验设计走查表]]></title>
