@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 06:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 09:19:37 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 May 2025 06:57:49 GMT</pubDate>
+        <pubDate>Thu, 15 May 2025 09:19:20 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -817,6 +817,13 @@
             <link>/blog/some-ui-design-styles-to-try</link>
             <guid isPermaLink="false">/blog/some-ui-design-styles-to-try</guid>
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工程图基础知识]]></title>
+            <description><![CDATA[工程图学习笔记]]></description>
+            <link>/blog/basic-knowledge-of-engineering-drawing</link>
+            <guid isPermaLink="false">/blog/basic-knowledge-of-engineering-drawing</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024年阅读记录]]></title>
