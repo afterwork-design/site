@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 09:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 09:55:11 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 May 2025 09:19:20 GMT</pubDate>
+        <pubDate>Thu, 15 May 2025 09:54:54 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -852,6 +852,13 @@
             <link>/blog/ux-design-check-list</link>
             <guid isPermaLink="false">/blog/ux-design-check-list</guid>
             <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[直接建模 vs 基于历史的参数化建模]]></title>
+            <description><![CDATA[三维建模软件调研笔记。]]></description>
+            <link>/blog/direct-modeling-vs-history-based-parametric-modeling</link>
+            <guid isPermaLink="false">/blog/direct-modeling-vs-history-based-parametric-modeling</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Figma 设计轻 3D 效果图标教程]]></title>
