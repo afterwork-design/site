@@ -1,0 +1,105 @@
+0:["0X6pUYM27Qtp4QrlPFqon",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","2024-06","d"],{"children":["__PAGE__?{\"url\":\"2024-06\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/css/c9f7c177883c23eb.css",{"as":"style"}]
+5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
+6:HL["/_next/static/css/1b5f89c6434e6b6b.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-b774e512c1e2434b.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-b774e512c1e2434b.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-5f838e284429e38a.js"],"name":"","async":false}
+c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-b58ef061ab7626f5.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-b58ef061ab7626f5.js"],"name":"Image","async":false}
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Plog：六月日常记录 [2024] | 唐维娟"}],["$","meta","2",{"name":"keywords","content":"Plog,日常生活,"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","4",{"name":"next-size-adjust"}]]
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c7a77a7859900f0a.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_d65c78","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","2024-06","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"2024-06\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cf9b38f8ff2539d3.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/1b5f89c6434e6b6b.css","precedence":"next"}]]}],"segment":["url","2024-06","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c9f7c177883c23eb.css","precedence":"next"}]]}]}]}],null]
+e:T1c48,
+                    <h1 id="Plog | 六月日常记录 | 2024">
+                        <a href="#Plog | 六月日常记录 | 2024">Plog | 六月日常记录 | 2024</a>
+                    </h1>
+                
+                    <h2 id="公司附近">
+                        <a href="#公司附近">公司附近</a>
+                    </h2>
+                <p>记录一下上班期间每周必吃的双椒炒鸡面。这家面店就在公司附近，所以我和同事经常过来吃。双椒炒鸡是现炒的，带着锅气，鸡块搭配青椒和红椒一起炒，配色让人非常有食欲，辣味很足，每份面还会配一碗骨头汤，面是偏黄的粗卷面，很有嚼劲，我们都觉得它堪称一绝，甚至认为这家店就靠这碗面就可以生意兴旺了。</p>
+<p><img src="../assests/weekly/image/202406.webp" alt="图片"></p>
+<p>午休在公司园区逛逛。</p>
+<p><img src="../assests/weekly/image/202406.1.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.2.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.3.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.4.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.5.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.6.webp" alt="图片"></p>
+<p>上班间隙，还可以逛逛公司楼下的之禾书店，店里涵盖艺术、设计、摄影、电影、建筑、文化、文学等品类的书籍，还有很多在其他书店难找到的原版画册。</p>
+<p><img src="../assests/weekly/image/202406.7.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.8.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.9.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.10.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.11.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.12.webp" alt="图片"></p>
+<p>书店里有一个小小的展览厅，最近的展览叫「夜焰永昼」，展出的是一个年轻的法国艺术家的绘画作品。</p>
+<p><img src="../assests/weekly/image/202406.13.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.14.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.15.webp" alt="图片"></p>
+
+                    <h2 id="又回重庆">
+                        <a href="#又回重庆">又回重庆</a>
+                    </h2>
+                <p>上半年假期多，基本上每个月都会去一次其他城市，2月春节回重庆，4月清明假期去南京，5月劳动节去宣城，6月初，堂弟结婚，我又回了一次重庆，在端午节之前提前请了三天假。</p>
+<p>这次回来除了参加堂弟婚礼，还能陪陪爷爷奶奶。我的卧室家具也一直想换掉，所以顺便定购了一套乳白色的家具。</p>
+<p>回家几天，觉得时间过得真快啊，在家里睡眠都要好一些，即使外面很吵，也能很快睡着。</p>
+<p>在家待到第五天我就返程了，因为端午之后就要上班了，我通常会提前一天回去，这样能在上班前再休息一天。</p>
+<p>在上海浦东候机</p>
+<p><img src="../assests/weekly/image/202406.16.webp" alt="图片"></p>
+<p>在空中</p>
+<p><img src="../assests/weekly/image/202406.17.webp" alt="图片"></p>
+<p>出重庆航站楼，准备去和爸妈、大伯汇合。他们跟我我同一天回去，航班时间也差不多，所以能约到一起回家。</p>
+<p><img src="../assests/weekly/image/202406.18.webp" alt="图片"></p>
+<p>婚礼上，</p>
+<p>我竟然担起了写礼金簿的重任，因为不会写数字大写，还打了个小抄。</p>
+<p><img src="../assests/weekly/image/202406.19.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.20.webp" alt="图片"></p>
+<p>逛家居城，挑了一套自己喜欢的卧室家具。</p>
+<p><img src="../assests/weekly/image/202406.21.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.22.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.23.webp" alt="图片"></p>
+<p>端午节街上有很多卖粽子的，通常就是这样在门口支个小桌子或者凳子，摆上几个粽子就好了。这些粽子个头可真大，一个人很难吃完一个吧。</p>
+<p><img src="../assests/weekly/image/202406.24.webp" alt="图片"></p>
+<p>重庆人的早餐就是这么霸道。</p>
+<p><img src="../assests/weekly/image/202406.25.webp" alt="图片"></p>
+<p>转眼间又要去上海了。</p>
+<p><img src="../assests/weekly/image/202406.26.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.27.webp" alt="图片"></p>
+
+                    <h2 id="新咖啡机">
+                        <a href="#新咖啡机">新咖啡机</a>
+                    </h2>
+                <p>回到上海，小王买了一台新咖啡机。</p>
+<p><img src="../assests/weekly/image/202406.28.webp" alt="图片"></p>
+<p>然后每天喝，热的，冰的。</p>
+<p><img src="../assests/weekly/image/202406.29.webp" alt="图片">  </p>
+<p><img src="../assests/weekly/image/202406.30.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.31.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.32.webp" alt="图片"></p>
+<p>爱心拉花的。</p>
+<p><img src="../assests/weekly/image/202406.33.webp" alt="图片"></p>
+<p>干杯</p>
+<p><img src="../assests/weekly/image/202406.34.webp" alt="图片"><img src="../assests/weekly/image/202406.35.webp" alt="图片"></p>
+
+                    <h2 id="新的商场">
+                        <a href="#新的商场">新的商场</a>
+                    </h2>
+                <p>6月13日，徐汇万科开业了，据说这是徐汇最大的商场，就在上海南站附近，离我住的地方不远，自然也就早早地去逛逛了。</p>
+<p>商场确实很大，内部倒是没什么特别的。我喜欢外面的草地，绿地边支着很多小摊，有卖各种造型的杯子、各种材质的首饰，还有现场手工调制的酒，小零食等。每个摊子上的东西都很可爱，看着很心动，但在这种集市上买东西总是要谨慎一些，很担心买到假的，或者不安全的东西。</p>
+<p><img src="../assests/weekly/image/202406.36.webp" alt="图片"></p>
+<p>另外一边，则全部是宠物用品，品类也很多。</p>
+<p><img src="../assests/weekly/image/202406.37.webp" alt="图片"></p>
+<p>商场外面还有一个艺术商店，卖的东西更是可爱，配色十分活泼，看到心情都明亮起来了。</p>
+<p><img src="../assests/weekly/image/202406.38.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.39.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.40.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.41.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.42.webp" alt="图片"></p>
+<p><img src="../assests/weekly/image/202406.43.webp" alt="图片"></p>
+<p>在外面逛了这么多，最终还是选择了商场里面的 MUJI，买了一个便携小水杯。</p>
+<p><img src="../assests/weekly/image/202406.44.webp" alt="图片"></p>
+<p>好了，六月拜拜👋🏻，迎接七月吧。</p>
+b:["$","main",null,{"className":"page_page__Hqvgz","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":38}]}]}]}],["$","div",null,{"className":"Header_headerRight__hjLNa","children":[["$","$Lc","Blog",{"href":"/blog","className":"Header_navItem__6nLSG","children":"Blog"}],["$","$Lc","Weekly",{"href":"/weekly","className":"Header_activeNavItem__5rvSM","children":"Weekly"}],["$","$Lc","Project",{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","children":"Project"}],["$","$Lc","About",{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}],["$","$Lc","Rss",{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"Rss","width":22,"height":22}]}]]}]]}],["$","div",null,{"className":"markdown-body","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2024/6/30"}]]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/weekly/2024-05","children":["$","div",null,{"children":["上一篇：","Plog：五月日常记录 [2024]"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/weekly/2024-07","children":["$","div",null,{"children":["下一篇：","Plog：七月日常记录 [2024]"]}]}]}]]}]]}]
+a:null

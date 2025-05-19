@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 May 2025 09:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 10:19:40 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 May 2025 09:35:42 GMT</pubDate>
+        <pubDate>Mon, 19 May 2025 10:19:23 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -465,7 +465,59 @@
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plog：四月生活记录[2024]]]></title>
+            <title><![CDATA[Plog：三月日常记录 [2025]]]></title>
+            <link>/weekly/2025-03</link>
+            <guid isPermaLink="false">/weekly/2025-03</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：一月二月日常记录 [2025]]]></title>
+            <description><![CDATA[两个月没写了，相册里的照片多得让人畏惧，差点又想放弃记录了，还好，在二月的最后一星期，每天中午抽出了一点时间整理。]]></description>
+            <link>/weekly/2025-01-n-02</link>
+            <guid isPermaLink="false">/weekly/2025-01-n-02</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：十二月日常记录 [2024]]]></title>
+            <description><![CDATA[转眼又到年底，十二月是忙于工作的一个月。]]></description>
+            <link>/weekly/2024-12</link>
+            <guid isPermaLink="false">/weekly/2024-12</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：十月日常记录 [2024]]]></title>
+            <description><![CDATA[十月，是欣赏祖国山水的一个月。]]></description>
+            <link>/weekly/2024-10</link>
+            <guid isPermaLink="false">/weekly/2024-10</guid>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：八月日常记录 [2024]]]></title>
+            <link>/weekly/2024-08</link>
+            <guid isPermaLink="false">/weekly/2024-08</guid>
+            <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：七月日常记录 [2024]]]></title>
+            <description><![CDATA[七月，上海进入蒸笼模式。]]></description>
+            <link>/weekly/2024-07</link>
+            <guid isPermaLink="false">/weekly/2024-07</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：六月日常记录 [2024]]]></title>
+            <link>/weekly/2024-06</link>
+            <guid isPermaLink="false">/weekly/2024-06</guid>
+            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：五月日常记录 [2024]]]></title>
+            <link>/weekly/2024-05</link>
+            <guid isPermaLink="false">/weekly/2024-05</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：四月生活记录 [2024]]]></title>
             <description><![CDATA[用看图写话的方式记录我的一个月。]]></description>
             <link>/weekly/2024-04</link>
             <guid isPermaLink="false">/weekly/2024-04</guid>

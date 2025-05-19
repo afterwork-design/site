@@ -1,4 +1,4 @@
-0:["xGUDKF07Vze57v5uj6Qdj",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","icon-design-principle","d"],{"children":["__PAGE__?{\"url\":\"icon-design-principle\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["0X6pUYM27Qtp4QrlPFqon",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","icon-design-principle","d"],{"children":["__PAGE__?{\"url\":\"icon-design-principle\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/a34f9d1faa5f3315-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/c9f7c177883c23eb.css",{"as":"style"}]
 5:HL["/_next/static/css/cf9b38f8ff2539d3.css",{"as":"style"}]
