@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 10:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 09:35:59 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 May 2025 10:14:07 GMT</pubDate>
+        <pubDate>Mon, 19 May 2025 09:35:42 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -463,6 +463,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plog：四月生活记录[2024]]]></title>
+            <description><![CDATA[用看图写话的方式记录我的一个月。]]></description>
+            <link>/weekly/2024-04</link>
+            <guid isPermaLink="false">/weekly/2024-04</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.50：2023年度统计]]></title>
