@@ -1,4 +1,4 @@
-0:["9R13Q8kd8bHB3sLtscUWC",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","the-Beginning-of-Autumn","d"],{"children":["__PAGE__?{\"url\":\"the-Beginning-of-Autumn\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["QtKsZV5ZC8bId5sr9-gOH",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","the-Beginning-of-Autumn","d"],{"children":["__PAGE__?{\"url\":\"the-Beginning-of-Autumn\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/cdf6cc5881123d58.css",{"as":"style"}]
 5:HL["/_next/static/css/04a60356b5e63514.css",{"as":"style"}]
