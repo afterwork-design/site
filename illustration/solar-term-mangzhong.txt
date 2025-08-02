@@ -1,10 +1,10 @@
-0:["PD33tIH9_lPRvXOPFOP3U",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","solar-term-mangzhong","d"],{"children":["__PAGE__?{\"url\":\"solar-term-mangzhong\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["gNpdrRRth8Hy4p3-lvhuo",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","solar-term-mangzhong","d"],{"children":["__PAGE__?{\"url\":\"solar-term-mangzhong\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/cb4619e006ecd476.css",{"as":"style"}]
 5:HL["/_next/static/css/10972252a31ed75d.css",{"as":"style"}]
 6:HL["/_next/static/css/bcb5b532da5bb93f.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-37aed42b16406653.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-37aed42b16406653.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a5931d88c1a20c09.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a5931d88c1a20c09.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-6b24b4bff8837cca.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","877:static/chunks/app/(default_site)/illustration/[url]/page-fe4219847a88ebf8.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","877:static/chunks/app/(default_site)/illustration/[url]/page-fe4219847a88ebf8.js"],"name":"Image","async":false}
