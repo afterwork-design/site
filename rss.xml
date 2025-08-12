@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Aug 2025 11:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 03:43:58 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Aug 2025 11:05:04 GMT</pubDate>
+        <pubDate>Tue, 12 Aug 2025 03:43:36 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -465,8 +465,15 @@
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vol.52：Sublime 技巧；个人网站更新]]></title>
+            <description><![CDATA[本期大约是 7 月 18 日到 8 月 12 日的内容。]]></description>
+            <link>/weekly/weekly-52</link>
+            <guid isPermaLink="false">/weekly/weekly-52</guid>
+            <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vol.51：分享一切]]></title>
-            <description><![CDATA[本期大约是7月1日到7月17日的内容。]]></description>
+            <description><![CDATA[本期大约是 7 月 1 日到 7 月 17 日的内容。]]></description>
             <link>/weekly/weekly-51</link>
             <guid isPermaLink="false">/weekly/weekly-51</guid>
             <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
