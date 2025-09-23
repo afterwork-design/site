@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Sep 2025 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 09:55:59 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Sep 2025 08:13:29 GMT</pubDate>
+        <pubDate>Tue, 23 Sep 2025 09:55:36 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -981,6 +981,13 @@
             <link>/blog/keychron-k2-manual</link>
             <guid isPermaLink="false">/blog/keychron-k2-manual</guid>
             <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blender 修改器]]></title>
+            <description><![CDATA[Blender 修改器基本介绍]]></description>
+            <link>/blog/blender-modifier</link>
+            <guid isPermaLink="false">/blog/blender-modifier</guid>
+            <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blender基础操作]]></title>
