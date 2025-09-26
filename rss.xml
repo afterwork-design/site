@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Sep 2025 10:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 09:05:33 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Sep 2025 09:59:39 GMT</pubDate>
+        <pubDate>Fri, 26 Sep 2025 09:05:11 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -463,6 +463,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vol.53：边用边学]]></title>
+            <description><![CDATA[本期大约是 9 月 3 日到 9 月 26 日学到用到的内容。]]></description>
+            <link>/weekly/weekly-53</link>
+            <guid isPermaLink="false">/weekly/weekly-53</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.52：Sublime 技巧；个人网站更新]]></title>
