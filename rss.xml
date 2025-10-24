@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Oct 2025 06:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 07:05:50 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Oct 2025 06:49:57 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 07:05:27 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -890,6 +890,13 @@
             <link>/weekly/Illustration-art-design-sharing</link>
             <guid isPermaLink="false">/weekly/Illustration-art-design-sharing</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Figma Make 生成 3D 建模网站]]></title>
+            <description><![CDATA[生成的网站能实现专业的3D渲染和简单的交互功能]]></description>
+            <link>/blog/figma-make-3d-site</link>
+            <guid isPermaLink="false">/blog/figma-make-3d-site</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[厘米像素尺寸换算]]></title>
