@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 07:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 08:00:56 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 07:05:27 GMT</pubDate>
+        <pubDate>Thu, 30 Oct 2025 08:00:33 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -463,6 +463,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vol.54：30 岁的 10 条想法]]></title>
+            <description><![CDATA[本期是一期特别内容，关于 30 岁对生活的理解。]]></description>
+            <link>/weekly/10-thoughts-at-30</link>
+            <guid isPermaLink="false">/weekly/10-thoughts-at-30</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.53：边用边学]]></title>
