@@ -1,10 +1,10 @@
-0:["XXmQJWn-D0meXDoCy7mfW",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","Lesser-Heat","d"],{"children":["__PAGE__?{\"url\":\"Lesser-Heat\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","Lesser-Heat","d"],{"children":["__PAGE__?{\"url\":\"Lesser-Heat\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/697acb52a326f7c2.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-8896ba3587f9f598.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-8896ba3587f9f598.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","877:static/chunks/app/(default_site)/illustration/[url]/page-c50ad090c26f4a80.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","877:static/chunks/app/(default_site)/illustration/[url]/page-c50ad090c26f4a80.js"],"name":"Image","async":false}
