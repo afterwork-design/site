@@ -1,23 +1,23 @@
-0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","youmind-user-guide","d"],{"children":["__PAGE__?{\"url\":\"youmind-user-guide\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["PHy5DQxKEQ8HriFCggW7j",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","youmind-user-guide","d"],{"children":["__PAGE__?{\"url\":\"youmind-user-guide\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
-5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
+5:HL["/_next/static/css/5db3bd32e3030a89.css",{"as":"style"}]
 6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-b535ee7f84055184.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-b535ee7f84055184.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
-c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"","async":false}
-d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"Image","async":false}
-1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","youmind-user-guide","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"youmind-user-guide\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","youmind-user-guide","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-c0884b6b38283930.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-c0884b6b38283930.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","youmind-user-guide","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"youmind-user-guide\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5db3bd32e3030a89.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","youmind-user-guide","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"YouMind 界面使用指南 - 对话、资料、作品三大模块详解 | 唐维娟"}],["$","meta","2",{"name":"description","content":"两次尝试使用 YouMind, 都迷失在了 AI 自动生成的数条资料中，今天终于理清楚了基本使用方法。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
 b:"$Le"
 a:null
-10:I{"id":5506,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"TOC","async":false}
-f:T4781,
+10:I{"id":5506,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-c0884b6b38283930.js"],"name":"TOC","async":false}
+f:T4184,
                     <h1 id="youmind-界面使用指南-对话资料作品三大模块详解">
                         <a href="#youmind-界面使用指南-对话资料作品三大模块详解">YouMind 界面使用指南 - 对话、资料、作品三大模块详解</a>
                     </h1>
-                <p><img src="https://youmind.com/_next/image?url=https%3A%2F%2Fassets.youmind.com%2Fcraft-page-covers%2Fcover-19.png&w=3840&q=75" alt="youmind"></p>
+                <p><img src="../assests/blog/image/lost.png" alt="迷失"></p>
 <p><a href="https://youmind.com/zh-CN/overview">YouMind</a> 是一个 AI 驱动的个人知识工作台。如果你是初次使用它，迷失在了 YouMind 令人眼花缭乱的卡片界面中，这篇文章或许对你有用。</p>
 
                     <h2 id="youmind-界面的核心理解">
@@ -34,15 +34,12 @@ f:T4781,
 </li>
 </ul>
 <p>这三栏是<strong>同时存在、互相关联</strong>的，不需要来回切换标签页。这就是 YouMind 被称为&quot;集成创作环境&quot;（Integrated Creation Environment）的原因。</p>
+<p><img src="../assests/blog/image/youmind-layout.png" alt="三栏布局"></p>
 
-                    <h2 id="左侧materials（资料区）">
+                    <h3 id="左侧materials（资料区）">
                         <a href="#左侧materials（资料区）">左侧：Materials（资料区）</a>
-                    </h2>
-                
-                    <h3 id="这里是什么">
-                        <a href="#这里是什么">这里是什么？</a>
                     </h3>
-                <p>Materials 是你的&quot;素材库&quot;，所有收集的内容都会显示在这里：</p>
+                <p>Materials 是你的&quot;素材库&quot;，所有收集的内容都会显示在这里。</p>
 <p><strong>支持的内容类型：</strong></p>
 <ul>
 <li><p>网页片段（通过浏览器插件保存的 Snips）</p>
@@ -71,11 +68,8 @@ f:T4781,
 <li><p>PDF 可以高亮标注重点</p>
 </li>
 </ul>
-
-                    <h3 id="你可以在这里做什么">
-                        <a href="#你可以在这里做什么">你可以在这里做什么？</a>
-                    </h3>
-                <p><strong>1. 阅读与研究</strong></p>
+<p><strong>你可以在这里做什么？</strong></p>
+<p><strong>1. 阅读与研究</strong></p>
 <ul>
 <li><p>点击任何资料，进入&quot;干净无干扰&quot;的阅读模式</p>
 </li>
@@ -108,12 +102,8 @@ f:T4781,
 </li>
 </ul>
 
-                    <h2 id="中间crafts（作品区）">
+                    <h3 id="中间crafts（作品区）">
                         <a href="#中间crafts（作品区）">中间：Crafts（作品区）</a>
-                    </h2>
-                
-                    <h3 id="这里是什么-2">
-                        <a href="#这里是什么-2">这里是什么？</a>
                     </h3>
                 <p>Crafts 是你的&quot;创作空间&quot;，所有输出内容都在这里完成。这不是一个简单的编辑器，而是一个<strong>支持 AI 协作的写作环境</strong>。</p>
 <p><strong>你可以创建的内容类型：</strong></p>
@@ -131,11 +121,8 @@ f:T4781,
 <li><p>任何结构化文档</p>
 </li>
 </ul>
-
-                    <h3 id="核心功能">
-                        <a href="#核心功能">核心功能</a>
-                    </h3>
-                <p><strong>1. 从模板开始</strong></p>
+<p><strong>核心功能</strong>：</p>
+<p>​	<strong>1. 从模板开始</strong></p>
 <ul>
 <li><p>点击&quot;New Craft&quot;时，可以选择模板</p>
 </li>
@@ -181,19 +168,12 @@ f:T4781,
 </li>
 </ul>
 
-                    <h2 id="右侧toolschat（工具对话区）">
+                    <h3 id="右侧toolschat（工具对话区）">
                         <a href="#右侧toolschat（工具对话区）">右侧：Tools/Chat（工具/对话区）</a>
-                    </h2>
-                
-                    <h3 id="这里是什么-3">
-                        <a href="#这里是什么-3">这里是什么？</a>
                     </h3>
                 <p>这是你的&quot;AI 助手面板&quot;，提供多种工具和对话功能。</p>
-
-                    <h3 id="核心功能-2">
-                        <a href="#核心功能-2">核心功能</a>
-                    </h3>
-                <p><strong>1. AI Chat（智能对话）</strong></p>
+<p><strong>核心功能：</strong></p>
+<p><strong>1. AI Chat（智能对话）</strong></p>
 <p>你可以选择不同的 AI 模型：</p>
 <ul>
 <li><p>YouMind AI（默认）</p>
@@ -241,13 +221,9 @@ f:T4781,
 </li>
 </ul>
 
-                    <h2 id="三大模块如何协同工作">
-                        <a href="#三大模块如何协同工作">三大模块如何协同工作</a>
+                    <h2 id="三大模块典型的工作流">
+                        <a href="#三大模块典型的工作流">三大模块典型的工作流</a>
                     </h2>
-                
-                    <h3 id="典型的工作流程">
-                        <a href="#典型的工作流程">典型的工作流程</a>
-                    </h3>
                 <p><strong>场景：写一篇关于&quot;远程工作趋势&quot;的文章</strong></p>
 <p><strong>第 1 步：收集资料（Materials）</strong></p>
 <ol>
@@ -372,8 +348,8 @@ f:T4781,
                         <a href="#实用技巧">实用技巧</a>
                     </h2>
                 
-                    <h3 id="高效使用-materials">
-                        <a href="#高效使用-materials">高效使用 Materials</a>
+                    <h3 id="1-高效使用-materials">
+                        <a href="#1-高效使用-materials">1. 高效使用 Materials</a>
                     </h3>
                 <p><strong>✅ 做到这些：</strong></p>
 <ul>
@@ -394,8 +370,8 @@ f:T4781,
 </li>
 </ul>
 
-                    <h3 id="高效使用-crafts">
-                        <a href="#高效使用-crafts">高效使用 Crafts</a>
+                    <h3 id="2-高效使用-crafts">
+                        <a href="#2-高效使用-crafts">2. 高效使用 Crafts</a>
                     </h3>
                 <p><strong>✅ 做到这些：</strong></p>
 <ul>
@@ -416,8 +392,8 @@ f:T4781,
 </li>
 </ul>
 
-                    <h3 id="高效使用-chattools">
-                        <a href="#高效使用-chattools">高效使用 Chat/Tools</a>
+                    <h3 id="3-高效使用-chattools">
+                        <a href="#3-高效使用-chattools">3. 高效使用 Chat/Tools</a>
                     </h3>
                 <p><strong>✅ 做到这些：</strong></p>
 <ul>
@@ -490,21 +466,6 @@ f:T4781,
 </li>
 </ul>
 
-                    <h2 id="移动端的差异">
-                        <a href="#移动端的差异">移动端的差异</a>
-                    </h2>
-                <p>如果你使用 YouMind 的移动 App：</p>
-<ul>
-<li><p>界面会调整为<strong>标签页模式</strong>（因为手机屏幕窄）</p>
-</li>
-<li><p>Materials、Crafts、Chat 变成独立的 Tab</p>
-</li>
-<li><p>但功能和关联性保持一致</p>
-</li>
-<li><p>可以通过分享菜单直接保存内容到 Board</p>
-</li>
-</ul>
-
                     <h2 id="最后的建议">
                         <a href="#最后的建议">最后的建议</a>
                     </h2>
@@ -539,4 +500,4 @@ f:T4781,
 </li>
 </ol>
 <p>你会发现，三个区域的协作是如此流畅，思路不会被打断。这就是 YouMind &quot;集成创作环境&quot;的真正价值。</p>
-e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2025/11/28"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"YouMind 界面使用指南 - 对话、资料、作品三大模块详解","level":1,"href":"#youmind-界面使用指南-对话资料作品三大模块详解"},{"title":"YouMind 界面的核心理解","level":2,"href":"#youmind-界面的核心理解"},{"title":"左侧：Materials（资料区）","level":2,"href":"#左侧materials（资料区）"},{"title":"这里是什么？","level":3,"href":"#这里是什么"},{"title":"你可以在这里做什么？","level":3,"href":"#你可以在这里做什么"},{"title":"中间：Crafts（作品区）","level":2,"href":"#中间crafts（作品区）"},{"title":"这里是什么？","level":3,"href":"#这里是什么-2"},{"title":"核心功能","level":3,"href":"#核心功能"},{"title":"右侧：Tools/Chat（工具/对话区）","level":2,"href":"#右侧toolschat（工具对话区）"},{"title":"这里是什么？","level":3,"href":"#这里是什么-3"},{"title":"核心功能","level":3,"href":"#核心功能-2"},{"title":"三大模块如何协同工作","level":2,"href":"#三大模块如何协同工作"},{"title":"典型的工作流程","level":3,"href":"#典型的工作流程"},{"title":"界面的关键设计理念","level":2,"href":"#界面的关键设计理念"},{"title":"1. 三栏同时可见的好处","level":3,"href":"#1-三栏同时可见的好处"},{"title":"2. 信息流动的顺畅性","level":3,"href":"#2-信息流动的顺畅性"},{"title":"3. 上下文的智能感知","level":3,"href":"#3-上下文的智能感知"},{"title":"实用技巧","level":2,"href":"#实用技巧"},{"title":"高效使用 Materials","level":3,"href":"#高效使用-materials"},{"title":"高效使用 Crafts","level":3,"href":"#高效使用-crafts"},{"title":"高效使用 Chat/Tools","level":3,"href":"#高效使用-chattools"},{"title":"界面的隐藏功能","level":2,"href":"#界面的隐藏功能"},{"title":"1. 顶部的&quot;Add&quot;按钮","level":3,"href":"#1-顶部的quotaddquot按钮"},{"title":"2. Board Groups（分组功能）","level":3,"href":"#2-board-groups（分组功能）"},{"title":"3. Picks（高亮精选）","level":3,"href":"#3-picks（高亮精选）"},{"title":"4. 历史版本","level":3,"href":"#4-历史版本"},{"title":"移动端的差异","level":2,"href":"#移动端的差异"},{"title":"最后的建议","level":2,"href":"#最后的建议"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/font-type","children":["$","div",null,{"children":["上一篇：","常见字体文件格式"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2025/11/28"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"YouMind 界面使用指南 - 对话、资料、作品三大模块详解","level":1,"href":"#youmind-界面使用指南-对话资料作品三大模块详解"},{"title":"YouMind 界面的核心理解","level":2,"href":"#youmind-界面的核心理解"},{"title":"左侧：Materials（资料区）","level":3,"href":"#左侧materials（资料区）"},{"title":"中间：Crafts（作品区）","level":3,"href":"#中间crafts（作品区）"},{"title":"右侧：Tools/Chat（工具/对话区）","level":3,"href":"#右侧toolschat（工具对话区）"},{"title":"三大模块典型的工作流","level":2,"href":"#三大模块典型的工作流"},{"title":"界面的关键设计理念","level":2,"href":"#界面的关键设计理念"},{"title":"1. 三栏同时可见的好处","level":3,"href":"#1-三栏同时可见的好处"},{"title":"2. 信息流动的顺畅性","level":3,"href":"#2-信息流动的顺畅性"},{"title":"3. 上下文的智能感知","level":3,"href":"#3-上下文的智能感知"},{"title":"实用技巧","level":2,"href":"#实用技巧"},{"title":"1. 高效使用 Materials","level":3,"href":"#1-高效使用-materials"},{"title":"2. 高效使用 Crafts","level":3,"href":"#2-高效使用-crafts"},{"title":"3. 高效使用 Chat/Tools","level":3,"href":"#3-高效使用-chattools"},{"title":"界面的隐藏功能","level":2,"href":"#界面的隐藏功能"},{"title":"1. 顶部的&quot;Add&quot;按钮","level":3,"href":"#1-顶部的quotaddquot按钮"},{"title":"2. Board Groups（分组功能）","level":3,"href":"#2-board-groups（分组功能）"},{"title":"3. Picks（高亮精选）","level":3,"href":"#3-picks（高亮精选）"},{"title":"4. 历史版本","level":3,"href":"#4-历史版本"},{"title":"最后的建议","level":2,"href":"#最后的建议"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/font-type","children":["$","div",null,{"children":["上一篇：","常见字体文件格式"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
