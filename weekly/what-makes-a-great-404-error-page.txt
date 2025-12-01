@@ -1,18 +1,18 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","what-makes-a-great-404-error-page","d"],{"children":["__PAGE__?{\"url\":\"what-makes-a-great-404-error-page\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","what-makes-a-great-404-error-page","d"],{"children":["__PAGE__?{\"url\":\"what-makes-a-great-404-error-page\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/adc2e98f4fe7f6c0.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"Image","async":false}
 1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","what-makes-a-great-404-error-page","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"what-makes-a-great-404-error-page\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/adc2e98f4fe7f6c0.css","precedence":"next"}]]}],"segment":["url","what-makes-a-great-404-error-page","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.35：【译】什么是优秀的 404 错误页面 | 唐维娟"}],["$","meta","2",{"name":"description","content":"What Makes a Great 404 Error Page? | Design Shack"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-e:T30fe,
-                    <h1 id="Vol.35：【译】什么是优秀的 404 错误页面">
-                        <a href="#Vol.35：【译】什么是优秀的 404 错误页面">Vol.35：【译】什么是优秀的 404 错误页面</a>
+e:T30f0,
+                    <h1 id="vol35【译】什么是优秀的-404-错误页面">
+                        <a href="#vol35【译】什么是优秀的-404-错误页面">Vol.35：【译】什么是优秀的 404 错误页面</a>
                     </h1>
                 <p>你好，欢迎阅读我的周刊第 35 期。在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
 <hr>
@@ -23,8 +23,8 @@ e:T30fe,
 <p><strong>没有人愿意认为网站访问者在错误页面上花费时间，但这种情况发生了。404 错误页面是经常发生这种情况的地方。把它设计成能与用户对话的方式，而不是让他们离开你的网站。</strong></p>
 <p>更令人难忘和不那么令人沮丧的 404 错误页面是最成功的，甚至是最有趣的设计。那么，您可以做些什么来为您的网站创建最佳的 404 页面呢？这里有一些提示、技巧和优秀示例库。</p>
 
-                    <h2 id="什么是 404 错误页面？">
-                        <a href="#什么是 404 错误页面？">什么是 404 错误页面？</a>
+                    <h2 id="什么是-404-错误页面">
+                        <a href="#什么是-404-错误页面">什么是 404 错误页面？</a>
                     </h2>
                 <p><img src="https://tangweijuan.github.io/weekly/image/35-ds-404.jpg" alt="35-ds-404"></p>
 <p>网站访问者在尝试访问不存在的页面时会进入 404 错误页面。这可能是因为页面已被删除，服务器或互联网连接已关闭，用户点击了断开的链接或输入了错误的网址。</p>
@@ -54,8 +54,8 @@ e:T30fe,
 <li>明显的号召性用语。告诉用户下一步该怎么做。</li>
 </ul>
 
-                    <h2 id="使 404 页面可用">
-                        <a href="#使 404 页面可用">使 404 页面可用</a>
+                    <h2 id="使-404-页面可用">
+                        <a href="#使-404-页面可用">使 404 页面可用</a>
                     </h2>
                 <p><a href="http://www.heinz.com/error.aspx"><img src="https://tangweijuan.github.io/weekly/image/35-heinz-404.jpg" alt="35-heinz-404"></a></p>
 <p>在考虑 404 页面时，设计过程的一部分应该是可用性。包括使页面对迷失的用户既具有视觉吸引力又具有功能性的功能。</p>
@@ -71,8 +71,8 @@ e:T30fe,
 </ul>
 <p>除了这个提示列表之外，还有一点是设计师的：要有创意。如果 404 页面在技术上是合理，它就不一定是无聊的。</p>
 
-                    <h2 id="有目的地设计 404 页面">
-                        <a href="#有目的地设计 404 页面">有目的地设计 404 页面</a>
+                    <h2 id="有目的地设计-404-页面">
+                        <a href="#有目的地设计-404-页面">有目的地设计 404 页面</a>
                     </h2>
                 <p><a href="http://www.duoh.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-duoh-404.jpg" alt="35-duoh-404"></a></p>
 <p>当您考虑 404 错误页面的设计时，首先要考虑它与网站其余部分的关系。您的整体设计的情绪或基调是什么？这个页面如何匹配这种感觉？</p>
@@ -90,68 +90,68 @@ e:T30fe,
 <li>如果您使用“404 错误”，请添加第二行文本，告诉用户这意味着什么或他们接下来需要做什么。</li>
 </ul>
 
-                    <h2 id="12 个优秀的例子">
-                        <a href="#12 个优秀的例子">12 个优秀的例子</a>
+                    <h2 id="12-个优秀的例子">
+                        <a href="#12-个优秀的例子">12 个优秀的例子</a>
                     </h2>
                 <p>没有什么比点击一个很棒的 404 错误页面更好的了。它减轻了链接损坏或断开的挫败感。这里有十几页肯定会让你想偶然发现错误。</p>
 
-                    <h3 id="Deviant Art">
-                        <a href="#Deviant Art">Deviant Art</a>
+                    <h3 id="deviant-art">
+                        <a href="#deviant-art">Deviant Art</a>
                     </h3>
                 <p><a href="http://www.deviantart.com/browse/all/404/"><img src="https://tangweijuan.github.io/weekly/image/35-deviantart-404.jpg" alt="Deviant Art 404页"></a></p>
 
-                    <h3 id="Gig Masters">
-                        <a href="#Gig Masters">Gig Masters</a>
+                    <h3 id="gig-masters">
+                        <a href="#gig-masters">Gig Masters</a>
                     </h3>
                 <p><a href="https://www.gigmasters.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-gig-404.jpg" alt="Gig Masters 404 page"></a></p>
 
-                    <h3 id="iFolderLinks">
-                        <a href="#iFolderLinks">iFolderLinks</a>
+                    <h3 id="ifolderlinks">
+                        <a href="#ifolderlinks">iFolderLinks</a>
                     </h3>
                 <p><a href="http://ifolderlinks.ru/404/"><img src="https://tangweijuan.github.io/weekly/image/35-ifolder-404.jpg" alt="iFolderLinks 404页"></a></p>
 
-                    <h3 id="Lego">
-                        <a href="#Lego">Lego</a>
+                    <h3 id="lego">
+                        <a href="#lego">Lego</a>
                     </h3>
                 <p><a href="http://www.lego.com/404notfound"><img src="https://tangweijuan.github.io/weekly/image/35-lego-404.jpg" alt="Lego 404页"></a></p>
 
-                    <h3 id="LimpFish">
-                        <a href="#LimpFish">LimpFish</a>
+                    <h3 id="limpfish">
+                        <a href="#limpfish">LimpFish</a>
                     </h3>
                 <p><a href="http://www.limpfish.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-limpfish-404.jpg" alt="LimpFish 404 page"></a></p>
 
-                    <h3 id="Magnt">
-                        <a href="#Magnt">Magnt</a>
+                    <h3 id="magnt">
+                        <a href="#magnt">Magnt</a>
                     </h3>
                 <p><a href="http://magnt.com/404/"><img src="https://tangweijuan.github.io/weekly/image/35-magnt-404.jpg" alt="Magnt 404 page"></a></p>
 
-                    <h3 id="Mattel">
-                        <a href="#Mattel">Mattel</a>
+                    <h3 id="mattel">
+                        <a href="#mattel">Mattel</a>
                     </h3>
                 <p><a href="http://www.mattel.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-mattel-404.jpg" alt="Mattel 404 page"></a></p>
 
-                    <h3 id="ModCloth">
-                        <a href="#ModCloth">ModCloth</a>
+                    <h3 id="modcloth">
+                        <a href="#modcloth">ModCloth</a>
                     </h3>
                 <p><a href="http://www.modcloth.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-modcloth-404.jpg" alt="ModCloth 404 page"></a></p>
 
-                    <h3 id="NPR">
-                        <a href="#NPR">NPR</a>
+                    <h3 id="npr">
+                        <a href="#npr">NPR</a>
                     </h3>
                 <p><a href="http://www.npr.org/templates/story/story.php?storyId=404"><img src="https://tangweijuan.github.io/weekly/image/35-npr-404.jpg" alt="NPR 404 page"></a></p>
 
-                    <h3 id="Steve Lambert">
-                        <a href="#Steve Lambert">Steve Lambert</a>
+                    <h3 id="steve-lambert">
+                        <a href="#steve-lambert">Steve Lambert</a>
                     </h3>
                 <p><a href="http://visitsteve.com/404.html"><img src="https://tangweijuan.github.io/weekly/image/35-steve-404.jpg" alt="Steve Lambert 404 page"></a></p>
 
-                    <h3 id="Titleist">
-                        <a href="#Titleist">Titleist</a>
+                    <h3 id="titleist">
+                        <a href="#titleist">Titleist</a>
                     </h3>
                 <p><a href="http://www.titleist.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-titleist-404.jpg" alt="Titleist 404页"></a></p>
 
-                    <h3 id="Tobi">
-                        <a href="#Tobi">Tobi</a>
+                    <h3 id="tobi">
+                        <a href="#tobi">Tobi</a>
                     </h3>
                 <p><a href="http://www.tobi.com/404"><img src="https://tangweijuan.github.io/weekly/image/35-tobi-404.jpg" alt="Tobi 404页"></a></p>
 

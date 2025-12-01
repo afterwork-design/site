@@ -1,18 +1,18 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","27-four-tradeoffs-when-designing-navigation-menus","d"],{"children":["__PAGE__?{\"url\":\"27-four-tradeoffs-when-designing-navigation-menus\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","27-four-tradeoffs-when-designing-navigation-menus","d"],{"children":["__PAGE__?{\"url\":\"27-four-tradeoffs-when-designing-navigation-menus\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/adc2e98f4fe7f6c0.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"Image","async":false}
 1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","27-four-tradeoffs-when-designing-navigation-menus","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"27-four-tradeoffs-when-designing-navigation-menus\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/adc2e98f4fe7f6c0.css","precedence":"next"}]]}],"segment":["url","27-four-tradeoffs-when-designing-navigation-menus","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.27：设计导航菜单时需要权衡的四个问题 | 唐维娟"}],["$","meta","2",{"name":"description","content":"本周分享 Medium 上的一篇文章 Four Tradeoffs When Designing Navigation Menus，作者正在研究设计导航菜单时需要权衡的问题，并在本文列出了其中四项。"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-e:T2b68,
-                    <h1 id="Vol.27：设计导航菜单时需要权衡的四个问题">
-                        <a href="#Vol.27：设计导航菜单时需要权衡的四个问题">Vol.27：设计导航菜单时需要权衡的四个问题</a>
+e:T2b50,
+                    <h1 id="vol27设计导航菜单时需要权衡的四个问题">
+                        <a href="#vol27设计导航菜单时需要权衡的四个问题">Vol.27：设计导航菜单时需要权衡的四个问题</a>
                     </h1>
                 <p>你好，欢迎阅读我的周刊第27期。在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
 <hr>
@@ -29,8 +29,8 @@ e:T2b68,
 <p>关于例子的说明。所提供的例子不是由我设计的，所以我是在解释（实际上是推测）其中所做的决定。权衡是决策工具，而不是评估现有产品的工具，除非我们参与了这个过程，否则我们无法了解设计中的约束条件、参数和输入范围。</p>
 </blockquote>
 
-                    <h2 id="菜单应该传达广度还是深度?">
-                        <a href="#菜单应该传达广度还是深度?">菜单应该传达广度还是深度?</a>
+                    <h2 id="菜单应该传达广度还是深度">
+                        <a href="#菜单应该传达广度还是深度">菜单应该传达广度还是深度?</a>
                     </h2>
                 <p><strong>显示所有主题来展示结构的广度</strong>
 或
@@ -45,8 +45,8 @@ e:T2b68,
 </blockquote>
 <p>这是一个权衡<strong>广度与深度</strong>的例子，这要求设计师对结构的每个方面都一视同仁（广度），或者对强调的内容有所选择（深度）。这方面的另一个权衡是&quot;是否所有的项目都被赋予相同的权重&quot;？也就是说，是在所有项目中使用相同的风格处理，还是在视觉上区分一些项目。</p>
 
-                    <h2 id="导航如何支持不同熟悉程度的用户？">
-                        <a href="#导航如何支持不同熟悉程度的用户？">导航如何支持不同熟悉程度的用户？</a>
+                    <h2 id="导航如何支持不同熟悉程度的用户">
+                        <a href="#导航如何支持不同熟悉程度的用户">导航如何支持不同熟悉程度的用户？</a>
                     </h2>
                 <p><strong>为新用户提供指导</strong>
 或
@@ -61,8 +61,8 @@ e:T2b68,
 </blockquote>
 <p>这似乎是一个权衡<strong>整体与部分</strong>的例子(尽管我仍在考虑它)。也就是说，在展示关键部分和展示全部内容之间做出选择。对于新用户，我们希望展示全部内容，即使它的视角偏向于引导。对于有经验的用户，我们需要提供对整个 app 的访问，但菜单提供对关键功能的访问。</p>
 
-                    <h2 id="这个菜单的目的是什么？">
-                        <a href="#这个菜单的目的是什么？">这个菜单的目的是什么？</a>
+                    <h2 id="这个菜单的目的是什么">
+                        <a href="#这个菜单的目的是什么">这个菜单的目的是什么？</a>
                     </h2>
                 <p><strong>坚持一个目的，比如引导用户了解产品的范围</strong>
 或
@@ -77,8 +77,8 @@ e:T2b68,
 </blockquote>
 <p>这是一个权衡<strong>一个与多个</strong>的例子。这种权衡的另一个例子是“菜单如何解释类别?”设计师可能会选择为类别中的每一项添加描述，从而清晰地展示整个类别。他们可能会选择在类别中的项目旁边加入这个类别的概述。</p>
 
-                    <h2 id="菜单如何邀请用户参与?">
-                        <a href="#菜单如何邀请用户参与?">菜单如何邀请用户参与?</a>
+                    <h2 id="菜单如何邀请用户参与">
+                        <a href="#菜单如何邀请用户参与">菜单如何邀请用户参与?</a>
                     </h2>
                 <p><strong>突出用户可以采取的操作</strong>
 或

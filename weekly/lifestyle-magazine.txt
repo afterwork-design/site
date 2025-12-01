@@ -1,31 +1,31 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","lifestyle-magazine","d"],{"children":["__PAGE__?{\"url\":\"lifestyle-magazine\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","lifestyle-magazine","d"],{"children":["__PAGE__?{\"url\":\"lifestyle-magazine\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/adc2e98f4fe7f6c0.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"Image","async":false}
 1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","lifestyle-magazine","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"lifestyle-magazine\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/adc2e98f4fe7f6c0.css","precedence":"next"}]]}],"segment":["url","lifestyle-magazine","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.3：生活美学杂志、杂志网站、杂志app推荐 | 唐维娟"}],["$","meta","2",{"name":"description","content":"本周分享7个喜欢的杂志/杂志平台"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-e:T136c,
-                    <h1 id="Vol.3：生活美学杂志、杂志网站、杂志app推荐">
-                        <a href="#Vol.3：生活美学杂志、杂志网站、杂志app推荐">Vol.3：生活美学杂志、杂志网站、杂志app推荐</a>
+e:T10f8,
+                    <h1 id="vol3生活美学杂志杂志网站杂志app推荐">
+                        <a href="#vol3生活美学杂志杂志网站杂志app推荐">Vol.3：生活美学杂志、杂志网站、杂志app推荐</a>
                     </h1>
                 <p><img src="https://tangweijuan.github.io/weekly/image/cover-%E6%9D%82%E5%BF%97.jpg" alt="cover-杂志"></p>
 
-                    <h3 id="1.%20%3Ca%20href=%22https://www.wallpaper.com/%22%3EWallpaper*%3C/a%3E">
-                        <a href="#1.%20%3Ca%20href=%22https://www.wallpaper.com/%22%3EWallpaper*%3C/a%3E">1. <a href="https://www.wallpaper.com/">Wallpaper*</a></a>
+                    <h3 id="1-wallpaper">
+                        <a href="#1-wallpaper">1. <a href="https://www.wallpaper.com/">Wallpaper*</a></a>
                     </h3>
                 <p>一本英国杂志，由Tyler Brule于1996年在伦敦创立，涵盖建筑、室内家居、旅行和美食等方面内容，创刊后很快就成为了众多设计师、建筑师的美学灵感杂志。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/wallpaper.jpg" alt="wallpaper"></p>
 <p>2017年11月 Wallpaper* 走进了中国，中国刊由栩栩华生创刊，名为《 Wallpaper* 卷宗》，杂志采用双月发行的方式，首刊封面是在松美术馆拍摄的，刘雯担任模特，整个封面极具中国古典美学。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/wallpaper%E5%8D%B7%E5%AE%97.jpg" alt="wallpaper卷宗"></p>
 
-                    <h3 id="2.%20%3Ca%20href=%22http://voicer.me%22%3EVoicer%3C/a%3E">
-                        <a href="#2.%20%3Ca%20href=%22http://voicer.me%22%3EVoicer%3C/a%3E">2. <a href="http://voicer.me">Voicer</a></a>
+                    <h3 id="2-voicer">
+                        <a href="#2-voicer">2. <a href="http://voicer.me">Voicer</a></a>
                     </h3>
                 <p><img src="https://tangweijuan.github.io/weekly/image/voicer.jpg" alt="voicer"></p>
 <p>一个独立品牌线上杂志，用他们自己的介绍来说就是：</p>
@@ -34,32 +34,32 @@ e:T136c,
 </blockquote>
 <p>他们也有自己的公众号，可以在手机上方便地获得最新内容，喜欢听播客的还可以收听他们的播客「吃茶」。</p>
 
-                    <h3 id="3. Holiday">
-                        <a href="#3. Holiday">3. Holiday</a>
+                    <h3 id="3-holiday">
+                        <a href="#3-holiday">3. Holiday</a>
                     </h3>
                 <p><img src="https://tangweijuan.github.io/weekly/image/holiday.jpg" alt="holiday"></p>
 <p>从Voicer知道的这个杂志：“从前有一本美国杂志，嚣张到令人发指：派摄影师公费拍外景，不指定地点，一走就是一年半载；而内文阵容有多梦幻呢？随便翻开一篇专题，作者就是海明威本人。”</p>
 <p>原文在这里 <a href="https://mp.weixin.qq.com/s/ZwLJBIupKp2l7-hzbfNzaQ">如何不上班？这本杂志研究了70年……</a></p>
 
-                    <h3 id="4.%20%3Ca%20href=%22https://www.nowness.cn/%22%3ENOWNESS%3C/a%3E">
-                        <a href="#4.%20%3Ca%20href=%22https://www.nowness.cn/%22%3ENOWNESS%3C/a%3E">4. <a href="https://www.nowness.cn/">NOWNESS</a></a>
+                    <h3 id="4-nowness">
+                        <a href="#4-nowness">4. <a href="https://www.nowness.cn/">NOWNESS</a></a>
                     </h3>
                 <p><img src="https://tangweijuan.github.io/weekly/image/nowness.jpg" alt="nowness"></p>
 <p>一个国际创意短片平台，主要以视频为载体，展现当代艺术与设计、时尚与美容、音乐、美食与旅行、文化等内容，每一个短片质量都非常高。</p>
 
-                    <h3 id="5.%20%3Ca%20href=%22https://www.abitare.it/en/%22%3EABITARE%3C/a%3E">
-                        <a href="#5.%20%3Ca%20href=%22https://www.abitare.it/en/%22%3EABITARE%3C/a%3E">5. <a href="https://www.abitare.it/en/">ABITARE</a></a>
+                    <h3 id="5-abitare">
+                        <a href="#5-abitare">5. <a href="https://www.abitare.it/en/">ABITARE</a></a>
                     </h3>
                 <p><img src="https://tangweijuan.github.io/weekly/image/abitare.jpg" alt="abitare">
 源于意大利的建筑杂志，在建筑、设计、人文等方面都有很深度的解析。</p>
 
-                    <h3 id="6. 杂志迷">
-                        <a href="#6. 杂志迷">6. 杂志迷</a>
+                    <h3 id="6-杂志迷">
+                        <a href="#6-杂志迷">6. 杂志迷</a>
                     </h3>
                 <p>一个免费的时尚杂志app，大多为日本杂志，能直接在app上看。</p>
 
-                    <h3 id="7.%20%3Ca%20href=%22http://www.guapi.cn/%22%3E%E8%B0%B7%E5%8D%9A%E6%9D%82%E5%BF%97%E9%A6%86%3C/a%3E">
-                        <a href="#7.%20%3Ca%20href=%22http://www.guapi.cn/%22%3E%E8%B0%B7%E5%8D%9A%E6%9D%82%E5%BF%97%E9%A6%86%3C/a%3E">7. <a href="http://www.guapi.cn/">谷博杂志馆</a></a>
+                    <h3 id="7-谷博杂志馆">
+                        <a href="#7-谷博杂志馆">7. <a href="http://www.guapi.cn/">谷博杂志馆</a></a>
                     </h3>
                 <p><img src="https://tangweijuan.github.io/weekly/image/%E8%B0%B7%E5%8D%9A%E6%9D%82%E5%BF%97%E9%A6%86.jpg" alt="谷博杂志馆">
 一个杂志网站，搜集了很多杂志的电子版，免费收费的都有，需下载后观看。</p>

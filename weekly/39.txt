@@ -1,45 +1,45 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","39","d"],{"children":["__PAGE__?{\"url\":\"39\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","39","d"],{"children":["__PAGE__?{\"url\":\"39\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/adc2e98f4fe7f6c0.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"Image","async":false}
 1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","39","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"39\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/adc2e98f4fe7f6c0.css","precedence":"next"}]]}],"segment":["url","39","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.39：设计文章、效率工具 | 唐维娟"}],["$","meta","2",{"name":"description","content":"工具型产品如何简化设计；硬核的色彩系统总结；产品视觉设计过程中，那些可以提高效率的小细节；用研新人如何上手B端调研"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-e:T2abb,
-                    <h1 id="Vol.39：设计文章、效率工具">
-                        <a href="#Vol.39：设计文章、效率工具">Vol.39：设计文章、效率工具</a>
+e:T1fb1,
+                    <h1 id="vol39设计文章效率工具">
+                        <a href="#vol39设计文章效率工具">Vol.39：设计文章、效率工具</a>
                     </h1>
                 <p>你好，欢迎阅读我的周刊第 39 期。在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
 <hr>
 <p>本周分享一些优秀设计文章和效率工具。</p>
 
-                    <h2 id="一、文章">
-                        <a href="#一、文章">一、文章</a>
+                    <h2 id="一文章">
+                        <a href="#一文章">一、文章</a>
                     </h2>
                 
-                    <h3 id="1%E3%80%81%3Ca%20href=%22https://isux.tencent.com/articles/isux-ux-makesimple.html%22%3E%E9%9D%A2%E5%AF%B9%E7%B9%81%E5%86%97%EF%BC%8C%E6%8B%92%E7%BB%9D%E2%80%9C%E6%91%86%E7%83%82%E2%80%9D%EF%BD%9C%E5%B7%A5%E5%85%B7%E5%9E%8B%E4%BA%A7%E5%93%81%E5%A6%82%E4%BD%95%E7%AE%80%E5%8C%96%E8%AE%BE%E8%AE%A1%3C/a%3E%20by%20%E8%85%BE%E8%AE%AF%E7%A4%BE%E4%BA%A4%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%E9%83%A8">
-                        <a href="#1%E3%80%81%3Ca%20href=%22https://isux.tencent.com/articles/isux-ux-makesimple.html%22%3E%E9%9D%A2%E5%AF%B9%E7%B9%81%E5%86%97%EF%BC%8C%E6%8B%92%E7%BB%9D%E2%80%9C%E6%91%86%E7%83%82%E2%80%9D%EF%BD%9C%E5%B7%A5%E5%85%B7%E5%9E%8B%E4%BA%A7%E5%93%81%E5%A6%82%E4%BD%95%E7%AE%80%E5%8C%96%E8%AE%BE%E8%AE%A1%3C/a%3E%20by%20%E8%85%BE%E8%AE%AF%E7%A4%BE%E4%BA%A4%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%E9%83%A8">1、<a href="https://isux.tencent.com/articles/isux-ux-makesimple.html">面对繁冗，拒绝“摆烂”｜工具型产品如何简化设计</a> by 腾讯社交用户体验设计部</a>
+                    <h3 id="1面对繁冗拒绝“摆烂”｜工具型产品如何简化设计-by-腾讯社交用户体验设计部">
+                        <a href="#1面对繁冗拒绝“摆烂”｜工具型产品如何简化设计-by-腾讯社交用户体验设计部">1、<a href="https://isux.tencent.com/articles/isux-ux-makesimple.html">面对繁冗，拒绝“摆烂”｜工具型产品如何简化设计</a> by 腾讯社交用户体验设计部</a>
                     </h3>
                 <blockquote>
 <p>从用户感知层面尝试分析用户感觉复杂的原因，并根据以往项目经验给出一些工具型产品简化设计的方法。</p>
 </blockquote>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-ux-makesimple.png" alt="39-ux-makesimple"></p>
 
-                    <h3 id="2%E3%80%81%3Ca%20href=%22https://mp.weixin.qq.com/s/kibQedZ09TCU2nxJG_v4pQ%22%3E%EF%BC%88%E5%8F%AF%E8%83%BD%E6%98%AF%EF%BC%89%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E8%89%B2%E5%BD%A9%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BB%93%3C/a%3E%20by%20%E9%98%85%E6%96%87%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1YUX">
-                        <a href="#2%E3%80%81%3Ca%20href=%22https://mp.weixin.qq.com/s/kibQedZ09TCU2nxJG_v4pQ%22%3E%EF%BC%88%E5%8F%AF%E8%83%BD%E6%98%AF%EF%BC%89%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E8%89%B2%E5%BD%A9%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BB%93%3C/a%3E%20by%20%E9%98%85%E6%96%87%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1YUX">2、<a href="https://mp.weixin.qq.com/s/kibQedZ09TCU2nxJG_v4pQ">（可能是）最硬核的色彩系统总结</a> by 阅文体验设计YUX</a>
+                    <h3 id="2（可能是）最硬核的色彩系统总结-by-阅文体验设计yux">
+                        <a href="#2（可能是）最硬核的色彩系统总结-by-阅文体验设计yux">2、<a href="https://mp.weixin.qq.com/s/kibQedZ09TCU2nxJG_v4pQ">（可能是）最硬核的色彩系统总结</a> by 阅文体验设计YUX</a>
                     </h3>
                 <blockquote>
 <p>当我们开启一个新组件库的设计时，搭建色彩系统往往是我们要做的第一件事。作者通过真实的项目经验结合深入的理论知识，带来这篇 YUX 最硬核的色彩系统设计文章。</p>
 </blockquote>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-color-system.png" alt="39-color-system"></p>
 
-                    <h3 id="3%E3%80%81%3Ca%20href=%22https://mp.weixin.qq.com/s/RapxXWSVmlTOPJBihIQbow%22%3E%E8%BF%99%E4%BA%9B%E8%AE%BE%E8%AE%A1%E7%BB%86%E8%8A%82%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%9F%3C/a%3E%20by%20%E7%BE%A4%E6%A0%B8%E7%A7%91%E6%8A%80%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1">
-                        <a href="#3%E3%80%81%3Ca%20href=%22https://mp.weixin.qq.com/s/RapxXWSVmlTOPJBihIQbow%22%3E%E8%BF%99%E4%BA%9B%E8%AE%BE%E8%AE%A1%E7%BB%86%E8%8A%82%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%9F%3C/a%3E%20by%20%E7%BE%A4%E6%A0%B8%E7%A7%91%E6%8A%80%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1">3、<a href="https://mp.weixin.qq.com/s/RapxXWSVmlTOPJBihIQbow">这些设计细节你知道吗？</a> by 群核科技用户体验设计</a>
+                    <h3 id="3这些设计细节你知道吗-by-群核科技用户体验设计">
+                        <a href="#3这些设计细节你知道吗-by-群核科技用户体验设计">3、<a href="https://mp.weixin.qq.com/s/RapxXWSVmlTOPJBihIQbow">这些设计细节你知道吗？</a> by 群核科技用户体验设计</a>
                     </h3>
                 <blockquote>
 <p>产品视觉设计过程中，那些可以提高效率的小细节。</p>
@@ -55,8 +55,8 @@ e:T2abb,
 <p>团队工作流程的规范性。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-design-detail.png" alt="39-design-detail"></p>
 
-                    <h3 id="4%E3%80%81%3Ca%20href=%22https://jelly.jd.com/article/63d6b22e7003cc0061e342a4%22%3E%E7%94%A8%E7%A0%94%E6%96%B0%E4%BA%BA%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BB%E7%AB%AF%E8%B0%83%E7%A0%94%EF%BC%9F%3C/a%3E%20by%20%E4%BA%AC%E4%B8%9C%E9%9B%B6%E5%94%AE%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1">
-                        <a href="#4%E3%80%81%3Ca%20href=%22https://jelly.jd.com/article/63d6b22e7003cc0061e342a4%22%3E%E7%94%A8%E7%A0%94%E6%96%B0%E4%BA%BA%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BB%E7%AB%AF%E8%B0%83%E7%A0%94%EF%BC%9F%3C/a%3E%20by%20%E4%BA%AC%E4%B8%9C%E9%9B%B6%E5%94%AE%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1">4、<a href="https://jelly.jd.com/article/63d6b22e7003cc0061e342a4">用研新人如何上手B端调研？</a> by 京东零售体验设计</a>
+                    <h3 id="4用研新人如何上手b端调研-by-京东零售体验设计">
+                        <a href="#4用研新人如何上手b端调研-by-京东零售体验设计">4、<a href="https://jelly.jd.com/article/63d6b22e7003cc0061e342a4">用研新人如何上手B端调研？</a> by 京东零售体验设计</a>
                     </h3>
                 <p>关于 B 端与 C 端的区别，以及如何进行 B 端调研。</p>
 <p><strong>B 端与 C 端的区别</strong>：</p>
@@ -72,42 +72,42 @@ e:T2abb,
 <p>**拓宽竞品分析的边界：**B 端产品往往是服务于特定企业，具有个性化需求，难以从市场中获取相关信息。要敢于申请竞品账号；不要忽略询问受访者对竞品的态度</p>
 </blockquote>
 
-                    <h2 id="二、工具">
-                        <a href="#二、工具">二、工具</a>
+                    <h2 id="二工具">
+                        <a href="#二工具">二、工具</a>
                     </h2>
                 
-                    <h3 id="1%E3%80%81%3Ca%20href=%22https://tuya.xinxiao.tech/%22%3E%E5%9B%BE%E5%8E%8B%3C/a%3E">
-                        <a href="#1%E3%80%81%3Ca%20href=%22https://tuya.xinxiao.tech/%22%3E%E5%9B%BE%E5%8E%8B%3C/a%3E">1、<a href="https://tuya.xinxiao.tech/">图压</a></a>
+                    <h3 id="1图压">
+                        <a href="#1图压">1、<a href="https://tuya.xinxiao.tech/">图压</a></a>
                     </h3>
                 <p>免费的图片压缩工具。操作简单，特别是对于大批量压缩，速度快；支持多种图片格式，可以自定义图片尺寸；压缩等级分10 级，一般用 4 级效果就很好了。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-tuya.png" alt="39-tuya"></p>
 
-                    <h3 id="2%E3%80%81%3Ca%20href=%22https://loading.io/%22%3ELOADING.IO%3C/a%3E">
-                        <a href="#2%E3%80%81%3Ca%20href=%22https://loading.io/%22%3ELOADING.IO%3C/a%3E">2、<a href="https://loading.io/">LOADING.IO</a></a>
+                    <h3 id="2loadingio">
+                        <a href="#2loadingio">2、<a href="https://loading.io/">LOADING.IO</a></a>
                     </h3>
                 <p>在线制作加载动画。可下载多种格式的图像。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-loading.png" alt="39-loading"></p>
 
-                    <h3 id="3%E3%80%81%3Ca%20href=%22https://coding-fonts.netlify.app/fonts/anonymous-pro/%22%3ECoding%20Fonts%3C/a%3E">
-                        <a href="#3%E3%80%81%3Ca%20href=%22https://coding-fonts.netlify.app/fonts/anonymous-pro/%22%3ECoding%20Fonts%3C/a%3E">3、<a href="https://coding-fonts.netlify.app/fonts/anonymous-pro/">Coding Fonts</a></a>
+                    <h3 id="3coding-fonts">
+                        <a href="#3coding-fonts">3、<a href="https://coding-fonts.netlify.app/fonts/anonymous-pro/">Coding Fonts</a></a>
                     </h3>
                 <p>等宽编程字体效果合集。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-coding-fonts.png" alt="39-coding-fonts"></p>
 
-                    <h3 id="4%E3%80%81%3Ca%20href=%22https://www.programmingfonts.org/#font3270%22%3EPrograming%20Fonts%3C/a%3E">
-                        <a href="#4%E3%80%81%3Ca%20href=%22https://www.programmingfonts.org/#font3270%22%3EPrograming%20Fonts%3C/a%3E">4、<a href="https://www.programmingfonts.org/#font3270">Programing Fonts</a></a>
+                    <h3 id="4programing-fonts">
+                        <a href="#4programing-fonts">4、<a href="https://www.programmingfonts.org/#font3270">Programing Fonts</a></a>
                     </h3>
                 <p>编程字体效果在线测试。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-programming-fonts.png" alt="39-programming-fonts"></p>
 
-                    <h3 id="5%E3%80%81%20%3Ca%20href=%22https://minimator.app/#/home%22%3Eminimator%3C/a%3E">
-                        <a href="#5%E3%80%81%20%3Ca%20href=%22https://minimator.app/#/home%22%3Eminimator%3C/a%3E">5、 <a href="https://minimator.app/#/home">minimator</a></a>
+                    <h3 id="5-minimator">
+                        <a href="#5-minimator">5、 <a href="https://minimator.app/#/home">minimator</a></a>
                     </h3>
                 <p>极简的图形编辑器，用直线、1/4 圆弧线绘制图形。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-minimator.png" alt="39-minimator"></p>
 
-                    <h3 id="6%E3%80%81%3Ca%20href=%22https://peeps.ui8.net/%22%3EPeeps%20Avatar%3C/a%3E">
-                        <a href="#6%E3%80%81%3Ca%20href=%22https://peeps.ui8.net/%22%3EPeeps%20Avatar%3C/a%3E">6、<a href="https://peeps.ui8.net/">Peeps Avatar</a></a>
+                    <h3 id="6peeps-avatar">
+                        <a href="#6peeps-avatar">6、<a href="https://peeps.ui8.net/">Peeps Avatar</a></a>
                     </h3>
                 <p>在线 3D 头像编辑器。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/39-peeps-avatar.png" alt="39-peeps-avatar"></p>

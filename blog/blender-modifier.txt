@@ -1,20 +1,21 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","blender-modifier","d"],{"children":["__PAGE__?{\"url\":\"blender-modifier\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","blender-modifier","d"],{"children":["__PAGE__?{\"url\":\"blender-modifier\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
-6:HL["/_next/static/css/b6ab8f04903aface.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
-c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-d359e1be983abf1f.js"],"name":"","async":false}
-d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-d359e1be983abf1f.js"],"name":"Image","async":false}
-1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","blender-modifier","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"blender-modifier\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b6ab8f04903aface.css","precedence":"next"}]]}],"segment":["url","blender-modifier","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","blender-modifier","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"blender-modifier\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","blender-modifier","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Blender 修改器 | 唐维娟"}],["$","meta","2",{"name":"description","content":"Blender 修改器基本介绍"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
 b:"$Le"
 a:null
-f:T2bfd,
-                    <h1 id="Blender 修改器">
-                        <a href="#Blender 修改器">Blender 修改器</a>
+10:I{"id":5506,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-e271aa6b493ead77.js"],"name":"TOC","async":false}
+f:T2c11,
+                    <h1 id="blender-修改器">
+                        <a href="#blender-修改器">Blender 修改器</a>
                     </h1>
                 <p>修改器是一种自动操作，以非破坏性的方式影响对象的几何形状。修改器的工作原理是改变对象的显示和渲染方式，而不是改变可以直接编辑的几何图形。</p>
 <p><strong>添加修改器：</strong> <code>属性编辑器</code> &gt; <code>修改器属性</code> &gt; <code>添加修改器</code></p>
@@ -33,8 +34,8 @@ f:T2bfd,
 <p><strong>4.模拟 Physics</strong></p>
 <p>这些模拟代表的是物理模拟 。在大多数情况下，只要启用了粒子系统或物理模拟，它们就会自动添加到修改器堆队列中。它们唯一的作用是定义其在修改器堆队列中的位置，从这个位置获取它们所表示的模拟的基本数据。因此，它们通常没有属性，由属性编辑器中单独关于模拟的部分中的设置控制。</p>
 
-                    <h2 id="表面细分修改器 Subdivision Surface Modifier">
-                        <a href="#表面细分修改器 Subdivision Surface Modifier">表面细分修改器 Subdivision Surface Modifier</a>
+                    <h2 id="表面细分修改器-subdivision-surface-modifier">
+                        <a href="#表面细分修改器-subdivision-surface-modifier">表面细分修改器 Subdivision Surface Modifier</a>
                     </h2>
                 <blockquote>
 <p><a href="https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/subdivision_surface.html">https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/subdivision_surface.html</a></p>
@@ -76,16 +77,16 @@ f:T2bfd,
 <p>所选边的折痕权重可以在3D视图的侧栏的 变换 面板中更改。类似缩放工具的 Shift-E 也可以用来调整折痕的权重。数值越大，边缘越 锐利 ，对细分曲面的平滑效果越有抵抗力。</p>
 <p>（2）加循环边</p>
 
-                    <h2 id="实体化修改器 Solidify Modifier">
-                        <a href="#实体化修改器 Solidify Modifier">实体化修改器 Solidify Modifier</a>
+                    <h2 id="实体化修改器-solidify-modifier">
+                        <a href="#实体化修改器-solidify-modifier">实体化修改器 Solidify Modifier</a>
                     </h2>
                 <blockquote>
 <p><a href="https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/solidify.html">https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/solidify.html</a></p>
 </blockquote>
 <p>实体化修改器获取任意网格的表面，然后为之添加深度，使之变厚。</p>
 
-                    <h2 id="倒角修改器 Bezel Modifier">
-                        <a href="#倒角修改器 Bezel Modifier">倒角修改器 Bezel Modifier</a>
+                    <h2 id="倒角修改器-bezel-modifier">
+                        <a href="#倒角修改器-bezel-modifier">倒角修改器 Bezel Modifier</a>
                     </h2>
                 <blockquote>
 <p><a href="https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/bevel.html">https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/bevel.html</a></p>
@@ -103,8 +104,8 @@ f:T2bfd,
 <li>绝对 Absolute：沿着与斜面边缘相邻的边缘的确切距离。当连接到斜面边缘的非斜面边缘与直角以外的角度相遇时，可以看到与偏移的差异。</li>
 </ul>
 
-                    <h2 id="布尔修改器 Boolean Modifier">
-                        <a href="#布尔修改器 Boolean Modifier">布尔修改器 Boolean Modifier</a>
+                    <h2 id="布尔修改器-boolean-modifier">
+                        <a href="#布尔修改器-boolean-modifier">布尔修改器 Boolean Modifier</a>
                     </h2>
                 <blockquote>
 <p><a href="https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/booleans.html">https://docs.blender.org/manual/zh-hans/4.0/modeling/modifiers/generate/booleans.html</a></p>
@@ -112,8 +113,8 @@ f:T2bfd,
 <p>布尔修改器可以对两个物体进行三种布尔运算（并集、差集、交集）。</p>
 <p><img src="../assests/blog/image/three-bool.png" alt="三种布尔运算"></p>
 
-                    <h2 id="蒙皮修改器 Skin Modifier">
-                        <a href="#蒙皮修改器 Skin Modifier">蒙皮修改器 Skin Modifier</a>
+                    <h2 id="蒙皮修改器-skin-modifier">
+                        <a href="#蒙皮修改器-skin-modifier">蒙皮修改器 Skin Modifier</a>
                     </h2>
                 
                     <h3 id="作用">
@@ -122,8 +123,8 @@ f:T2bfd,
                 <p>蒙皮修改器使用顶点和边来创建蒙皮面，使用每个顶点的半径来更好地定义形状。</p>
 <p><img src="../assests/blog/image/modeling_modifiers_generate_skin_panel.png" alt="蒙皮修改器参数"></p>
 
-                    <h3 id="基本操作">
-                        <a href="#基本操作">基本操作</a>
+                    <h3 id="基本操作-2">
+                        <a href="#基本操作-2">基本操作</a>
                     </h3>
                 <ol>
 <li>创建顶点。可以先创建一个任意网格物体，编辑模式下，<code>M</code> 合并顶点到中心</li>
@@ -143,19 +144,19 @@ f:T2bfd,
 <li><code>Ctrl R</code>：插入顶点。注意快捷键不是 <code>S</code> ，而是 <code>Ctrl A</code>，<code>Ctrl + A</code> 以后再按 <code>X/Y</code> 可以把缩放约束到某一个轴向上</li>
 </ul>
 
-                    <h2 id="置换修改器 Displace Modifier">
-                        <a href="#置换修改器 Displace Modifier">置换修改器 Displace Modifier</a>
+                    <h2 id="置换修改器-displace-modifier">
+                        <a href="#置换修改器-displace-modifier">置换修改器 Displace Modifier</a>
                     </h2>
                 
-                    <h3 id="作用">
-                        <a href="#作用">作用</a>
+                    <h3 id="作用-2">
+                        <a href="#作用-2">作用</a>
                     </h3>
                 <p>置换修改器根据纹理的强度置换网格中的顶点。可以使用程序纹理或图像纹理。</p>
 <p>主要用来模拟凹凸效果。</p>
 <p><img src="../assests/blog/image/modeling_modifiers_deform_displace_example.jpg" alt="置换修改器效果"></p>
 
-                    <h3 id="基本操作">
-                        <a href="#基本操作">基本操作</a>
+                    <h3 id="基本操作-3">
+                        <a href="#基本操作-3">基本操作</a>
                     </h3>
                 <ol>
 <li>添加平面，并表面细分。因为置换修改器是置换网格中的顶点，顶点太少置换效果就不明显，细分是为了增加顶点。可以在编辑模式下右键，选择细分，也可以添加表面细分修改器或多级精度修改器来实现细分</li>
@@ -164,17 +165,17 @@ f:T2bfd,
 <li>调整置换修改器和贴图参数。</li>
 </ol>
 
-                    <h2 id="镜像修改器 Mirror Modifier">
-                        <a href="#镜像修改器 Mirror Modifier">镜像修改器 Mirror Modifier</a>
+                    <h2 id="镜像修改器-mirror-modifier">
+                        <a href="#镜像修改器-mirror-modifier">镜像修改器 Mirror Modifier</a>
                     </h2>
                 
-                    <h3 id="作用">
-                        <a href="#作用">作用</a>
+                    <h3 id="作用-3">
+                        <a href="#作用-3">作用</a>
                     </h3>
                 <p>镜像修改器沿着自身 X/Y/Z 轴，穿过物体原点镜像网格。还可以使用另一个物体作为镜像中心，使用该物体的局部轴向而非自身轴向。</p>
 
-                    <h3 id="基本操作">
-                        <a href="#基本操作">基本操作</a>
+                    <h3 id="基本操作-4">
+                        <a href="#基本操作-4">基本操作</a>
                     </h3>
                 <ol>
 <li>选择需要镜像的物体</li>
@@ -191,4 +192,4 @@ f:T2bfd,
 <li>切分：删除镜像平面一侧网格，可翻转</li>
 <li>合并：对间距小于阈值的顶点进行合并</li>
 </ol>
-e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2023/10/9"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","div",null,{"className":"TOC_toc__wmjkY","children":[null,["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#修改器类型","children":"修改器类型"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#表面细分修改器 Subdivision Surface Modifier","children":"表面细分修改器 Subdivision Surface Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#基本操作","children":"基本操作"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#模式区别","children":"模式区别"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#相关快捷键","children":"相关快捷键"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#常见问题","children":"常见问题"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#实体化修改器 Solidify Modifier","children":"实体化修改器 Solidify Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#倒角修改器 Bezel Modifier","children":"倒角修改器 Bezel Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#布尔修改器 Boolean Modifier","children":"布尔修改器 Boolean Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#蒙皮修改器 Skin Modifier","children":"蒙皮修改器 Skin Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#作用","children":"作用"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#基本操作","children":"基本操作"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#快捷键","children":"快捷键"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#置换修改器 Displace Modifier","children":"置换修改器 Displace Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#作用","children":"作用"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#基本操作","children":"基本操作"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"16px"},"children":["$","a",null,{"href":"#镜像修改器 Mirror Modifier","children":"镜像修改器 Mirror Modifier"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#作用","children":"作用"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#基本操作","children":"基本操作"}]}],["$","div",null,{"className":"TOC_tocItem__cEk2W","style":{"paddingLeft":"24px"},"children":["$","a",null,{"href":"#技术关键点","children":"技术关键点"}]}]]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/blender-basic","children":["$","div",null,{"children":["上一篇：","Blender基础操作"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/keychron-k2-manual","children":["$","div",null,{"children":["下一篇：","京东京造 Keychron K2 键盘操作说明书"]}]}]}]]}]]}]
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2023/10/9"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"Blender 修改器","level":1,"href":"#blender-修改器"},{"title":"修改器类型","level":2,"href":"#修改器类型"},{"title":"表面细分修改器 Subdivision Surface Modifier","level":2,"href":"#表面细分修改器-subdivision-surface-modifier"},{"title":"基本操作","level":3,"href":"#基本操作"},{"title":"模式区别","level":3,"href":"#模式区别"},{"title":"相关快捷键","level":3,"href":"#相关快捷键"},{"title":"常见问题","level":3,"href":"#常见问题"},{"title":"实体化修改器 Solidify Modifier","level":2,"href":"#实体化修改器-solidify-modifier"},{"title":"倒角修改器 Bezel Modifier","level":2,"href":"#倒角修改器-bezel-modifier"},{"title":"布尔修改器 Boolean Modifier","level":2,"href":"#布尔修改器-boolean-modifier"},{"title":"蒙皮修改器 Skin Modifier","level":2,"href":"#蒙皮修改器-skin-modifier"},{"title":"作用","level":3,"href":"#作用"},{"title":"基本操作","level":3,"href":"#基本操作-2"},{"title":"快捷键","level":3,"href":"#快捷键"},{"title":"置换修改器 Displace Modifier","level":2,"href":"#置换修改器-displace-modifier"},{"title":"作用","level":3,"href":"#作用-2"},{"title":"基本操作","level":3,"href":"#基本操作-3"},{"title":"镜像修改器 Mirror Modifier","level":2,"href":"#镜像修改器-mirror-modifier"},{"title":"作用","level":3,"href":"#作用-3"},{"title":"基本操作","level":3,"href":"#基本操作-4"},{"title":"技术关键点","level":3,"href":"#技术关键点"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/blender-basic","children":["$","div",null,{"children":["上一篇：","Blender基础操作"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/keychron-k2-manual","children":["$","div",null,{"children":["下一篇：","京东京造 Keychron K2 键盘操作说明书"]}]}]}]]}]]}]

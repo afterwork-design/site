@@ -1,24 +1,24 @@
-0:["AwgUjNp4JkSiv0_R3rsBf",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","41","d"],{"children":["__PAGE__?{\"url\":\"41\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["5Aa5Oy58T1K3xpVHYz8UN",[[["",{"children":["(default_site)",{"children":["weekly",{"children":[["url","41","d"],{"children":["__PAGE__?{\"url\":\"41\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/adc2e98f4fe7f6c0.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-d5d54dae41e46f39.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-5b00618e38cee012.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","341:static/chunks/app/(default_site)/weekly/[url]/page-28adcf75beac9091.js"],"name":"Image","async":false}
 1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","weekly","children",["url","41","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"41\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/adc2e98f4fe7f6c0.css","precedence":"next"}]]}],"segment":["url","41","d"]},"styles":[]}],"segment":"weekly"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2025," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Vol.41：PRD写作指南、可视化图表、设计系统、绘画书籍 | 唐维娟"}],["$","meta","2",{"name":"description","content":"1. 关于设计： 产品需求文档写作指南；72 种可视化图表的使用方式；设计系统相关的教程、文章、书籍和案例；背景纹理图案。2. 关于画画：《奥列弗风景速写教学》、《带上画笔去旅行》、极命草木-曾孝廉的演讲、3D 素材库"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
-e:T2229,
-                    <h1 id="Vol.41：PRD写作指南、可视化图表、设计系统、绘画书籍">
-                        <a href="#Vol.41：PRD写作指南、可视化图表、设计系统、绘画书籍">Vol.41：PRD写作指南、可视化图表、设计系统、绘画书籍</a>
+e:T2209,
+                    <h1 id="vol41prd写作指南可视化图表设计系统绘画书籍">
+                        <a href="#vol41prd写作指南可视化图表设计系统绘画书籍">Vol.41：PRD写作指南、可视化图表、设计系统、绘画书籍</a>
                     </h1>
                 <p>你好，欢迎阅读我的周刊第 41 期。在这里，我将分享近期我读到的、看到的有趣或有用的东西，也分享我的一些灵感和想法。</p>
 <hr>
 
-                    <h2 id="📃 产品需求文档写作指南">
-                        <a href="#📃 产品需求文档写作指南">📃 产品需求文档写作指南</a>
+                    <h2 id="📃-产品需求文档写作指南">
+                        <a href="#📃-产品需求文档写作指南">📃 产品需求文档写作指南</a>
                     </h2>
                 <blockquote>
 <p><a href="https://www.wolai.com/hjTNCjSczr8VbMsoqA76ED">https://www.wolai.com/hjTNCjSczr8VbMsoqA76ED</a></p>
@@ -33,8 +33,8 @@ e:T2229,
 </blockquote>
 <p><img src="https://tangweijuan.github.io/weekly/image/41-prd.png" alt="41-prd"></p>
 
-                    <h2 id="📃 如何使用视觉类比-信息图进行可视化思考？">
-                        <a href="#📃 如何使用视觉类比-信息图进行可视化思考？">📃 如何使用视觉类比-信息图进行可视化思考？</a>
+                    <h2 id="📃-如何使用视觉类比-信息图进行可视化思考">
+                        <a href="#📃-如何使用视觉类比-信息图进行可视化思考">📃 如何使用视觉类比-信息图进行可视化思考？</a>
                     </h2>
                 <blockquote>
 <p>原文：<a href="https://blog.adioma.com/how-to-think-visually-using-visual-analogies-infographic/">https://blog.adioma.com/how-to-think-visually-using-visual-analogies-infographic/</a></p>
@@ -43,8 +43,8 @@ e:T2229,
 <p>可视化能利用人的视觉的强大感知能力，将信息通过图表的形式快速表达出来。可视化不仅包含数据可视化，还包含信息可视化，作者 Anna Vital 从我们最常见的图表，到不常见的抽象类比、模拟类比、寓言故事，一共介绍了 72 种可视化的使用方式。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/41-infographic.png" alt="How to think visually using visual analogies - infographic"></p>
 
-                    <h2 id="💻 Design System">
-                        <a href="#💻 Design System">💻 Design System</a>
+                    <h2 id="💻-design-system">
+                        <a href="#💻-design-system">💻 Design System</a>
                     </h2>
                 <blockquote>
 <p><a href="https://designsystem.cc/">https://designsystem.cc/</a></p>
@@ -70,8 +70,8 @@ e:T2229,
 <p>内容看起来很轻松，作者用 6 个城市，20 个地点，讲解了食物、植物、建筑等题材的钢笔淡彩画法，技巧清晰，能鼓励用画笔去记录生活。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/41-%E5%B8%A6%E4%B8%8A%E7%94%BB%E7%AC%94%E5%8E%BB%E6%97%85%E8%A1%8C.jpg" alt="带上画笔去旅行"></p>
 
-                    <h2 id="🎞️ 极命草木">
-                        <a href="#🎞️ 极命草木">🎞️ 极命草木</a>
+                    <h2 id="🎞️-极命草木">
+                        <a href="#🎞️-极命草木">🎞️ 极命草木</a>
                     </h2>
                 <blockquote>
 <p><a href="https://www.yixi.tv/#/speech/detail?id=1146">https://www.yixi.tv/#/speech/detail?id=1146</a></p>
@@ -86,8 +86,8 @@ e:T2229,
                         <a href="#其他资源">其他资源</a>
                     </h2>
                 
-                    <h3 id="💻 PixelSquid">
-                        <a href="#💻 PixelSquid">💻 PixelSquid</a>
+                    <h3 id="💻-pixelsquid">
+                        <a href="#💻-pixelsquid">💻 PixelSquid</a>
                     </h3>
                 <blockquote>
 <p><a href="https://www.pixelsquid.com/">https://www.pixelsquid.com/</a></p>
@@ -96,8 +96,8 @@ e:T2229,
 <p><img src="https://tangweijuan.github.io/weekly/image/41-pixelsquid.png" alt="41-pixelsquid"></p>
 <p><img src="https://tangweijuan.github.io/weekly/image/41-pixelsquid.gif" alt="41-pixelsquid"></p>
 
-                    <h3 id="💻 Hero Patterns">
-                        <a href="#💻 Hero Patterns">💻 Hero Patterns</a>
+                    <h3 id="💻-hero-patterns">
+                        <a href="#💻-hero-patterns">💻 Hero Patterns</a>
                     </h3>
                 <blockquote>
 <p><a href="https://heropatterns.com/">https://heropatterns.com/</a></p>
@@ -105,8 +105,8 @@ e:T2229,
 <p>一组可重复的 SVG 背景图案，可导出 SVG 图片，或直接复制 CSS。</p>
 <p><img src="https://tangweijuan.github.io/weekly/image/41-hero-patterns.png" alt="Hero Patterns  Free repeatable SVG background patterns for your w"></p>
 
-                    <h3 id="💻 Tabbied">
-                        <a href="#💻 Tabbied">💻 Tabbied</a>
+                    <h3 id="💻-tabbied">
+                        <a href="#💻-tabbied">💻 Tabbied</a>
                     </h3>
                 <blockquote>
 <p><a href="https://tabbied.com/select-artwork">https://tabbied.com/select-artwork</a></p>
