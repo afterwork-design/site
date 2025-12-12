@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Dec 2025 10:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 04:47:22 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Dec 2025 10:03:30 GMT</pubDate>
+        <pubDate>Fri, 12 Dec 2025 04:46:59 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -463,6 +463,13 @@
             <link>/illustration/watercolour</link>
             <guid isPermaLink="false">/illustration/watercolour</guid>
             <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vol. 56：深秋的一些简短记录. md]]></title>
+            <description><![CDATA[记录了从设计工具 Figma Make 的实践、团队决策方法「不同意但试试看」、秋季生活观察到星露谷物语心态变化的一系列个人探索，涵盖效率工具与生活随笔。]]></description>
+            <link>/weekly/vol-56</link>
+            <guid isPermaLink="false">/weekly/vol-56</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vol.55：阅读、设计、生活杂记]]></title>
