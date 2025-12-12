@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 09:23:28 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Dec 2025 04:46:59 GMT</pubDate>
+        <pubDate>Fri, 12 Dec 2025 09:23:05 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2025, Ibas]]></copyright>
         <item>
             <title><![CDATA[【节气元素24】大寒]]></title>
@@ -911,6 +911,13 @@
             <link>/weekly/Illustration-art-design-sharing</link>
             <guid isPermaLink="false">/weekly/Illustration-art-design-sharing</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意外遇见了完美补齐我需求的 Markdown 编辑器]]></title>
+            <description><![CDATA[用 Bear Blog，开启你的极简写作之旅吧！]]></description>
+            <link>/blog/how-i-met-bearblog</link>
+            <guid isPermaLink="false">/blog/how-i-met-bearblog</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[YouMind 界面使用指南 - 对话、资料、作品三大模块详解]]></title>
