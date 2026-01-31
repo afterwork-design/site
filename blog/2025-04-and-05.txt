@@ -1,0 +1,104 @@
+0:["ksmAk5RYhHK6srQh8u79K",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","2025-04-and-05","d"],{"children":["__PAGE__?{\"url\":\"2025-04-and-05\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
+5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
+6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-ede05591c602bbd4.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-ede05591c602bbd4.js","971:static/chunks/fd9d1056-a90598d66a535d0b.js","596:static/chunks/596-9b32dee0ccdb16d3.js"],"name":"default","async":false}
+9:I{"id":5266,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","160:static/chunks/app/not-found-ae7f801ecac2432d.js"],"name":"","async":false}
+c:I{"id":6685,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-b82b2ba50ae658ef.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-b82b2ba50ae658ef.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","2025-04-and-05","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"2025-04-and-05\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","2025-04-and-05","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2026," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Plog：四月五月日常记录 [2025] | 唐维娟"}],["$","meta","2",{"name":"keywords","content":"Plog,日常生活,婚纱照,婚礼,断舍离,春天"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
+b:"$Le"
+a:null
+10:I{"id":5506,"chunks":["451:static/chunks/451-54aa5e01bd4dd364.js","663:static/chunks/app/(default_site)/blog/[url]/page-b82b2ba50ae658ef.js"],"name":"TOC","async":false}
+f:T123d,
+                    <h1 id="plog-四月五月日常记录-2025">
+                        <a href="#plog-四月五月日常记录-2025">Plog | 四月五月日常记录  | 2025</a>
+                    </h1>
+                
+                    <h2 id="春天的婚纱照">
+                        <a href="#春天的婚纱照">春天的婚纱照</a>
+                    </h2>
+                <p>去年因为天气原因没拍成外景，今年4月初终于去补拍了外景，春天的草地和湖边都太美了。</p>
+<p><img src="../assests/plog/image/202504-05-01.jpg" alt=""></p>
+<p>这次造型师给我戴了耳骨夹，没想到夹了一天都不疼，没有耳洞的我瞬间被种草，回家就买来试试，耳骨夹真是一个伟大的发明。</p>
+<p><img src="../assests/plog/image/202504-05-02.jpg" alt=""></p>
+
+                    <h2 id="好吃的点心">
+                        <a href="#好吃的点心">好吃的点心</a>
+                    </h2>
+                <p>黄油年糕是今年吃过最惊艳的点心，外皮有一点点脆，内里柔软，没有很甜，一口能吃好几个。</p>
+<p><img src="../assests/plog/image/202504-05-03.jpg" alt=""></p>
+
+                    <h2 id="4月断舍离">
+                        <a href="#4月断舍离">4月断舍离</a>
+                    </h2>
+                <p><img src="../assests/plog/image/202504-05-04.jpg" alt=""></p>
+<p>读了《一日一舍》，立即行动起来。三种方式：卖、回收、扔</p>
+<p><strong>卖：</strong></p>
+<ol>
+<li>卖掉一部旧iPad</li>
+<li>卖掉一支旧Apple Pencil</li>
+<li>卖掉部分能二次售卖的衣服</li>
+</ol>
+<p><img src="../assests/plog/image/202504-05-05.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-06.jpg" alt=""></p>
+<p><strong>回收：</strong></p>
+<ol start="4">
+<li>旧衣回收 11 kg</li>
+</ol>
+<p><img src="../assests/plog/image/202504-05-07.jpg" alt=""></p>
+<p><strong>扔：</strong></p>
+<ol start="5">
+<li>扔掉不再穿的鞋子</li>
+<li>扔掉过多的包装盒</li>
+<li>扔掉一堆空的瓶瓶罐罐</li>
+</ol>
+<p><img src="../assests/plog/image/202504-05-08.jpg" alt=""></p>
+
+                    <h2 id="5月完成婚礼">
+                        <a href="#5月完成婚礼">5月完成婚礼</a>
+                    </h2>
+                <p>两人进入人生新章程。</p>
+<p>虽累但也很感动。</p>
+<p>感谢另一半，感谢姐妹们，感谢亲友们，感谢所有人。</p>
+<p><img src="../assests/plog/image/202504-05-09.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-10.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-11.jpg" alt=""></p>
+
+                    <h2 id="新的冰箱贴">
+                        <a href="#新的冰箱贴">新的冰箱贴</a>
+                    </h2>
+                <p>好姐妹送的两个美丽冰箱贴，尤其是上面这个孝端皇后凤冠，见到的人没有不夸精美的。</p>
+<p><img src="../assests/plog/image/202504-05-12.jpg" alt=""></p>
+
+                    <h2 id="扫地机器人帮大忙">
+                        <a href="#扫地机器人帮大忙">扫地机器人帮大忙</a>
+                    </h2>
+                <p>买了个扫地机器人，终于能每天都扫地拖地了。</p>
+<p>沙发下面很少打扫，很多灰，有了它，地板焕然一新。</p>
+<p><img src="../assests/plog/image/202504-05-13.jpg" alt=""></p>
+<p>清洁后。</p>
+<p><img src="../assests/plog/image/202504-05-14.jpg" alt=""></p>
+
+                    <h2 id="好天气的周末就是要出门呀">
+                        <a href="#好天气的周末就是要出门呀">好天气的周末就是要出门呀</a>
+                    </h2>
+                <p>一人带一杯咖啡出门。</p>
+<p><img src="../assests/plog/image/202504-05-15.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-16.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-17.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-18.jpg" alt=""></p>
+<p>龙美术馆人太多，不想排队，没关系，那就沿着滨江多走走。</p>
+<p><img src="../assests/plog/image/202504-05-19.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-20.jpg" alt=""></p>
+<p>植物园看花🌸看草🌿。</p>
+<p><img src="../assests/plog/image/202504-05-21.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-22.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-23.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-24.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-25.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202504-05-26.jpg" alt=""></p>
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"唐维娟","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2025/5/31"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"Plog | 四月五月日常记录  | 2025","level":1,"href":"#plog-四月五月日常记录-2025"},{"title":"春天的婚纱照","level":2,"href":"#春天的婚纱照"},{"title":"好吃的点心","level":2,"href":"#好吃的点心"},{"title":"4月断舍离","level":2,"href":"#4月断舍离"},{"title":"5月完成婚礼","level":2,"href":"#5月完成婚礼"},{"title":"新的冰箱贴","level":2,"href":"#新的冰箱贴"},{"title":"扫地机器人帮大忙","level":2,"href":"#扫地机器人帮大忙"},{"title":"好天气的周末就是要出门呀","level":2,"href":"#好天气的周末就是要出门呀"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/2025-03","children":["$","div",null,{"children":["上一篇：","Plog：三月日常记录 [2025]"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/several-methods-for-designing-material-balls","children":["$","div",null,{"children":["下一篇：","设计材质球的几种思路"]}]}]}]]}]]}]
