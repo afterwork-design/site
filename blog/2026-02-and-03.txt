@@ -1,0 +1,114 @@
+0:["63A-q1qSww8vIoXkMsbnW",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","2026-02-and-03","d"],{"children":["__PAGE__?{\"url\":\"2026-02-and-03\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
+5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
+6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+9:I{"id":5266,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","160:static/chunks/app/not-found-0d29d5588d618e4c.js"],"name":"","async":false}
+c:I{"id":6685,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-d884f9edb013bc54.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-d884f9edb013bc54.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","2026-02-and-03","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"2026-02-and-03\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","2026-02-and-03","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2026," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Plog：二月三月日常记录[2026] | Tang Weijuan"}],["$","meta","2",{"name":"keywords","content":"Plog,新年,新春,咖啡,水培植物"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
+b:"$Le"
+a:null
+10:I{"id":5506,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-d884f9edb013bc54.js"],"name":"TOC","async":false}
+f:T14c4,
+                    <h1 id="plog-二月三月日常记录-2026">
+                        <a href="#plog-二月三月日常记录-2026">Plog | 二月三月日常记录 | 2026</a>
+                    </h1>
+                <p>很多想法在脑中盘旋一阵，然后被我抛弃。</p>
+<p>比如plog新形式，我想把记录转化为创作，但工作量太大了，如果再拖延下去，恐怕这个栏目就没了，所以，先按原来轻松的方式继续吧。</p>
+
+                    <h2 id="二月">
+                        <a href="#二月">二月</a>
+                    </h2>
+                <p>回宣城过年，经典的锅子和炒菜。</p>
+<p><img src="../assests/plog/image/202602-01.jpg" alt=""></p>
+<p>回重庆过年。</p>
+<p>在车站随便找了家重庆小面，卖相还行，味道一般。回家一直没吃到镇上的好吃的小面。</p>
+<p><img src="../assests/plog/image/202602-02.jpg" alt=""></p>
+<p>两母女懒洋洋晒着太阳。</p>
+<p><img src="../assests/plog/image/202602-03.jpg" alt=""></p>
+<p>家人聚餐。</p>
+<p><img src="../assests/plog/image/202602-04.jpg" alt=""></p>
+<p>一起放烟花。</p>
+<p><img src="../assests/plog/image/202602-05.jpg" alt=""></p>
+<p>坐高铁回上海，自己做的咖啡和豪华泡面。</p>
+<p><img src="../assests/plog/image/202602-06.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202602-07.jpg" alt=""></p>
+
+                    <h2 id="三月">
+                        <a href="#三月">三月</a>
+                    </h2>
+                <p>汤圆新吃法，咖啡芝麻汤圆。</p>
+<p><img src="../assests/plog/image/202603-01.jpg" alt=""></p>
+<p>周末日常。</p>
+<p><img src="../assests/plog/image/202603-02.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-03.jpg" alt=""></p>
+<p>静安雕塑公园。</p>
+<p>以为静安雕塑公园会有很多雕塑，结果就是一个小小的路边公园。</p>
+<p>郁金香开得正艳。</p>
+<p><img src="../assests/plog/image/202603-04.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-05.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-06.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-07.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-08.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-09.jpg" alt=""></p>
+<p>LV巨轮。</p>
+<p><img src="../assests/plog/image/202603-10.jpg" alt=""></p>
+<p>美丽的橱窗。</p>
+<p><img src="../assests/plog/image/202603-11.jpg" alt=""></p>
+<p>蒸鱼。没有合适的盘子，不得不折叠摆盘。</p>
+<p><img src="../assests/plog/image/202603-12.jpg" alt=""></p>
+<p>上班路上看到的硕大的麦当劳m，结果下面是manner。</p>
+<p><img src="../assests/plog/image/202603-13.jpg" alt=""></p>
+<p>上班中午溜达。</p>
+<p><img src="../assests/plog/image/202603-14.jpg" alt=""></p>
+<p>每天早上的咖啡。</p>
+<p><img src="../assests/plog/image/202603-15.jpg" alt=""></p>
+<p>尝试水培小葱。</p>
+<p><img src="../assests/plog/image/202603-16.jpg" alt=""></p>
+<p>水培水仙花。</p>
+<p><img src="../assests/plog/image/202603-17.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-18.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-19.jpg" alt=""></p>
+<p>继续拍咖啡。</p>
+<p><img src="../assests/plog/image/202603-20.jpg" alt=""></p>
+<p>植物园。</p>
+<p><img src="../assests/plog/image/202603-21.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-22.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-23.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-24.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-25.jpg" alt=""></p>
+<p>还是咖啡。</p>
+<p><img src="../assests/plog/image/202603-26.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-27.jpg" alt=""></p>
+<p>一大早去客户那，坐上了机场线。</p>
+<p><img src="../assests/plog/image/202603-28.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-29.jpg" alt=""></p>
+<p>早餐。</p>
+<p><img src="../assests/plog/image/202603-30.jpg" alt=""></p>
+<p>脆弱的水仙。我被水仙熏晕之后，就把它们放在了室外，结果它们经受不住风吹，一天就耷拉下来。</p>
+<p><img src="../assests/plog/image/202603-31.jpg" alt=""></p>
+<p>抹茶拿铁。</p>
+<p><img src="../assests/plog/image/202603-32.jpg" alt=""></p>
+<p>开始水培郁金香。</p>
+<p><img src="../assests/plog/image/202603-33.jpg" alt=""></p>
+<p>小王在公司吃到好吃的麻辣香锅，周末给我复刻。</p>
+<p><img src="../assests/plog/image/202603-34.jpg" alt=""></p>
+<p>河边的春天。</p>
+<p><img src="../assests/plog/image/202603-35.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-36.jpg" alt=""></p>
+<p>复古杯子咖啡。</p>
+<p><img src="../assests/plog/image/202603-37.jpg" alt=""></p>
+<p>像过家家一样做水烙馍。</p>
+<p><img src="../assests/plog/image/202603-38.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-39.jpg" alt=""></p>
+<p>咖啡应该做成一个合集的。</p>
+<p><img src="../assests/plog/image/202603-40.jpg" alt=""></p>
+<p><img src="../assests/plog/image/202603-41.jpg" alt=""></p>
+<p>对plog的思考，但没实践。  </p>
+<p><img src="../assests/plog/image/202603-42.jpg" alt=""></p>
+<p>就先写到三月止吧，虽然已经四月了。</p>
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2026/4/10"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"Plog | 二月三月日常记录 | 2026","level":1,"href":"#plog-二月三月日常记录-2026"},{"title":"二月","level":2,"href":"#二月"},{"title":"三月","level":2,"href":"#三月"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/undefined","children":["$","div",null,{"children":["上一篇：","Creative Commons (CC) 协议详解与实例"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/2026-04","children":["$","div",null,{"children":["下一篇：","Plog：四月日常记录[2026]"]}]}]}]]}]]}]
