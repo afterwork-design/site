@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 10:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 10:53:18 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 10:29:18 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 10:52:52 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026, Ibas]]></copyright>
         <item>
             <title><![CDATA[【像素画】六毛]]></title>
@@ -892,8 +892,8 @@
         <item>
             <title><![CDATA[Figma 跨文件迁移变量]]></title>
             <description><![CDATA[如果文件 A、B、C 都用了文件 D 的变量，现在想把文件 D 的变量独立到文件 E 中，让文件 A、B、C 以及将来的新文件都用文件 E 中的变量，如何操作？]]></description>
-            <link>/blog/undefined</link>
-            <guid isPermaLink="false">/blog/undefined</guid>
+            <link>/blog/figma-variable-migration</link>
+            <guid isPermaLink="false">/blog/figma-variable-migration</guid>
             <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
