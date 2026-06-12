@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 02:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 10:50:44 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 02:00:14 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 10:50:19 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026, Ibas]]></copyright>
         <item>
             <title><![CDATA[【像素画】六毛]]></title>
@@ -888,6 +888,13 @@
             <link>/weekly/Illustration-art-design-sharing</link>
             <guid isPermaLink="false">/weekly/Illustration-art-design-sharing</guid>
             <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Figma design agent 初体验]]></title>
+            <description><![CDATA[总体感受：慢！很慢！非常慢！但还是有用的，上升空间很大。]]></description>
+            <link>/blog/first-impressions-of-the-figma-design-agent</link>
+            <guid isPermaLink="false">/blog/first-impressions-of-the-figma-design-agent</guid>
+            <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Figma 跨文件迁移变量]]></title>
