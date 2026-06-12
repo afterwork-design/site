@@ -1,10 +1,10 @@
-0:["vSU2p-U3ZpSpJqbjL2JtZ",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","retro-element-sketch","d"],{"children":["__PAGE__?{\"url\":\"retro-element-sketch\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["Jx4JSKpkijlsPsRBJA6_6",[[["",{"children":["(default_site)",{"children":["illustration",{"children":[["url","retro-element-sketch","d"],{"children":["__PAGE__?{\"url\":\"retro-element-sketch\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
 4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
 5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
 6:HL["/_next/static/css/697acb52a326f7c2.css",{"as":"style"}]
-7:I{"id":7767,"chunks":["272:static/chunks/webpack-8a4f168d27e4f08c.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
-8:I{"id":7920,"chunks":["272:static/chunks/webpack-8a4f168d27e4f08c.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
 9:I{"id":5266,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","160:static/chunks/app/not-found-0d29d5588d618e4c.js"],"name":"","async":false}
 c:I{"id":6685,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","877:static/chunks/app/(default_site)/illustration/[url]/page-c50ad090c26f4a80.js"],"name":"","async":false}
 d:I{"id":3222,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","877:static/chunks/app/(default_site)/illustration/[url]/page-c50ad090c26f4a80.js"],"name":"Image","async":false}
