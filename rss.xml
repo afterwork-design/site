@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 11:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 03:33:29 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 11:04:20 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 03:33:03 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026, Ibas]]></copyright>
         <item>
             <title><![CDATA[【像素画】六毛]]></title>
@@ -908,6 +908,13 @@
             <link>/blog/2026-05</link>
             <guid isPermaLink="false">/blog/2026-05</guid>
             <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Figma Agent 笔记]]></title>
+            <description><![CDATA[Figma 自研 Agent 的官方演示与文档]]></description>
+            <link>/blog/figma-agent-note</link>
+            <guid isPermaLink="false">/blog/figma-agent-note</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plog：四月日常记录[2026]]]></title>
