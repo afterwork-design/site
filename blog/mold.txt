@@ -1,0 +1,194 @@
+0:["j4uETdK1A4jMMNrLYVsQ1",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","mold","d"],{"children":["__PAGE__?{\"url\":\"mold\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
+5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
+6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+9:I{"id":5266,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","160:static/chunks/app/not-found-0d29d5588d618e4c.js"],"name":"","async":false}
+c:I{"id":6685,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-6c92c484bb2dfdb7.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-6c92c484bb2dfdb7.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","mold","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"mold\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","mold","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2026," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"模具基础术语速查手册 | Tang Weijuan"}],["$","meta","2",{"name":"keywords","content":"模具,建模,分型面,零件"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","5",{"name":"next-size-adjust"}]]
+b:"$Le"
+a:null
+10:I{"id":5506,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-6c92c484bb2dfdb7.js"],"name":"TOC","async":false}
+f:T32ff,
+                    <h1 id="模具基础术语速查手册">
+                        <a href="#模具基础术语速查手册">模具基础术语速查手册</a>
+                    </h1>
+                
+                    <h2 id="一成型空间与模具组成">
+                        <a href="#一成型空间与模具组成">一、成型空间与模具组成</a>
+                    </h2>
+                <ul>
+<li><strong>模具（Mould / Mold）</strong>：用于反复制造制品的工具总成，通常包含成型零件、支承导向零件、浇注系统、冷却系统、顶出系统及安装结构件。</li>
+<li><strong>型腔（Cavity）</strong>：形成制品<strong>外部</strong>形状的模具侧或成型空间。</li>
+<li><strong>型芯（Core）</strong>：形成制品<strong>内部</strong>形状的模具侧或成型空间。</li>
+<li><strong>模仁（Mould Insert / Core Insert）</strong>：直接形成制品型面的块状成型零件，可为整体式或由多个镶件组成。</li>
+<li><strong>模架（Mould Base）</strong>：承载型芯、型腔、导向、顶出和安装结构的模板总成。</li>
+</ul>
+<p>定模板有的地方称为母模板、上模板、前模板、型腔板、阴模、凹模、A板等。</p>
+
+                    <h2 id="二分型与脱模">
+                        <a href="#二分型与脱模">二、分型与脱模</a>
+                    </h2>
+                <ul>
+<li><strong>分型线（Parting Line）</strong>：模具分开时，两侧成型表面在制品上形成的<strong>可见边界线</strong>。</li>
+<li><strong>分型面（Parting Surface / PL面）</strong>：模具两侧相互分开的<strong>接触界面</strong>，可为平面、曲面或多面组合。</li>
+<li><strong>拔模角（Draft Angle）</strong>：制品表面相对于脱模方向的倾斜角度，作用是减少脱模摩擦力，防止制品刮伤、拉白或顶裂。所需角度取决于材料、表面纹理、成型深度等因素。<strong>无拔模则无法注塑生产</strong>。</li>
+<li><strong>倒扣（Undercut）</strong>：沿既定开模方向无法直接脱出的几何形状（侧孔、侧凹等），解决方式包括改变产品设计、改变分型方向或使用侧向运动机构。</li>
+<li><strong>滑块（Slide）/ 行位</strong>：沿模具<strong>侧向</strong>运动以形成或释放侧向特征的机构，通常用于脱出制品外侧的倒扣。</li>
+<li><strong>斜顶（Lifter / Angle Lifter）</strong>：随<strong>顶出动作</strong>运动，同时具有侧向分量，用于形成或释放制品内部倒钩的机构。</li>
+<li><strong>抽芯（Core Pulling）</strong>：在开模或合模过程中，使型芯或侧向成型件沿指定方向移动，以释放制品特征的动作或机构。</li>
+</ul>
+<p><strong>分型线 vs. 分型面</strong>：分型线是产品表面的边界痕迹，分型面是模具的分开界面，二者相关但不是同一概念。</p>
+<p><strong>滑块 vs. 斜顶</strong>：滑块主要做侧向运动，独立于顶出系统；斜顶随顶出动作同时产生侧向运动，两者虽然都用于脱出倒扣，但运动原理和适用场景不同。</p>
+<p><strong>拔模 vs. 抽芯</strong>：拔模是对所有与开模方向一致的立面添加斜度，是必选项；抽芯仅当产品存在侧向倒扣时才需要设计，是按需选项。有抽芯的位置仍需做拔模，但有拔模的位置未必需要抽芯。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/1908121955120424278">侧向分型与抽芯机构设计注意事项，模具行业的同志，不可错过 - 知乎</a></p>
+
+                    <h2 id="三浇注充填与排气">
+                        <a href="#三浇注充填与排气">三、浇注、充填与排气</a>
+                    </h2>
+                <ul>
+<li><strong>浇注系统（Gating System）</strong>：将熔融材料从注射机喷嘴引导到型腔的通道集合。</li>
+<li><strong>主流道（Sprue）</strong>：连接注射机喷嘴与模具内部流道的主通道。</li>
+<li><strong>分流道（Runner）</strong>：将熔融材料从主流道分配到各个浇口的通道。</li>
+<li><strong>浇口（Gate / 入水口）</strong>：熔融材料进入型腔的入口，其位置和形式直接影响充填、保压、熔接线、外观和残留痕迹。</li>
+<li><strong>冷料穴（Cold Slug Well）</strong>：储存料流前端的冷料，防止冷料进入型腔。</li>
+<li><strong>排气（Venting）</strong>：在充填过程中为型腔内空气和挥发物提供排出路径，排气不足可能导致烧焦、短射或表面缺陷。</li>
+<li><strong>熔接线（Weld Line / Knit Line）</strong>：两股或多股熔融材料流动前沿重新汇合后形成的痕迹或局部结合区域。</li>
+</ul>
+<p><strong>浇口 vs. 分流道</strong>：浇口是进入型腔的“入口”，分流道是把材料从主流道输送到浇口的“通道”，两者是上下游关系，不可混淆。</p>
+<p><strong>夹线 vs. 熔接线</strong>：夹线（分型线痕迹）来自模具的机械配合或分型，是模具物理分界在制品上的反映；熔接线来自熔融材料汇合时的流动痕迹。前者可通过修模改善，后者需调整充填或浇口位置。</p>
+
+                    <h2 id="四冷却收缩与顶出">
+                        <a href="#四冷却收缩与顶出">四、冷却、收缩与顶出</a>
+                    </h2>
+                <ul>
+<li><strong>冷却水路（Cooling Channel / Circuit）</strong>：在模具中循环冷却介质、带走成型热量的通道系统，直接影响成型周期和制品质量。</li>
+<li><strong>收缩率（Moulding Shrinkage）</strong>：制品从成型状态冷却到规定测量状态后，相对于模具尺寸产生的尺寸变化率，受材料、流动方向、工艺条件、制品几何等因素影响。</li>
+<li><strong>顶出系统（Ejection System）</strong>：开模后将制品从模具成型表面推出，并在下一循环前复位的机构。</li>
+<li><strong>顶针（Ejector Pin）</strong>：以杆端面接触制品、传递顶出力的最常见顶出零件。</li>
+<li><strong>司筒（Ejector Sleeve）</strong>：套在芯针外部、用于顶出环形或圆柱特征的套筒式顶出零件。</li>
+<li><strong>顶块（Ejector Block）</strong>：以较大成型接触面传递顶出力的顶出零件。</li>
+<li><strong>封胶面（Shut-off Surface）</strong>：模具闭合时用于阻止熔融材料从配合区域泄漏的配合面。</li>
+</ul>
+<p><strong>收缩率 vs. 拔模角</strong>：收缩率描述材料冷却后的尺寸变化，是材料特性；拔模角描述表面与脱模方向的几何关系，是设计添加的角度。两者都会影响脱模，但性质完全不同。</p>
+
+                    <h2 id="五模具零件与制造语境">
+                        <a href="#五模具零件与制造语境">五、模具零件与制造语境</a>
+                    </h2>
+                <ul>
+<li><strong>镶件（Insert / 嵌件）</strong>：从模仁中独立出来的可更换或便于加工的成型零件，常用于易损坏或难加工部位。</li>
+<li><strong>镶针（Core Pin / Insert Pin）</strong>：用于形成细小孔、柱或局部细节的针状成型零件。</li>
+<li><strong>标准件（Standard Component）</strong>：按国家标准或供应商规格制造、可直接采购的零件，如导柱、导套、弹簧、定位销、浇口套等。</li>
+<li><strong>导柱（Guide Pillar / Guide Pin）</strong> ：固定在模具一侧（通常为定模侧或动模侧），与导套配合，为动模与定模的合模运动提供精密导向，确保合模时型芯与型腔准确对中。</li>
+<li><strong>导套（Guide Bushing）</strong> ：固定在模具另一侧，与导柱呈滑动配合，引导导柱插入，保证模具开合模运动的直线性和重复精度。</li>
+<li><strong>碰穿面</strong>：与分型面<strong>平行</strong>的公母模贴合面，合模时两表面直接接触。</li>
+<li><strong>插穿面</strong>：与分型面<strong>不平行</strong>的公母模贴合面，合模时以斜向方式接触。</li>
+<li><strong>枕位</strong>：外壳类塑件边缘缺口处形成的枕状分型部分。</li>
+<li><strong>干涉（Interference）</strong>：两个零件或运动包络在空间上发生不允许的重叠。</li>
+<li><strong>避空（Clearance）</strong>：为装配、运动、加工或维护而预留的空间间隙。</li>
+<li><strong>夹线（Parting Line Witness）</strong>：由模具分型或零件配合在制品表面留下的可见线痕。</li>
+</ul>
+
+                    <h2 id="六不应混用的几组词">
+                        <a href="#六不应混用的几组词">六、不应混用的几组词</a>
+                    </h2>
+                <table>
+<thead>
+<tr>
+<th align="left">容易混淆</th>
+<th align="left">核心区分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>型腔 / 型芯</strong></td>
+<td align="left">型腔形成<strong>外部</strong>形状，型芯形成<strong>内部</strong>形状；并非简单的上下模关系。</td>
+</tr>
+<tr>
+<td align="left"><strong>分型线 / 分型面</strong></td>
+<td align="left">分型线是制品表面的<strong>边界痕迹</strong>；分型面是模具的<strong>分开界面</strong>。</td>
+</tr>
+<tr>
+<td align="left"><strong>浇口 / 流道</strong></td>
+<td align="left">浇口是进入型腔的<strong>入口</strong>；流道是把材料输送过去的<strong>通道</strong>。</td>
+</tr>
+<tr>
+<td align="left"><strong>滑块 / 斜顶</strong></td>
+<td align="left">滑块做<strong>侧向</strong>运动（独立驱动）；斜顶随<strong>顶出</strong>动作同时侧向滑动。</td>
+</tr>
+<tr>
+<td align="left"><strong>夹线 / 熔接线</strong></td>
+<td align="left">夹线来自模具<strong>配合分型</strong>；熔接线来自熔融材料<strong>流动汇合</strong>。</td>
+</tr>
+<tr>
+<td align="left"><strong>收缩率 / 拔模角</strong></td>
+<td align="left">收缩率描述<strong>尺寸变化</strong>（材料特性）；拔模角描述<strong>几何角度</strong>（设计添加）。</td>
+</tr>
+<tr>
+<td align="left"><strong>碰穿 / 插穿</strong></td>
+<td align="left">碰穿面<strong>平行</strong>于分型面；插穿面<strong>不平行</strong>于分型面。</td>
+</tr>
+</tbody></table>
+
+                    <h2 id="七术语关联速查">
+                        <a href="#七术语关联速查">七、术语关联速查</a>
+                    </h2>
+                <table>
+<thead>
+<tr>
+<th align="left">术语</th>
+<th align="left">关联概念</th>
+<th align="left">归属系统</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">主流道、分流道、浇口、冷料穴</td>
+<td align="left">浇注系统</td>
+<td align="left">浇注系统</td>
+</tr>
+<tr>
+<td align="left">型腔、型芯、模仁、镶件、镶针</td>
+<td align="left">成型零件</td>
+<td align="left">成型系统</td>
+</tr>
+<tr>
+<td align="left">分型面、碰穿面、插穿面、枕位</td>
+<td align="left">分型设计</td>
+<td align="left">成型系统</td>
+</tr>
+<tr>
+<td align="left">顶针、司筒、顶块</td>
+<td align="left">顶出零件</td>
+<td align="left">顶出系统</td>
+</tr>
+<tr>
+<td align="left">冷却水路</td>
+<td align="left">温度控制</td>
+<td align="left">冷却系统</td>
+</tr>
+<tr>
+<td align="left">导柱、导套</td>
+<td align="left">导向定位</td>
+<td align="left">导向系统</td>
+</tr>
+</tbody></table>
+
+                    <h2 id="八参考资料">
+                        <a href="#八参考资料">八、参考资料</a>
+                    </h2>
+                <ul>
+<li><a href="https://zhuanlan.zhihu.com/p/705925517">工程师必懂的模具结构和工艺知识</a></li>
+<li><a href="https://blog.csdn.net/weixin_35750483/article/details/149920792">200种模具结构的全面演示与应用指南</a></li>
+<li><a href="http://www.360doc.com/content/24/0124/19/77055844_1112145375.shtml">50个模具原理GIF图，直观学模具设计！</a></li>
+<li><a href="http://www.ahmould.com/index.php?c=news&m=show&id=1695">模具行业技术60问，让你真正了解模具，学会设计！</a></li>
+<li><a href="https://asiamold.gymf.com.cn/news/72505">新手初学模具，这些基础的知识，牢记</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/685010468">模具基础知识（知乎）</a></li>
+<li><a href="https://www.mjzl.cn/thread-604695-1-93.html">模具行位和斜顶的设计经验要点</a></li>
+<li><a href="https://www.toutiao.com/article/6921993118074044931/">产品细节结构分型线（夹线）的选择，以及其对外观和功能的影响 - 今日头条</a></li>
+<li><a href="https://help.autodesk.com/view/MFIA/2025/CHS/?guid=GUID-B501A38B-B331-405A-AB04-E5A5B5A19B72">Moldflow Insight 词汇表 | Autodesk</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/359567405">直观易懂的23张模具脱模动画 - 知乎</a></li>
+</ul>
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2026/9/11"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"模具基础术语速查手册","level":1,"href":"#模具基础术语速查手册"},{"title":"一、成型空间与模具组成","level":2,"href":"#一成型空间与模具组成"},{"title":"二、分型与脱模","level":2,"href":"#二分型与脱模"},{"title":"三、浇注、充填与排气","level":2,"href":"#三浇注充填与排气"},{"title":"四、冷却、收缩与顶出","level":2,"href":"#四冷却收缩与顶出"},{"title":"五、模具零件与制造语境","level":2,"href":"#五模具零件与制造语境"},{"title":"六、不应混用的几组词","level":2,"href":"#六不应混用的几组词"},{"title":"七、术语关联速查","level":2,"href":"#七术语关联速查"},{"title":"八、参考资料","level":2,"href":"#八参考资料"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/first-impressions-of-the-figma-design-agent","children":["$","div",null,{"children":["上一篇：","Figma design agent 初体验"]}]}]}],["$","div",null,{"className":"$undefined","children":null}]]}]]}]
