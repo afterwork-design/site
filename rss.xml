@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 09:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 09:43:13 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 09:42:13 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 09:42:49 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026, Ibas]]></copyright>
         <item>
             <title><![CDATA[【像素画】六毛]]></title>
@@ -894,6 +894,13 @@
             <link>/blog/mold</link>
             <guid isPermaLink="false">/blog/mold</guid>
             <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[产品图标设计策略调研]]></title>
+            <description><![CDATA[国内外多家工业软件产品矩阵应用图标设计策略。]]></description>
+            <link>/blog/product-logo</link>
+            <guid isPermaLink="false">/blog/product-logo</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Figma design agent 初体验]]></title>

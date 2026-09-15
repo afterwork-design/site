@@ -1,0 +1,63 @@
+0:["GMGECqRkBS-q7CsLRGxV-",[[["",{"children":["(default_site)",{"children":["blog",{"children":[["url","product-logo","d"],{"children":["__PAGE__?{\"url\":\"product-logo\"}",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2",{"as":"font","type":"font/woff2"}]
+4:HL["/_next/static/css/b73f7a1f792dc5d7.css",{"as":"style"}]
+5:HL["/_next/static/css/7d77a19e49b00264.css",{"as":"style"}]
+6:HL["/_next/static/css/9d091fd22a77df24.css",{"as":"style"}]
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-2cc8814d577182ee.js","971:static/chunks/fd9d1056-9593a577cdf5fc4e.js","596:static/chunks/596-b348f0a3a64f5453.js"],"name":"default","async":false}
+9:I{"id":5266,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","160:static/chunks/app/not-found-0d29d5588d618e4c.js"],"name":"","async":false}
+c:I{"id":6685,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-3164b870193048c0.js"],"name":"","async":false}
+d:I{"id":3222,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-3164b870193048c0.js"],"name":"Image","async":false}
+1:[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"style":{"margin":0},"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3695184b49125f2d.css","precedence":"$undefined"}]],"childProp":{"current":[null,["$","html",null,{"lang":"zh_cn","children":["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default_site)","children","blog","children",["url","product-logo","d"],"children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$La","$Lb",null],"segment":"__PAGE__?{\"url\":\"product-logo\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d77a19e49b00264.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9d091fd22a77df24.css","precedence":"next"}]]}],"segment":["url","product-logo","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","div",null,{"className":"Footer_footer__9S97q","children":["$","div",null,{"className":"Footer_footerContent__VhBZ9","children":[["$","div",null,{"className":"Footer_footerTop__mlucD","children":[["$","div",null,{"className":"Footer_left__yk24L","children":[["$","$Lc",null,{"href":"/","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":119,"height":28}]}],["$","div",null,{"className":"Footer_footerLink__TSj4b","children":[["$","$Lc",null,{"href":"/wechatPublic.png","target":"_blank","children":["$","$Ld",null,{"src":"/wechat.svg","alt":"微信公众号","width":18,"height":18}]}],["$","$Lc",null,{"href":"https://www.xiaohongshu.com/user/profile/59c5394744363b307d64bd78?xhsshare=CopyLink&appuid=59c5394744363b307d64bd78&apptime=1694325923","target":"_blank","children":["$","$Ld",null,{"src":"/readbook.svg","alt":"小红书","width":18,"height":18}]}],["$","$Lc",null,{"href":"mailto: weijuandesign@sina.com","target":"_blank","children":["$","$Ld",null,{"src":"/email.svg","alt":"Email","width":18,"height":18}]}],["$","$Lc",null,{"href":"/rss.xml","target":"_blank","children":["$","$Ld",null,{"src":"/rssIcon.svg","alt":"RSS","width":18,"height":18}]}]]}]]}],["$","div",null,{"className":"Footer_right__isrLL","children":[["$","$Lc",null,{"href":"/illustration","children":"Illustration"}],["$","$Lc",null,{"href":"/blog","children":"Blog"}],["$","$Lc",null,{"href":"/weekly","children":"Weekly"}],["$","$Lc",null,{"href":"https://afterwork-design.github.io","target":"_blank","children":"Project"}],["$","$Lc",null,{"href":"/about","children":"About"}]]}]]}],["$","div",null,{"className":"Footer_footerBottom__QkWu0","children":["$","span",null,{"children":["©2019-",2026," Tang Weijuan"]}]}]]}]}]]}]}],null],"segment":"(default_site)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b73f7a1f792dc5d7.css","precedence":"next"}]]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"产品图标设计策略调研 | Tang Weijuan"}],["$","meta","2",{"name":"description","content":"国内外多家工业软件产品矩阵应用图标设计策略。"}],["$","meta","3",{"name":"keywords","content":"Brand,logo,Design,Product"}],["$","meta","4",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"36x36"}],["$","meta","6",{"name":"next-size-adjust"}]]
+b:"$Le"
+a:null
+10:I{"id":5506,"chunks":["451:static/chunks/451-d0ec85b58e5250e7.js","663:static/chunks/app/(default_site)/blog/[url]/page-3164b870193048c0.js"],"name":"TOC","async":false}
+f:Td5b,
+                    <h1 id="产品图标设计策略调研">
+                        <a href="#产品图标设计策略调研">产品图标设计策略调研</a>
+                    </h1>
+                <p>调研了国内外多家工业软件产品矩阵应用图标设计策略，发现他们很少用功能语义来设计应用图标。当产品达到数十上百个时，要让图标兼顾功能和产品系列感是很难的，因此，用一套固定的版式，通过颜色和字母来区分，就成了很自然的选择。</p>
+
+                    <h2 id="autodesk">
+                        <a href="#autodesk">Autodesk</a>
+                    </h2>
+                <blockquote>
+<p><a href="https://www.wk.com/work/Autodesk-Brand-Identity/">Autodesk: Brand Identity</a></p>
+</blockquote>
+<p>Autodesk 的产品图标采用的是形状不变，每个产品分配一个字母 + 一种颜色的策略。</p>
+<p><img src="../assets/blog/image/autodesk-app-icons.jpg" alt=""></p>
+<p>品牌设计公司对此策略是这样描述的：</p>
+<blockquote>
+<p>一个既具有可扩展性，又能体现整体品牌形象的标识系统。该系统需与母公司品牌保持一致，同时又能灵活应对其 100 多种产品所采用的多种命名方式。在设计上，团队注重清晰的层次感，尽量减少视觉上的干扰元素。各产品通过不同的颜色来区分，但在整体外观上则保持统一。黑色和白色作为母品牌颜色，能与所有产品的颜色相搭配，同时也能有效凸显 Autodesk 的品牌特色。</p>
+</blockquote>
+
+                    <h2 id="siemens">
+                        <a href="#siemens">SIEMENS</a>
+                    </h2>
+                <blockquote>
+<p><a href="https://www.firebrand.co.uk/work/an-icon-architecture-for-world-leading-tech-software/">An icon architecture for world-leading tech software</a></p>
+</blockquote>
+<p>西门子与 Autodesk 的策略类似，也是保持形状不变，每个产品分配字母缩写 + 色彩。</p>
+<p><img src="../assets/blog/image/siemens-app-icons.webp" alt=""></p>
+<blockquote>
+<p>原因：大多数产品图标都是软件功能的图形化表示。然而，在探索了所有具象和符号化的图标方案后，我们发现它们会给用户带来过大的认知负担。只有首字母缩写词才能提供所需的即时识别性和内在语言，从而区分种类繁多的产品。</p>
+</blockquote>
+
+                    <h2 id="ptc">
+                        <a href="#ptc">PTC</a>
+                    </h2>
+                <blockquote>
+<p><a href="https://www.ptc.com/en/brand-guide/brand-architecture">Brand Architecture - PTC Brand Guidelines</a></p>
+</blockquote>
+<p>PTC 的策略稍有不同，PTC 的产品矩阵是保持配色不变（绿+灰），形状大轮廓不变（六边形），不同产品用六边形的不同形态来设计。</p>
+<p><img src="../assets/blog/image/ptc-master-brand.png" alt=""></p>
+<p><img src="../assets/blog/image/ptc-app-icons.png" alt=""></p>
+
+                    <h2 id="中望">
+                        <a href="#中望">中望</a>
+                    </h2>
+                <p>中望的产品图标则是基础形状相同，均使用 ZW 形态，不同产品使用不同背景，3D产品增加立体元素。</p>
+<p><img src="../assets/blog/image/zw-app-icons-1.png" alt=""></p>
+<p><img src="../assets/blog/image/zw-app-icons-2.png" alt=""></p>
+e:["$","main",null,{"className":"post_page__bv76d","children":[["$","div",null,{"className":"Header_header__qBw1J","children":[["$","div",null,{"className":"Header_logoRow__RCIIv","children":["$","$Lc",null,{"href":"/","children":["$","h2",null,{"className":"Header_logo__dhboe","children":["$","$Ld",null,{"src":"/tangweijuan.svg","alt":"Tang Weijuan","width":159,"height":28}]}]}]}],["$","div",null,{"className":"Header_navRow__GDUFx","children":[["$","div","Illustration",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/illustration","className":"Header_navItem__6nLSG","children":"Illustration"}]}],["$","div","Blog",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/blog","className":"Header_activeNavItem__5rvSM","children":"Blog"}]}],["$","div","Weekly",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/weekly","className":"Header_navItem__6nLSG","children":"Weekly"}]}],["$","div","Project",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","a",null,{"href":"https://afterwork-design.github.io","className":"Header_navItem__6nLSG","target":"_blank","rel":"noopener noreferrer","children":["Project"," ",["$","span",null,{"style":{"fontSize":"13px","marginLeft":"2px"},"children":"↗"}]]}]}],["$","div","About",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/about","className":"Header_navItem__6nLSG","children":"About"}]}],["$","div","Rss",{"className":"Header_navItemWrapper___uqzh","style":{"cursor":"pointer"},"children":["$","$Lc",null,{"href":"/rss.xml","className":"Header_navItem__6nLSG","children":"Rss"}]}]]}]]}],["$","div",null,{"className":"post_content__P_T3J","children":[["$","div",null,{}],["$","div",null,{"className":"markdown-body undefined","children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"ArticleDate_date__5Y46o","children":[["$","div",null,{"children":"发布于:"}],["$","div",null,{"children":"2026/7/10"}]]}]]}],["$","div",null,{"className":"post_toc__EAIl9","children":["$","$L10",null,{"toc":[{"title":"产品图标设计策略调研","level":1,"href":"#产品图标设计策略调研"},{"title":"Autodesk","level":2,"href":"#autodesk"},{"title":"SIEMENS","level":2,"href":"#siemens"},{"title":"PTC","level":2,"href":"#ptc"},{"title":"中望","level":2,"href":"#中望"}]}]}]]}],["$","div",null,{"className":"ArticleNav_articleNav__kFVzL","children":[["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/first-impressions-of-the-figma-design-agent","children":["$","div",null,{"children":["上一篇：","Figma design agent 初体验"]}]}]}],["$","div",null,{"className":"$undefined","children":["$","$Lc",null,{"href":"/blog/mold","children":["$","div",null,{"children":["下一篇：","模具基础术语速查手册"]}]}]}]]}]]}]
