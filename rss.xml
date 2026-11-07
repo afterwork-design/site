@@ -9,9 +9,9 @@
             <link>https://tangweijuan.com</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 05:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 13:48:45 GMT</lastBuildDate>
         <atom:link href="https://tangweijuan.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 05:14:24 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 13:48:40 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2026, Ibas]]></copyright>
         <item>
             <title><![CDATA[【像素画】六毛]]></title>
@@ -944,8 +944,8 @@
         <item>
             <title><![CDATA[Creative Commons (CC) 协议详解与实例]]></title>
             <description><![CDATA[CC协议是什么？本文介绍四种核心要素、六种常见协议的区别，以及如何根据自己的需求选择。包含实例参考。]]></description>
-            <link>/blog/undefined</link>
-            <guid isPermaLink="false">/blog/undefined</guid>
+            <link>/blog/creative-commons-licenses</link>
+            <guid isPermaLink="false">/blog/creative-commons-licenses</guid>
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
